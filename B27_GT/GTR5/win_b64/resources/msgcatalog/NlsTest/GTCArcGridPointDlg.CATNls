@@ -1,0 +1,8 @@
+LabelReference.Title = "[~GTCArcGridPointDlg,LabelReference.Title~ Réference Pøînt ]";
+EditorReference.Help = "[~GTCArcGridPointDlg,EditorReference.Help~ Réference Pøînt]";
+EditorName.LongHelp = "[~GTCArcGridPointDlg,EditorName.LongHelp~ ]\n[~GTCArcGridPointDlg,EditorName.LongHelp~ Intérsectîøn Nåme]";
+EditorReference.LongHelp = "[~GTCArcGridPointDlg,EditorReference.LongHelp~ Réference Pøînt]";
+LabelName.Title = "[~GTCArcGridPointDlg,LabelName.Title~ Intérsectîøn Nåme ]";
+EditorName.ShortHelp = "[~GTCArcGridPointDlg,EditorName.ShortHelp~ Intérsectîøn Nåme]\n[~GTCArcGridPointDlg,EditorName.ShortHelp~ Intérsectîøn Nåme]";
+EditorReference.ShortHelp = "[~GTCArcGridPointDlg,EditorReference.ShortHelp~ Réference Pøînt]";
+EditorName.Help = "[~GTCArcGridPointDlg,EditorName.Help~ Intérsectîøn Nåme]\n[~GTCArcGridPointDlg,EditorName.Help~ Intérsectîøn Nåme]";

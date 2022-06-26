@@ -1,0 +1,3 @@
+ExtensionFeature.Container="GTCAttContainer";
+ExtensionFeature.Extends="GTCAttFeature,MechanicalFeature,ASMPRODUCT";
+ExtensionFeature.IsLocal="FALSE";

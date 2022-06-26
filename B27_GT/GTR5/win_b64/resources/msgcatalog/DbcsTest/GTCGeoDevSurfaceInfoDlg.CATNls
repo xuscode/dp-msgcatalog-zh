@@ -1,0 +1,4 @@
+InfoLabel.Title = "[十GTCGeoDevSurfaceInfoDlg,InfoLabel.Title十十十十十一構ソチ－This tool creates ruled surfaces which are as close as possible to being developable.]";
+InfoLabel2.Title = "[十GTCGeoDevSurfaceInfoDlg,InfoLabel2.Title十十十十十十十一構ソチ－The developability of surfaces can be assessed using the Gaussian Curvature analysis tool.]";
+ChkBtnHideShow.Title = "[十GTCGeoDevSurfaceInfoDlg,ChkBtnHideShow.Title十一構ソチ－ Do not show this message again. ]";
+InfoLabel3.Title = "[十GTCGeoDevSurfaceInfoDlg,InfoLabel3.Title十一構ソチ－  ]";

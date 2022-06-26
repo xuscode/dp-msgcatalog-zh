@@ -1,0 +1,8 @@
+GTCArcOpening = "[十GTCArcReferenceFrame,GTCArcOpening十一構ソチ－Opening]";
+GTCArcRefFrameMultiple = "[十GTCArcReferenceFrame,GTCArcRefFrameMultiple十一構ソチ－<Multiple>]";
+GTCArcSill = "[十GTCArcReferenceFrame,GTCArcSill十一構ソチ－Sill]";
+OrientationPositive = "[十GTCArcReferenceFrame,OrientationPositive十一構ソチ－+]";
+OrientationNeutral = "[十GTCArcReferenceFrame,OrientationNeutral十一構ソチ－o]";
+OrientationNegative = "[十GTCArcReferenceFrame,OrientationNegative十一構ソチ－-]";
+frameParent.labelLayer.Title = "[十GTCArcReferenceFrame,meParent.labelLayer.Title十一構ソチ－ Layer ]";
+frameParent.labelOffset.Title = "[十GTCArcReferenceFrame,eParent.labelOffset.Title十一構ソチ－ Offset ]";

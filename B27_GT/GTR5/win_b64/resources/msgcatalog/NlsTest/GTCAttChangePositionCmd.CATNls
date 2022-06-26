@@ -1,0 +1,4 @@
+GTCAttChangePositionCmd.InitialState.Message = "[~GTCAttChangePositionCmd,nCmd.InitialState.Message~  ]";
+GTCAttChangePositionCmd.SelActState.Message = "[~GTCAttChangePositionCmd,onCmd.SelActState.Message~ Sélect åctîvities]";
+GTCAttChangePositionCmd.SelectStartPosState.Message = "[~GTCAttChangePositionCmd,lectStartPosState.Message~ Sélect stårt pøînt or axis]";
+GTCAttChangePositionCmd.SelectEndPosState.Message = "[~GTCAttChangePositionCmd,SelectEndPosState.Message~ Sélect end pøînt or åxis]";

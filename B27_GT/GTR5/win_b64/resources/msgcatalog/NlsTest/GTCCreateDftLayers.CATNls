@@ -1,0 +1,4 @@
+Title = "[~GTCCreateDftLayers,Title~ Impørt Dråftîng Layérs from CSV/DXF/DWG File]";
+FrameMapFile.Title = "[~GTCCreateDftLayers,FrameMapFile.Title~ Sélect CSV/DXF/DWG fîle]";
+FrameLayerFile.Title = "[~GTCCreateDftLayers,FrameLayerFile.Title~ Dråftîng layér file]";
+FrameMapFile.PushButtonBrowseFile.Title = "[~GTCCreateDftLayers,ushButtonBrowseFile.Title~ Brøwsé...]";

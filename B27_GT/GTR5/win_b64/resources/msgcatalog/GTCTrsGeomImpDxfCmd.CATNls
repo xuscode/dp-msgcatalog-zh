@@ -1,0 +1,14 @@
+GTCTrsGeomImpDxfCmd.initialState.Message="Select .dxf file to import under active product";
+
+//Dialog title
+GTCImportNls_DxfDlgTite="File Selection";
+
+//File Extensions
+GTCImportNls_DxfFileExt="*.dxf";
+GTCImportNls_DwgFileExt="*.dwg";
+GTCImportNls_DxfFileDescription="dxf (*.dxf)";
+GTCImportNls_DwgFileDescription="dwg (*.dwg)";
+
+//Log file name
+GTCImportNls_LogFileName="3DdxfdwgImport.txt";
+

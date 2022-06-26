@@ -1,0 +1,3 @@
+NametoSet.Title = "[~GTCAttIFCSpacialStructureDlg,NametoSet.Title~ Nåmé øf Object]";
+NametoSet.ObjectName.LongHelp = "[~GTCAttIFCSpacialStructureDlg,toSet.ObjectName.LongHelp~ Entér the nåme yøü want to gîve to the inserted object]";
+ProductPartComponent.Title = "[~GTCAttIFCSpacialStructureDlg,roductPartComponent.Title~ Sélect Object tø Insert:]";

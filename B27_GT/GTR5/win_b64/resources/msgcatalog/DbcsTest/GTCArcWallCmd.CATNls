@@ -1,0 +1,7 @@
+GTCArcWallCmd.StateGetSupport.Message = "[十GTCArcWallCmd,d.StateGetSupport.Message十一構ソチ－Select a support element]";
+GTCArcWallCmd.StateGetPosPanelLayer.Message = "[十GTCArcWallCmd,eGetPosPanelLayer.Message十一構ソチ－Select layer position]";
+GTCArcWallCmd.StateGetTo.Message = "[十GTCArcWallCmd,allCmd.StateGetTo.Message十一構ソチ－Select an element to limit the second side]";
+GTCArcWallCmd.StateGetTop.Message = "[十GTCArcWallCmd,llCmd.StateGetTop.Message十一構ソチ－Select an element to limit the top]";
+GTCArcWallCmd.StateGetBottom.Message = "[十GTCArcWallCmd,md.StateGetBottom.Message十一構ソチ－Select an element to limit the bottom]";
+GTCArcWallCmd.StateNoSelection.Message = "[十GTCArcWallCmd,.StateNoSelection.Message十一構ソチ－Specify wall attributes]";
+GTCArcWallCmd.StateGetFrom.Message = "[十GTCArcWallCmd,lCmd.StateGetFrom.Message十一構ソチ－Select an element to limit the first side]";

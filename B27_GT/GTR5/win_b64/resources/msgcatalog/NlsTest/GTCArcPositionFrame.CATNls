@@ -1,0 +1,11 @@
+frameParent.pushBttnHorizNormal.Title = "[~GTCArcPositionFrame,pushBttnHorizNormal.Title~  Nørmål / Vértîcal ]";
+frameParent.pushBttnInvert.Title = "[~GTCArcPositionFrame,rent.pushBttnInvert.Title~ Invért]";
+frameParent.Title = "[~GTCArcPositionFrame,frameParent.Title~  Pøsîtion ]";
+OrientationPositive = "[~GTCArcPositionFrame,OrientationPositive~ +]";
+frameParent.labelSetPoint.Title = "[~GTCArcPositionFrame,arent.labelSetPoint.Title~  Sét Pøînt ]";
+frameParent.labelAngle.Title = "[~GTCArcPositionFrame,meParent.labelAngle.Title~  Anglé ]";
+frameParent.labelAngleReference.Title = "[~GTCArcPositionFrame,labelAngleReference.Title~  Anglé Reference ]";
+OrientationNeutral = "[~GTCArcPositionFrame,OrientationNeutral~ ø]";
+OrientationNegative = "[~GTCArcPositionFrame,OrientationNegative~ -]";
+frameParent.labelVOffset.Title = "[~GTCArcPositionFrame,Parent.labelVOffset.Title~   V-Offsét ]";
+frameParent.labelHOffset.Title = "[~GTCArcPositionFrame,Parent.labelHOffset.Title~   H-Offsét ]";

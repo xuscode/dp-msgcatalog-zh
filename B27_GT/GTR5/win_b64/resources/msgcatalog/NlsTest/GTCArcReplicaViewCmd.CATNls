@@ -1,0 +1,4 @@
+ErrorInWorkObj = "[~GTCArcReplicaViewCmd,ErrorInWorkObj~ Pléåse set a sheet as the în-wørk object.]";
+GTCArcReplicaViewCmd.SelectSupportState.Message = "[~GTCArcReplicaViewCmd,electSupportState.Message~ Sélect Plåne]";
+GTCArcReplicaViewCmd.SelectAxisState.Message = "[~GTCArcReplicaViewCmd,d.SelectAxisState.Message~ Sélect Axîs]";
+GTCArcReplicaViewCmd.SelectViewState.Message = "[~GTCArcReplicaViewCmd,d.SelectViewState.Message~ Sélect Dråftîng View]";

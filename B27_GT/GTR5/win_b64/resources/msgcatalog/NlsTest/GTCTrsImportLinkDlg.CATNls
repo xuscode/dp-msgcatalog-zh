@@ -1,0 +1,8 @@
+UnloadPartsCheck.Title = "[~GTCTrsImportLinkDlg,UnloadPartsCheck.Title~ Unløåd parts dürîng import]";
+Title = "[~GTCTrsImportLinkDlg,Title~ Impørt DFX/DWG Fîlé With Link]";
+Frame001.Title = "[~GTCTrsImportLinkDlg,Frame001.Title~ Sélect fîle tø import:]";
+Frame004.BrowseFolderBtn.Title = "[~GTCTrsImportLinkDlg,004.BrowseFolderBtn.Title~ Brøwsé...]";
+Frame001.BrowseFileNameBtn.Title = "[~GTCTrsImportLinkDlg,1.BrowseFileNameBtn.Title~ Brøwsé...]";
+Frame004.Title = "[~GTCTrsImportLinkDlg,Frame004.Title~ Sélect følder to såve prodüct:]";
+BrowseFolderTitle = "[~GTCTrsImportLinkDlg,BrowseFolderTitle~ Sélect følder]";
+BrowseFileTitle = "[~GTCTrsImportLinkDlg,BrowseFileTitle~ Sélect fîle]";

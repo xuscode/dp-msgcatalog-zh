@@ -1,0 +1,2 @@
+GTCAttCreateActivitiesCmd.NeutralState.Message = "[~GTCAttCreateActivitiesCmd,sCmd.NeutralState.Message~  ]";
+GTCAttCreateActivitiesCmd.SelectElementState.Message = "[~GTCAttCreateActivitiesCmd,electElementState.Message~ Sélect elements]";

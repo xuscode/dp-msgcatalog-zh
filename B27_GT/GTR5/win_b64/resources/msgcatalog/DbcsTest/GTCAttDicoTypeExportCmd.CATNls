@@ -1,0 +1,3 @@
+Title = "[十GTCAttDicoTypeExportCmd,Title十一構ソチ－Export Current Dictionary to CSV File]";
+FrameCSVFile.Title = "[十GTCAttDicoTypeExportCmd,FrameCSVFile.Title十一構ソチ－Save CSV file to]";
+FrameCSVFile.PushButtonBrowseCSVFile.Title = "[十GTCAttDicoTypeExportCmd,ButtonBrowseCSVFile.Title十一構ソチ－Browse...]";

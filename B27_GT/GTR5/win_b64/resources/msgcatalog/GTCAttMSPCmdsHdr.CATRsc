@@ -1,0 +1,21 @@
+// == MS Project Get Project Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPGetProjectCmdHdr.Icon.Normal          = "I_GTCAttGetProject";
+GTCAttMSPCmdsHdr.GTCAttMSPGetProjectCmdHdr.LongHelpId			= "GTCAttMSPCmdsHdr.GTCMSPGetProjectCmdHdr";
+
+// == MS Project Get Activities Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPGetActivitiesCmdHdr.Icon.Normal          = "I_GTCAttGetProjectTasks";
+GTCAttMSPCmdsHdr.GTCAttMSPGetActivitiesCmdHdr.LongHelpId			= "GTCAttMSPCmdsHdr.GTCMSPGetActivitiesCmdHdr";
+
+// == MS Project Export Activities Command ==
+GTCAttMSPCmdsHdr.GTCAttMSPExportActivitiesCmdHdr.Icon.Normal          = "I_GTCAttPutProjectTasks";
+GTCAttMSPCmdsHdr.GTCAttMSPExportActivitiesCmdHdr.LongHelpId			= "GTCAttMSPCmdsHdr.GTCMSPExportActivitiesCmdHdr";
+
+
+// == MS Project Sync Command ==
+GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr.Icon.Normal          = "I_GTCAttSyncProjectTasks";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr.LongHelpId			= "GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr";
+
+// == MS Project Sync Command ==
+GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr.Icon.Normal          = "I_GTCAttSyncProjectTasks";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr.LongHelpId			= "GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr";
+

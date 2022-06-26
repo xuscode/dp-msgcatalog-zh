@@ -1,0 +1,50 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+// END WIZARD REPLACEMENT ZONE
+
+//eduardo
+Title = "Simulation";
+
+buttonFrame.PushBTN_Apply.Title = "     Apply     ";
+
+buttonFrame.PushBTN_Reset.Title = "     Reset     ";
+
+spinnerFrame.SpinnerLabel.Title = " Simulation Date: ";
+
+ProjSimTitle = "Project Simulation: ";
+
+
+
+
+TabContainer.Permanent.Title = "Permanent";
+TabContainer.Temporary.Title = "Temporary";
+TabContainer.Demolish.Title = "Demolish";
+
+
+// TabPage 
+TabContainer.Permanent.StatusLbl.Title		= "     Status     ";
+TabContainer.Permanent.HideLbl.Title		= "Hide";
+TabContainer.Permanent.ColorLbl.Title		= "Color     ";
+
+TabContainer.Permanent.NotStartLbl.Title	= "     Not Started:  ";
+TabContainer.Permanent.InProgressLbl.Title	= "     In Progress:  ";
+TabContainer.Permanent.DoneLbl.Title		= "     Done:  ";
+
+TabContainer.Temporary.StatusLbl.Title		= "     Status     ";
+TabContainer.Temporary.HideLbl.Title		= "Hide";
+TabContainer.Temporary.ColorLbl.Title		= "Color     ";
+
+TabContainer.Temporary.NotStartLbl.Title	= "     Not Started:  ";
+TabContainer.Temporary.InProgressLbl.Title	= "     In Progress:  ";
+TabContainer.Temporary.DoneLbl.Title		= "     Done:  ";
+
+TabContainer.Demolish.StatusLbl.Title		= "     Status     ";
+TabContainer.Demolish.HideLbl.Title		= "Hide";
+TabContainer.Demolish.ColorLbl.Title		= "Color     ";
+
+TabContainer.Demolish.NotStartLbl.Title	= "     Not Started:  ";
+TabContainer.Demolish.InProgressLbl.Title	= "     In Progress:  ";
+TabContainer.Demolish.DoneLbl.Title		= "     Done:  ";
+
+WarningMsg1 = "Microsoft Project is not installed on this machine!";
+WarningMsg2 = "Could not find the specified project file!";

@@ -1,0 +1,3 @@
+// == Update layer List ==
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.Icon.Normal = "I_GTCUpdateLayerListCmd";
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.LongHelpId = "GTCDftCommandsHeader.GTCDftUpdateViewsHdr";

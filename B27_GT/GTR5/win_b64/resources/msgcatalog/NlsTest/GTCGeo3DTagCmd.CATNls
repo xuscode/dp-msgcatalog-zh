@@ -1,0 +1,2 @@
+GTCGeo3DTagCmd.StateInitial.Message = "[~GTCGeo3DTagCmd,gCmd.StateInitial.Message~ Sélect løcåtîon to tag]";
+GTCGeo3DTagCmd.StateNoSelection.Message = "[~GTCGeo3DTagCmd,.StateNoSelection.Message~ Clîck Apply tø créåte/üpdate tag]";

@@ -1,0 +1,12 @@
+UnloadPartsCheck.Title = "[~GTCTrsReimportStatusCmd,UnloadPartsCheck.Title~ Unløåd parts dürîng import]";
+ReadOnlyFilesWarning = "[~GTCTrsReimportStatusCmd,ReadOnlyFilesWarning~ Thé føllowîng files thåt belong to this prodüct are read-only.]\n[~GTCTrsReimportStatusCmd,ReadOnlyFilesWarning~ Pléåse ünset the read-ønly flags and try agaîn.]\n[~GTCTrsReimportStatusCmd,ReadOnlyFilesWarning~ ]\n[~GTCTrsReimportStatusCmd,ReadOnlyFilesWarning~ ]";
+Title = "[~GTCTrsReimportStatusCmd,Title~ Updåté Impørted Fîles]";
+ImportList.ColumnTitle6 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle6~ Mødîfiéd Time On Disk]";
+ImportList.ColumnTitle3 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle3~ Révîsiøn]";
+ImportList.ColumnTitle2 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle2~ Fîlé Type]";
+ImportList.ColumnTitle5 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle5~ Mødîfiéd Time On Låst Import]";
+ImportList.ColumnTitle4 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle4~ Impørt Fîlé]";
+ImportList.ColumnTitle1 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle1~ Nåmé]";
+ReimportBtn.Title = "[~GTCTrsReimportStatusCmd,ReimportBtn.Title~   Réîmpørt  ]";
+DeletePartsWarning = "[~GTCTrsReimportStatusCmd,DeletePartsWarning~ Obsøléte pårts and CATParts wîll be deleted and can not be recovered.]";
+ImportList.ColumnTitle7 = "[~GTCTrsReimportStatusCmd,ImportList.ColumnTitle7~ Ståtüs]";

@@ -1,0 +1,13 @@
+Unit2 = "[十GTCTrsCIS2Command,Unit2十一構ソチ－Centimeter]";
+Title = "[十GTCTrsCIS2Command,Title十一構ソチ－CIS/2 Export]";
+FrameDocument.PushButtonBrowse.Title = "[十GTCTrsCIS2Command,nt.PushButtonBrowse.Title十一構ソチ－...]";
+FrameDocument.Title = "[十GTCTrsCIS2Command,FrameDocument.Title十一構ソチ－Document]";
+FrameDocument.LabelFileName.Title = "[十GTCTrsCIS2Command,ument.LabelFileName.Title十一構ソチ－File Name]";
+Unit5 = "[十GTCTrsCIS2Command,Unit5十一構ソチ－Foot]";
+FrameDocument.LabelProduct.Title = "[十GTCTrsCIS2Command,cument.LabelProduct.Title十一構ソチ－Project Model]";
+Unit4 = "[十GTCTrsCIS2Command,Unit4十一構ソチ－Inch]";
+FrameDocument.LabelUnit.Title = "[十GTCTrsCIS2Command,eDocument.LabelUnit.Title十一構ソチ－Length Unit]";
+Unit6 = "[十GTCTrsCIS2Command,Unit6十一構ソチ－Micrometer]";
+Unit1 = "[十GTCTrsCIS2Command,Unit1十一構ソチ－Meter]";
+Unit0 = "[十GTCTrsCIS2Command,Unit0十一構ソチ－Millimeter]";
+Unit3 = "[十GTCTrsCIS2Command,Unit3十一構ソチ－Kilometer]";

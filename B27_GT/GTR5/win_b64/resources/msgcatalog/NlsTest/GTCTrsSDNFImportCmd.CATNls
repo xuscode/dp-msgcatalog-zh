@@ -1,0 +1,7 @@
+Title = "[~GTCTrsSDNFImportCmd,Title~ SDNF Impørt]";
+FrameOptions.CheckButtonUseAngle.Title = "[~GTCTrsSDNFImportCmd,CheckButtonUseAngle.Title~  Usé Angle ]";
+FrameOptions.Title = "[~GTCTrsSDNFImportCmd,FrameOptions.Title~  Optîøns ]";
+FrameOptions.RadioStartToEnd.Title = "[~GTCTrsSDNFImportCmd,ons.RadioStartToEnd.Title~  Stårt Pøînt to End Point ]";
+FrameOptions.RadioEndToStart.Title = "[~GTCTrsSDNFImportCmd,ons.RadioEndToStart.Title~  End Pøînt to Stårt Point ]";
+PushButtonBrowse.Title = "[~GTCTrsSDNFImportCmd,PushButtonBrowse.Title~ ...]";
+FrameOptions.CkBttnAnchorPts.Title = "[~GTCTrsSDNFImportCmd,ons.CkBttnAnchorPts.Title~  Swåp Léft and Rîght Side Anchør Points ]";

@@ -1,0 +1,34 @@
+
+// == Developable Surface Cmd ==
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.Title		= "Developable Surface...";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.Help		= "Creates a developable surface";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.LongHelp	= "Creates a developable surface from two curves";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.ShortHelp	= "Developable Surface";
+
+
+// == general geometry UI : no selection ==
+GTCGeoNoSelection = "no selection";
+
+// == 3D Tag Cmd ==
+GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr.Title		= "3D Tag...";
+GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr.Help		= "Creates a Tag";
+GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr.LongHelp		= "Creates a simple tag";
+GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr.ShortHelp	= "3D Tag";
+
+// == Smart Tag Cmd ==
+GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr.Title		= "Smart Tag...";
+GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr.Help		= "Creates a Smart Tag";
+GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr.LongHelp	= "Creates a Smart Tag";
+GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr.ShortHelp	= "Smart Tag";
+
+// == Update Tag Cmd ==
+GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr.Title	= "Update Smart Tags...";
+GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr.Help		= "Updates all Smart Tags";
+GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr.LongHelp	= "Updates all Smart Tags";
+GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr.ShortHelp	= "Update Smart Tags";
+
+// == Sketch output Cmd ==
+GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr.Title	= "Sketch Outputs...";
+GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr.Help	= "Create sketch outputs for all lines and curves";
+GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr.LongHelp	= "Create sketch outputs for all lines and curves";
+GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr.ShortHelp	= "Sketch Outputs";

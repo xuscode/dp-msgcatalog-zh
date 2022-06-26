@@ -1,0 +1,16 @@
+Label011.Title = "[~GTCArcGridViewDlg,Label011.Title~     ]";
+Label004.Title = "[~GTCArcGridViewDlg,Label004.Title~         ]";
+SelectGridFrame.ClearBtn.Title = "[~GTCArcGridViewDlg,tGridFrame.ClearBtn.Title~       Cléår      ]";
+GVSLabel.Title = "[~GTCArcGridViewDlg,GVSLabel.Title~ GVS]";
+SelectGridFrame.RemoveGridBtn.Title = "[~GTCArcGridViewDlg,Frame.RemoveGridBtn.Title~    Rémøve   ]";
+SelectGridFrame.Label018.Title = "[~GTCArcGridViewDlg,tGridFrame.Label018.Title~   ]";
+NewTitle = "[~GTCArcGridViewDlg,NewTitle~  Néw Grîd View ]";
+SupportLabel.Title = "[~GTCArcGridViewDlg,SupportLabel.Title~ Süppørt]";
+BoundaryLabel.Title = "[~GTCArcGridViewDlg,BoundaryLabel.Title~ Bøündåry]";
+ReverseDirBtn.Title = "[~GTCArcGridViewDlg,ReverseDirBtn.Title~ Réverse Dîrectiøn]";
+Label005.Title = "[~GTCArcGridViewDlg,Label005.Title~                                                   ]";
+Label019.Title = "[~GTCArcGridViewDlg,Label019.Title~                                                    ]";
+EditTitle = "[~GTCArcGridViewDlg,EditTitle~  Edît Grid Viéw ]";
+NameLabel.Title = "[~GTCArcGridViewDlg,NameLabel.Title~ Nåmé]";
+SelectGridFrame.Title = "[~GTCArcGridViewDlg,SelectGridFrame.Title~ Sélect Grîds]";
+AxisLabel.Title = "[~GTCArcGridViewDlg,AxisLabel.Title~ Axîs]";

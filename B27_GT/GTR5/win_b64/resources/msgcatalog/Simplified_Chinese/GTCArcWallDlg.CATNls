@@ -1,0 +1,38 @@
+NewTitle = " New Wall ";
+EditTitle = " Edit Wall ";
+
+
+frameSupport.labelName.Title = " Name ";
+
+frameSupport.labelSupportLayer.Title = " Layer ";
+frameSupport.labelSupportOffset.Title = " Offset ";
+frameSupport.labelSupport.Title = " Support   ";
+//frameSupport.ckboxAutoConnectWalls.Title = " Auto Connect ";
+
+
+framePosition.Title = " Position ";
+framePosition.pushBttnInvert.Title = " Invert ";
+framePosition.labelPositionLayer.Title = " Layer ";
+framePosition.labelPositionOffset.Title = " Offset ";
+
+frameLimObj.labelLimObjLayer.Title = " Layer ";
+frameLimObj.labelLimObjOffset.Title = " Offset ";
+frameLimObj.labelTop.Title = " Top ";
+frameLimObj.buttonTop.Title = "...";
+frameLimObj.labelBottom.Title = " Bottom ";
+frameLimObj.labelFrom.Title = " From ";
+frameLimObj.labelTo.Title = " To ";
+
+frameLimObj.frameAutoCnx.ckboxAutoConnectWalls.Title = " Auto Connect ";
+
+frameOutputs.Title = " Outputs ";
+frameOutputs.chkBtnStructPanel.Title = " Structural Panel ";
+frameOutputs.chkBtnEnvelope.Title = " Envelope ";
+frameOutputs.chkBtnCoreSolid.Title = " Core Solid ";
+frameOutputs.chkBtnNonStructPanel.Title = " Partition Panel ";
+frameOutputs.labelStrPanel.Title = " Structural Panel Layer   ";
+frameOutputs.labelNonStrPanel.Title = " Layer ";
+
+frameOutputs.labelSegments.Title = "   Segments ";
+
+GTCArcWallMultiple = "<Multiple>";

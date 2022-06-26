@@ -1,0 +1,3 @@
+GTCDftLinkDittoCmd.SelectItemState.Message = "[~GTCDftLinkDittoCmd,d.SelectItemState.Message~ Sélect å generated îtem ør a 3D item]";
+LinkDittoFailed = "[~GTCDftLinkDittoCmd,LinkDittoFailed~ Cånnøt lînk ditto to thé object.]";
+GTCDftLinkDittoCmd.SelectDittoState.Message = "[~GTCDftLinkDittoCmd,.SelectDittoState.Message~ Sélect å dîttø]";

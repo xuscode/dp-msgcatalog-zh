@@ -1,0 +1,5 @@
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Icon.Normal = "I_GTCChangePosition";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.LongHelpId		= "GTCAttActivityCmdsHdr.GTCAttChangePositionHdr";
+
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Icon.Normal = "I_GTCCreateActivities";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.LongHelpId		= "GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr";

@@ -1,0 +1,3 @@
+GTCDftLinkDittoCmd.SelectItemState.Message = "[十GTCDftLinkDittoCmd,d.SelectItemState.Message十一構ソチ－Select a generated item or a 3D item]";
+LinkDittoFailed = "[十GTCDftLinkDittoCmd,LinkDittoFailed十一構ソチ－Cannot link ditto to the object.]";
+GTCDftLinkDittoCmd.SelectDittoState.Message = "[十GTCDftLinkDittoCmd,.SelectDittoState.Message十一構ソチ－Select a ditto]";

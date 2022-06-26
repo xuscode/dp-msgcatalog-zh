@@ -1,0 +1,3 @@
+GTCAttPkgCopyCmd.ConfirmState.Message = "[十GTCAttPkgCopyCmd,yCmd.ConfirmState.Message十一構ソチ－Confirm or cancel.]";
+GTCAttPkgCopyCmd.ProdFromState.Message = "[十GTCAttPkgCopyCmd,Cmd.ProdFromState.Message十一構ソチ－Choose a part to transfer attributes from.]";
+GTCAttPkgCopyCmd.ProdToState.Message = "[十GTCAttPkgCopyCmd,pyCmd.ProdToState.Message十一構ソチ－Choose a part to transfer attributes to.]";

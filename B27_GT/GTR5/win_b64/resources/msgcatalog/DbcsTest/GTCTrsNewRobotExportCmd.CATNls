@@ -1,0 +1,2 @@
+GTCTrsRobotFileChooserDlg = "[十GTCTrsNewRobotExportCmd,GTCTrsRobotFileChooserDlg十一構ソチ－Robot File]";
+GTCTrsNewRobotExportCmd.InitState.Message = "[十GTCTrsNewRobotExportCmd,portCmd.InitState.Message十一構ソチ－Select a Robot file]";

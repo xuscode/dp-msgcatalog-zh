@@ -1,0 +1,4 @@
+GTCArcDoorCatalogFrame.labelDoor.Title = "[~GTCArcDoorFillDlg,alogFrame.labelDoor.Title~ Døor]";
+frameTop.labelSupport.Title = "[~GTCArcDoorFillDlg,ameTop.labelSupport.Title~  Opénîng ]";
+titleDoor = "[~GTCArcDoorFillDlg,titleDoor~ Døor]";
+GTCArcMemberMultiple = "[~GTCArcDoorFillDlg,GTCArcMemberMultiple~ <Mültîplé>]";

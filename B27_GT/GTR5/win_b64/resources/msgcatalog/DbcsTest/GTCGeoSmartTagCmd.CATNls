@@ -1,0 +1,3 @@
+GTCGeoSmartTagCmd.StateSelectParent.Message = "[十GTCGeoSmartTagCmd,StateSelectParent.Message十一構ソチ－Select reference object]";
+GTCGeoSmartTagCmd.StateNoSelection.Message = "[十GTCGeoSmartTagCmd,.StateNoSelection.Message十一構ソチ－Click Apply to create/update tag]";
+GTCGeoSmartTagCmd.StateSelectLocation.Message = "[十GTCGeoSmartTagCmd,ateSelectLocation.Message十一構ソチ－Select location to tag]";

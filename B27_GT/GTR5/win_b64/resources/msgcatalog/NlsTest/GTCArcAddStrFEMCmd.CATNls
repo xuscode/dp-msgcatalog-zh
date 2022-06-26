@@ -1,0 +1,2 @@
+Title = "[~GTCArcAddStrFEMCmd,Title~ Géneråte FEM pølygon]";
+GTCArcAddStrFEMCmd.InitState.Message = "[~GTCArcAddStrFEMCmd,rFEMCmd.InitState.Message~ Sélect årchîtectüral elements, curves ør surfaces.]";

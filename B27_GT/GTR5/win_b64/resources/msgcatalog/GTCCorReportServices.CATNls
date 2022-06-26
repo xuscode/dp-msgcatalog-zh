@@ -1,0 +1,13 @@
+GTCMultipleInstances = "<Multiple>";
+
+GTCCorErrorOccurred = "## ERROR ##";
+
+GTCCorUnknown = "## UNKNOWN ##";
+
+// Run Section Shapes
+GTCCorRunSectionNone = "None";
+GTCCorRunSectionRect = "Rectangular";
+GTCCorRunSectionRound = "Round";
+GTCCorRunSectionFlatOval = "Flat Oval";
+GTCCorRunSectionRadiusCorner = "Radius Corner";
+GTCCorRunSectionDblRidge = "Double Ridge";

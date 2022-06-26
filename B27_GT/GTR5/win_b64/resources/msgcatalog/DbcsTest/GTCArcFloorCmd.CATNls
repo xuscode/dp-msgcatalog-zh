@@ -1,0 +1,3 @@
+GTCArcFloorCmd.StateGetSupport.Message = "[十GTCArcFloorCmd,d.StateGetSupport.Message十一構ソチ－Select a support element]";
+GTCArcFloorCmd.StateGetLimits.Message = "[十GTCArcFloorCmd,md.StateGetLimits.Message十一構ソチ－Select limiting elements to create slab contour]";
+GTCArcFloorCmd.StateNoSelection.Message = "[十GTCArcFloorCmd,.StateNoSelection.Message十一構ソチ－Specify slab attributes]";

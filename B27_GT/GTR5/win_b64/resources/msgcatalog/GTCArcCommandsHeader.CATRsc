@@ -1,0 +1,255 @@
+
+//===================================================================
+// GRIDS
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcGridCmdHdr.Icon.Normal = "I_GTCArcGridCmd.bmp";
+GTCArcCommandsHeader.GTCArcGridCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcGridCmdHdr";
+
+GTCArcCommandsHeader.GTCArcAddLevelCmdHdr.Icon.Normal = "I_GTCArcLevelCmd.bmp";
+GTCArcCommandsHeader.GTCArcAddLevelCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcAddLevelCmdHdr";
+
+GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr.Icon.Normal = "I_GTCArcGridLineCmd.bmp";
+GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr";
+
+
+GTCArcCommandsHeader.GTCArcGridPointCmdHdr.Icon.Normal = "I_GTCArcGridPointCmd.bmp";
+GTCArcCommandsHeader.GTCArcGridPointCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcGridPointCmdHdr";
+
+GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr.Icon.Normal = "I_GTCArcPlaneIntersectionCmd.bmp";
+GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr";
+
+
+//===================================================================
+// BUILDING ELEMENT CREATION
+//===================================================================
+GTCArcCommandsHeader.GTCArcWallCmdHdr.Icon.Normal = "I_GTCArcWall.bmp";
+GTCArcCommandsHeader.GTCArcWallCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcWallCmdHdr";
+
+GTCArcCommandsHeader.GTCArcFloorCmdHdr.Icon.Normal = "I_GTCArcSlab.bmp";
+GTCArcCommandsHeader.GTCArcFloorCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcFloorCmdHdr";
+
+GTCArcCommandsHeader.GTCArcBeamCmdHdr.Icon.Normal = "I_GTCArcBeam.bmp";
+GTCArcCommandsHeader.GTCArcBeamCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcBeamCmdHdr";
+
+GTCArcCommandsHeader.GTCArcColumnCmdHdr.Icon.Normal = "I_GTCArcColumn.bmp";
+GTCArcCommandsHeader.GTCArcColumnCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcColumnCmdHdr";
+
+GTCArcCommandsHeader.GTCArcRibCmdHdr.Icon.Normal = "I_UserWorkMenu.bmp";
+GTCArcCommandsHeader.GTCArcRibCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcRibCmdHdr";
+
+GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr.Icon.Normal = "I_GTCArcMultiSptBeam.bmp";
+GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr";
+
+
+
+
+
+//===================================================================
+// MULTI EDIT
+//===================================================================
+GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr.Icon.Normal = "I_GTCArcBldgElemMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditWallsHdr.Icon.Normal = "I_GTCArcWallMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditWallsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditWallsHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr.Icon.Normal = "I_GTCArcBeamMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr.Icon.Normal = "I_GTCArcColumnMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr.Icon.Normal = "I_GTCArcWallMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr.Icon.Normal = "I_GTCArcBeamMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr.Icon.Normal = "I_GTCArcColumnMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr";
+
+GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr.Icon.Normal = "I_GTCArcBeamMultiEdit.bmp";
+GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr";
+
+//===================================================================
+// Openings
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr.Icon.Normal = "I_GTCArcContourOpn.bmp";
+GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr";
+
+GTCArcCommandsHeader.GTCArcOpeningCmdHdr.Icon.Normal = "I_GTCArcSweepOpn.bmp";
+GTCArcCommandsHeader.GTCArcOpeningCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcOpeningCmdHdr";
+
+GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr.Icon.Normal = "I_GTCArcDoorOpn.bmp";
+GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr";
+
+GTCArcCommandsHeader.GTCArcWindowElevCmdHdr.Icon.Normal = "I_GTCArcWindowElevCmd.bmp";
+GTCArcCommandsHeader.GTCArcWindowElevCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcWindowElevCmdHdr";
+
+GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr.Icon.Normal = "I_GTCArcWindowOpn.bmp";
+GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr";
+
+GTCArcCommandsHeader.GTCArcDoorFillCmdHdr.Icon.Normal = "I_UserWorkMenu.bmp";
+GTCArcCommandsHeader.GTCArcDoorFillCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcDoorFillCmdHdr";
+
+//===================================================================
+// Layers
+//===================================================================
+GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr.Icon.Normal = "I_UserWorkMenu.bmp";
+GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr";
+
+GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr.Icon.Normal = "I_UserWorkMenu.bmp";
+GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr";
+
+GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr.Icon.Normal = "I_UserWorkMenu.bmp";
+GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr";
+
+//===================================================================
+// FEM
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr.Icon.Normal = "I_GTCAddStrFEMCmd.bmp";
+GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr";
+
+GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr.Icon.Normal = "I_GTCUpdateStrFEMNumberCmd.bmp";
+GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr";
+
+GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr.Icon.Normal = "I_GTCArcAnalytSpacesCmd.bmp";
+GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr";
+
+
+
+//===================================================================
+// Update Quantities
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr.Icon.Normal = "I_GTCArcUpdQtyCmd.bmp";
+GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr";
+
+
+//===================================================================
+// Spaces
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcSpaceCmdHdr.Icon.Normal = "I_GTCArcSpace.bmp";
+GTCArcCommandsHeader.GTCArcSpaceCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSpaceCmdHdr";
+
+//===================================================================
+// Connection Tools
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr.Icon.Normal = "I_GTCArcSpaceConnUpdate.bmp";
+GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr";
+
+//===================================================================
+// SDNF
+//===================================================================
+GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr.Icon.Normal = "I_GTCSDNFExport";
+GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr";
+
+GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr.Icon.Normal = "I_GTCSDNFImport";
+GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr";
+
+
+
+//===================================================================
+// CUSTOM (UNSPEC) BUILDING ELMENTS
+//===================================================================
+
+//============ Custom (Unspec) Bldg Element ==============
+GTCArcCommandsHeader.GTCArcCustomBldgElHdr.Icon.Normal = "I_GTCIFCBuildingElementCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomBldgElHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomBldgElHdr";
+
+GTCArcCommandsHeader.GTCArcCustomSlabHdr.Icon.Normal = "I_GTCIFCSlabCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomSlabHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomSlabHdr";
+
+GTCArcCommandsHeader.GTCArcCustomRoofHdr.Icon.Normal = "I_GTCIFCRoofCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomRoofHdr.LongHelpId = "GTCArcCustomRoofHdr.GTCArcCustomBldgElHdr";
+
+GTCArcCommandsHeader.GTCArcCustomWallHdr.Icon.Normal = "I_GTCIFCWallCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomWallHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomWallHdr";
+
+GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr.Icon.Normal = "I_GTCIFCCurtainWallCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr";
+
+GTCArcCommandsHeader.GTCArcCustomStairHdr.Icon.Normal = "I_GTCIFCStairCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomStairHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomStairHdr";
+
+GTCArcCommandsHeader.GTCArcCustomStairFlightHdr.Icon.Normal = "I_GTCIFCStairFlightCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomStairFlightHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomStairFlightHdr";
+
+GTCArcCommandsHeader.GTCArcCustomRampHdr.Icon.Normal = "I_GTCIFCRampCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomRampHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomRampHdr";
+
+GTCArcCommandsHeader.GTCArcCustomRampFlightHdr.Icon.Normal = "I_GTCIFCRampFlightCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomRampFlightHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomRampFlightHdr";
+
+GTCArcCommandsHeader.GTCArcCustomRailingHdr.Icon.Normal = "I_GTCIFCRailingCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomRailingHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomRailingHdr";
+
+GTCArcCommandsHeader.GTCArcCustomColumnHdr.Icon.Normal = "I_GTCIFCColumnCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomColumnHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomColumnHdr";
+
+GTCArcCommandsHeader.GTCArcCustomBeamHdr.Icon.Normal = "I_GTCIFCBeamCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomBeamHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomBeamHdr";
+
+GTCArcCommandsHeader.GTCArcCustomMemberHdr.Icon.Normal = "I_GTCIFCMemberCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomMemberHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomMemberHdr";
+
+GTCArcCommandsHeader.GTCArcCustomPlateHdr.Icon.Normal = "I_GTCIFCPlateCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomPlateHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomPlateHdr";
+
+GTCArcCommandsHeader.GTCArcCustomFootingHdr.Icon.Normal = "I_GTCIFCFootingCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomFootingHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomFootingHdr";
+
+GTCArcCommandsHeader.GTCArcCustomPileHdr.Icon.Normal = "I_GTCIFCPileCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomPileHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomPileHdr";
+
+GTCArcCommandsHeader.GTCArcCustomCoveringHdr.Icon.Normal = "I_GTCIFCCoveringCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomCoveringHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomCoveringHdr";
+
+GTCArcCommandsHeader.GTCArcCustomTransportElHdr.Icon.Normal = "I_GTCIFCTransportElementCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomTransportElHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomTransportElHdr";
+
+GTCArcCommandsHeader.GTCArcCustomFurnishElHdr.Icon.Normal = "I_GTCIFCFurnishingElementCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomFurnishElHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomFurnishElHdr";
+
+GTCArcCommandsHeader.GTCArcCustomDistElHdr.Icon.Normal = "I_GTCIFCDistributionElementCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomDistElHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomDistElHdr";
+
+GTCArcCommandsHeader.GTCArcCustomDetailElHdr.Icon.Normal = "I_GTCIFCDetailingElementCmd.bmp";
+GTCArcCommandsHeader.GTCArcCustomDetailElHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCustomDetailElHdr";
+
+
+GTCArcCommandsHeader.GTCArcRemoveSolidHdr.Icon.Normal = "I_GTCArcRemoveSolidCmd.bmp";
+GTCArcCommandsHeader.GTCArcRemoveSolidHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcRemoveSolidHdr";
+
+GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr.Icon.Normal = "I_GTCArcCreateCoveringCmd.bmp";
+GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr";
+
+// GTCArcCommandsHeader.GTCArcSyncProxyCmdHdr.Icon.Normal = "I_GTCArcSyncProxy.bmp";
+GTCArcCommandsHeader.GTCArcSyncProxyCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCreateProxyHdr";
+
+// GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.Icon.Normal = "I_GTCArcSyncProxy.bmp";
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr";
+
+// GTCArcCommandsHeader.GTCArcShowProxyParentCmdHdr.Icon.Normal = "I_GTCArcShowProxyRef.bmp";
+GTCArcCommandsHeader.GTCArcShowProxyParentCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcCreateProxyHdr";
+
+GTCArcCommandsHeader.GTCArcCreateSunSourceCmdHdr.Icon.Normal = "I_Brightness.bmp";
+GTCArcCommandsHeader.GTCArcCreateSunSourceCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcGridCmdHdr";
+
+
+
+//=============== Sync proxies =========================
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.Icon.Normal = "I_GTCArcSyncAllProxies.bmp";
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr";
+
+//===================================================================
+// Arc Selection Filter
+//===================================================================
+
+GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr.Icon.Normal = "GTCArcSelectionCmd.bmp";
+GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr.LongHelpId = "GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr";

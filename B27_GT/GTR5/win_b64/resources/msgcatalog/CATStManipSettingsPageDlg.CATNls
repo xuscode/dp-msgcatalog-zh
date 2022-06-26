@@ -1,0 +1,101 @@
+TranslatorLook.HeaderFrame.Global.Title="Translator properties";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorColorLabel.Title = "Color";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorColorCombo.ShortHelp = "Translator's color";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorColorCombo.LongHelp = "Choose the translators color";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorCrossLabel.Title = "Cross";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorArrowLook.ShortHelp = "Translator's cross type ";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorArrowLook.LongHelp = "Choose the translators cross type";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorPointLabel.Title = "Center";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorCenterLook.ShortHelp = "Translator's center point type";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorCenterLook.LongHelp = "Choose the translators center point type";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.ShortHelp="Magnetizes translator to mouse cursor";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.LongHelp="Magnetizes the translator to current mouse position.
+This may result in an intial jump to position the translator exactly onto the mouse cursor";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.MeshPointSelectFeedback.ShortHelp="Activates a feedback on point pre-selection";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.MeshPointSelectFeedback.LongHelp="Activates a feedback on point pre-selection.";
+
+
+MeshProperties.HeaderFrame.Global.Title = "Mesh properties";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUColorLabel.Title = "Color U";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUColorCombo.ShortHelp = "Mesh U color";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUColorCombo.LongHelp = "Choose the mesh U color";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUTypeLabel.Title = "Type U";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUTypeCombo.ShortHelp = "Mesh U line type";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUTypeCombo.LongHelp = "Choose the mesh U line type";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUThicknessLabel.Title = "Thickness U";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUThicknessCombo.ShortHelp = "Mesh U thickness";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshUThicknessCombo.LongHelp = "Choose the mesh U thickness";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVColorLabel.Title = "Color V";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVColorCombo.ShortHelp = "Mesh V color";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVColorCombo.LongHelp = "Choose the mesh V color";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVTypeLabel.Title = "Type V";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVTypeCombo.ShortHelp = "Mesh V line type";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVTypeCombo.LongHelp = "Choose the mesh V line type";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVThicknessLabel.Title = "Thickness V";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVThicknessCombo.ShortHelp = "Mesh V thickness";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshVThicknessCombo.LongHelp = "Choose the mesh V thickness";
+
+// new labels of category
+MeshProperties.IconAndOptionsFrame.OptionsFrame.SurfacePropLabel.Title ="Surface ";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FacePropLabel.Title = "Face";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.PointPropLabel.Title = "Point";
+
+// new properties for faces and  mesh point
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUColorLabel.Title = "Color U";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUColorCombo.ShortHelp = "Mesh U color";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUColorCombo.LongHelp = "Choose the mesh U color";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUTypeLabel.Title = "Type U";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUTypeCombo.ShortHelp = "Mesh U line type";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUTypeCombo.LongHelp = "Choose the mesh U line type";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUThicknessLabel.Title = "Thickness U";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUThicknessCombo.ShortHelp = "Mesh U thickness";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMUThicknessCombo.LongHelp = "Choose the mesh U thickness";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVColorLabel.Title = "Color V";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVColorCombo.ShortHelp = "Mesh V color";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVColorCombo.LongHelp = "Choose the mesh V color";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVTypeLabel.Title = "Type V";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVTypeCombo.ShortHelp = "Mesh V line type";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVTypeCombo.LongHelp = "Choose the mesh V line type";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVThicknessLabel.Title = "Thickness V";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVThicknessCombo.ShortHelp = "Mesh V thickness";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.FaceMVThicknessCombo.LongHelp = "Choose the mesh V thickness";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshPointColorLabel.Title = "Color";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshPointColorCombo.ShortHelp = "Mesh point color";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshPointColorCombo.LongHelp = "Choose the translators color";
+
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshPointTypeLabel.Title = "Symbol";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshPointLook.ShortHelp = "Mesh point symbol";
+MeshProperties.IconAndOptionsFrame.OptionsFrame.MeshPointLook.LongHelp = "Choose the mesh point symbol";
+
+// Mouse properties frame
+MouseProperties.HeaderFrame.Global.Title = "Mouse";
+// mouse cursor type
+MouseProperties.IconAndOptionsFrame.OptionsFrame.MousePropertLabel.Title = "Cursor";
+MouseProperties.IconAndOptionsFrame.OptionsFrame.MouseCursorLook.ShortHelp = "Cursor type";
+MouseProperties.IconAndOptionsFrame.OptionsFrame.MouseCursorLook.LongHelp = "Choose the cursor type on manipulators.";
+
+
+
+
+
+
+
+

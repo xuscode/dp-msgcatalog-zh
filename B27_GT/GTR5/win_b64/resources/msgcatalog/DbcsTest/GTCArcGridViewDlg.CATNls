@@ -1,0 +1,16 @@
+Label011.Title = "[十GTCArcGridViewDlg,Label011.Title十一構ソチ－    ]";
+Label004.Title = "[十GTCArcGridViewDlg,Label004.Title十一構ソチ－        ]";
+SelectGridFrame.ClearBtn.Title = "[十GTCArcGridViewDlg,tGridFrame.ClearBtn.Title十一構ソチ－      Clear      ]";
+GVSLabel.Title = "[十GTCArcGridViewDlg,GVSLabel.Title十一構ソチ－GVS]";
+SelectGridFrame.RemoveGridBtn.Title = "[十GTCArcGridViewDlg,Frame.RemoveGridBtn.Title十一構ソチ－   Remove   ]";
+SelectGridFrame.Label018.Title = "[十GTCArcGridViewDlg,tGridFrame.Label018.Title十一構ソチ－  ]";
+NewTitle = "[十GTCArcGridViewDlg,NewTitle十一構ソチ－ New Grid View ]";
+SupportLabel.Title = "[十GTCArcGridViewDlg,SupportLabel.Title十一構ソチ－Support]";
+BoundaryLabel.Title = "[十GTCArcGridViewDlg,BoundaryLabel.Title十一構ソチ－Boundary]";
+ReverseDirBtn.Title = "[十GTCArcGridViewDlg,ReverseDirBtn.Title十一構ソチ－Reverse Direction]";
+Label005.Title = "[十GTCArcGridViewDlg,Label005.Title十一構ソチ－                                                  ]";
+Label019.Title = "[十GTCArcGridViewDlg,Label019.Title十一構ソチ－                                                   ]";
+EditTitle = "[十GTCArcGridViewDlg,EditTitle十一構ソチ－ Edit Grid View ]";
+NameLabel.Title = "[十GTCArcGridViewDlg,NameLabel.Title十一構ソチ－Name]";
+SelectGridFrame.Title = "[十GTCArcGridViewDlg,SelectGridFrame.Title十一構ソチ－Select Grids]";
+AxisLabel.Title = "[十GTCArcGridViewDlg,AxisLabel.Title十一構ソチ－Axis]";

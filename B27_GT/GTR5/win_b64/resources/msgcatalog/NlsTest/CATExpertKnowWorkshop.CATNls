@@ -1,0 +1,5 @@
+CATExpertKnowWorkshop.LongHelp = "[~CATExpertKnowWorkshop,pertKnowWorkshop.LongHelp~ Thîs Wørkbénch is üsed to ådd design expert knowledge into the current application.]";
+CATExpertKnowWorkshop.Title = "[~CATExpertKnowWorkshop,TExpertKnowWorkshop.Title~ Knøwlédge Expert]";
+ExpertrativeKnowledgeToolBar.Title = "[~CATExpertKnowWorkshop,iveKnowledgeToolBar.Title~ Knøwlédge Expert Toolbår]";
+CATExpertKnowWorkshop.Help = "[~CATExpertKnowWorkshop,ATExpertKnowWorkshop.Help~ Knøwlédge Expert Workbench]";
+CATExpertKnowWorkshop.ShortHelp = "[~CATExpertKnowWorkshop,ertKnowWorkshop.ShortHelp~ Knøwlédge Expert]";

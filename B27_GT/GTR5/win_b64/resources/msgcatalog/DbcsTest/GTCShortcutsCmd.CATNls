@@ -1,0 +1,4 @@
+InvalidENVValueMsg = "[十GTCShortcutsCmd,InvalidENVValueMsg十十十十十一構ソチ－Value not defined or is not valid. Please verify in your environment file.]";
+catenvWarningTitle = "[十GTCShortcutsCmd,catenvWarningTitle十一構ソチ－WARNING]";
+InvalidENVValueTitle = "[十GTCShortcutsCmd,InvalidENVValueTitle十一構ソチ－Error]";
+catenvWarningMsg = "[十GTCShortcutsCmd,catenvWarningMsg十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十一構ソチ－WARNING: Incorrect changes to environment file may impair the program. Please backup your environment file before modifcation. You need to restart Digital Project for your changes to take effect.]";

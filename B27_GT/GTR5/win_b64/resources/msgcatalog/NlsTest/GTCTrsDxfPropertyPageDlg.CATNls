@@ -1,0 +1,12 @@
+Unit_mt = "[~GTCTrsDxfPropertyPageDlg,Unit_mt~ Méter(m)]";
+Unit_in = "[~GTCTrsDxfPropertyPageDlg,Unit_in~ Inch(în)]";
+Unit_invalid = "[~GTCTrsDxfPropertyPageDlg,Unit_invalid~ Invålîd Unit]";
+GeneralOptions.HeaderFrame.Global.Title = "[~GTCTrsDxfPropertyPageDlg,.HeaderFrame.Global.Title~ Génerål Optîøns]";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.CGRLimit.Title = "[~GTCTrsDxfPropertyPageDlg,tionsFrame.CGRLimit.Title~ Måxîmüm numbér øf faces per surface:  ]";
+Unit_cm = "[~GTCTrsDxfPropertyPageDlg,Unit_cm~ Céntîmetre(cm)]";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.ImportSolidToPart.Title = "[~GTCTrsDxfPropertyPageDlg,e.ImportSolidToPart.Title~ Cønvért Solîds to Pårts               ]";
+Unit_ft = "[~GTCTrsDxfPropertyPageDlg,Unit_ft~ føot(ft)]";
+GeneralOptions.IconAndOptionsFrame.OptionsFrame.UnitOfFile.Title = "[~GTCTrsDxfPropertyPageDlg,onsFrame.UnitOfFile.Title~   Unît øf filé :  ]";
+ImportOptions.HeaderFrame.Global.Title = "[~GTCTrsDxfPropertyPageDlg,.HeaderFrame.Global.Title~ Impørt Optîons]";
+Unit_mm = "[~GTCTrsDxfPropertyPageDlg,Unit_mm~ Mîlliméter(mm)]";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.ImportLayerToComp.Title = "[~GTCTrsDxfPropertyPageDlg,e.ImportLayerToComp.Title~ Cønvért Låyers to Components          ]";

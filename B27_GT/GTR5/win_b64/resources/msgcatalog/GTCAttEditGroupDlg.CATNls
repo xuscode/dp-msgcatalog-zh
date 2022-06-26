@@ -1,0 +1,55 @@
+//== dlg title ==
+GTCTitleForEditGroup = "Edit ";
+GTCTitleForAddGroup  = "Add ";
+GTCGroupName = "Group";
+GTCExcelDataSheetName = "Excel Data Sheet";
+
+
+//== group name ==
+FrameMain.FrameGroupName.LabelGroupName.Title = "Name : ";
+FrameMain.FrameGroupName.EditorGroupName.Help = "Enter a group name.";
+FrameMain.FrameGroupName.EditorGroupName.ShortHelp = "Group Name";
+FrameMain.FrameGroupName.EditorGroupName.LongHelp = "Enter a group name.";
+
+
+//== data sheet file name ==
+FrameMain.FrameGroupName.LabelDataSheetName.Title = "Data sheet name : ";
+FrameMain.FrameGroupName.EditorDataSheetName.LongHelp = "The name of the data sheet to be created.";
+
+//== data sheet directory ==
+FrameMain.FrameGroupName.LabelDataSheetDirectory1.Title = "Directory : ";
+FrameMain.FrameGroupName.PushButtonDataSheetDirChoser.Title = "Directory...";
+FrameMain.FrameGroupName.PushButtonDataSheetDirChoser.LongHelp = "Data sheet directory.";
+FrameMain.FrameGroupName.EditorDataSheetDirectory.LongHelp = "The directory of the data sheet to be created in.";
+
+//== group atts ==
+FrameMain.FrameGroupAttsHolder.FrameGroupAttributes.Title = "Group Attributes";
+
+//== query option == 
+//FrameMain.FrameQuery.LabelQuery.Title = "Query : ";
+FrameMain.FrameQuery.PushButtonQuery.Title = "Query...";
+
+//
+//== feature list == 
+//
+FrameMain.FrameFeatList.MultiListObjectsInGroup.Help = "Objects in or to be placed in a group.";
+FrameMain.FrameFeatList.MultiListObjectsInGroup.ShortHelp = "Objects in or to be placed in a group.";
+FrameMain.FrameFeatList.MultiListObjectsInGroup.LongHelp = "Objects in or to be placed in a group.";
+
+MultiListColName="Name";
+MultiListColPath="Path";
+
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonRemoveObject.Title = "Remove";
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonReframeOnObject.Title = "Reframe On";
+
+
+//== data sheets ==
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonShowInDataSheet.Title = "Show in Excel";
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonFindFromDataSheet.Title = "Show in 3D";
+
+FrameMain.FrameFeatList.FrameExcelButtons.PushButtonUpdateDataSheet.Title = "Update Excel";
+FrameMain.FrameFeatList.FrameExcelButtons.PushButtonUploadDataSheet.Title = "->Synchronize<-";
+FrameMain.FrameFeatList.FrameExcelButtons.PushButtonUploadSelectedDataSheet.Title = "Update 3D [Selected]";
+
+
+

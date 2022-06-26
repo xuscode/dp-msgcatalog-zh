@@ -1,0 +1,15 @@
+// If you precise the Workbench name, the page is not set under the solution
+TabPage.SolutionName = "Infrastructure" ;
+TabPage.WorkbenchName = "GTCArcWkb" ;
+TabPage.PriorityNb= "1" ;
+// OnLine Help
+TabPage.LongHelpId = "ToolsOptions.Infrastructure.GTCArcWkb.GTCAnSOptions";
+//TabPage.ExtraOccurrenceNb = "1"; 
+//TabPage.SolutionName.Extra.1  = "Infrastructure" ;
+//TabPage.WorkbenchName.Extra.1 = "GTCDprGeometryWkb" ;
+//TabPage.LongHelpId.Extra.1 = "ToolsOptions.General.Compatibility.GTCDxfTranslationOptions";
+
+
+
+
+

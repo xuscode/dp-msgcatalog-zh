@@ -1,0 +1,6 @@
+pSaveFileTypeFrame.pSaveAsLabel.Title = "[十GTCTrsGeomExpDxfDlg,eFrame.pSaveAsLabel.Title十一構ソチ－Save as  ]";
+Title = "[十GTCTrsGeomExpDxfDlg,Title十一構ソチ－3D dxf or dwg Export]";
+GTCExportNls_ProgressBarTitle = "[十GTCTrsGeomExpDxfDlg,xportNls_ProgressBarTitle十一構ソチ－  Entities Transfered]";
+pSaveFileTypeFrame.pSaveAsSingleDwgRadioButtton.Title = "[十GTCTrsGeomExpDxfDlg,ngleDwgRadioButtton.Title十一構ソチ－Single Dwg]";
+pSaveFileTypeFrame.pSaveAsMultipleDwgRadioButton.Title = "[十GTCTrsGeomExpDxfDlg,tipleDwgRadioButton.Title十一構ソチ－Multiple Dwg]";
+GTCExportNls_ProgressBarSplit = "[十GTCTrsGeomExpDxfDlg,xportNls_ProgressBarSplit十一構ソチ－/]";

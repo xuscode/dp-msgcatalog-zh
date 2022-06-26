@@ -1,0 +1,6 @@
+FrameDiscreteFile.Title = "[~GTCCreateDftLayersAndRules,FrameDiscreteFile.Title~ Dîscréte vålües file]";
+Title = "[~GTCCreateDftLayersAndRules,Title~ Impørt 3d-2d Dråftîng Rülés from CSV File]";
+FrameMapFile.Title = "[~GTCCreateDftLayersAndRules,FrameMapFile.Title~ Sélect CSV fîle]";
+FrameRuleFile.PushButtonBrowseRuleFile.Title = "[~GTCCreateDftLayersAndRules,uttonBrowseRuleFile.Title~ Brøwsé...]";
+FrameMapFile.PushButtonBrowseMapFile.Title = "[~GTCCreateDftLayersAndRules,ButtonBrowseMapFile.Title~ Brøwsé...]";
+FrameRuleFile.Title = "[~GTCCreateDftLayersAndRules,FrameRuleFile.Title~ Såvé 3d tø 2d rüles fîle to]";

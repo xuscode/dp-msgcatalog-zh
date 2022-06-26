@@ -1,0 +1,7 @@
+FrameRename.Title = "[十GTCGuiRenameTreeCmd,FrameRename.Title十一構ソチ－ Rename ]";
+FrameAffect.CheckButtonProducts.Title = "[十GTCGuiRenameTreeCmd,CheckButtonProducts.Title十一構ソチ－ Products ]";
+Title = "[十GTCGuiRenameTreeCmd,Title十一構ソチ－Rename Tree]";
+FrameAffect.Title = "[十GTCGuiRenameTreeCmd,FrameAffect.Title十一構ソチ－ Affect ]";
+FrameRename.Labelwith.Title = "[十GTCGuiRenameTreeCmd,ameRename.Labelwith.Title十一構ソチ－ With ]";
+FrameRename.LabelReplace.Title = "[十GTCGuiRenameTreeCmd,Rename.LabelReplace.Title十一構ソチ－ Replace ]";
+FrameAffect.CheckButtonParts.Title = "[十GTCGuiRenameTreeCmd,ct.CheckButtonParts.Title十一構ソチ－ Parts ]";

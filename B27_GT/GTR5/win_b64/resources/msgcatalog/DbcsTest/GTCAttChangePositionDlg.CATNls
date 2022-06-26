@@ -1,0 +1,10 @@
+LabelAzimuth.Title = "[十GTCAttChangePositionDlg,LabelAzimuth.Title十一構ソチ－Azimuth]";
+LabelElevation.Title = "[十GTCAttChangePositionDlg,LabelElevation.Title十一構ソチ－Elevation]";
+Title = "[十GTCAttChangePositionDlg,Title十一構ソチ－Temporary Position]";
+LabelDeltaZ.Title = "[十GTCAttChangePositionDlg,LabelDeltaZ.Title十一構ソチ－Delta Z]";
+FrmBtn.btnPreview.Title = "[十GTCAttChangePositionDlg,FrmBtn.btnPreview.Title十一構ソチ－  Preview  ]";
+LabelTilt.Title = "[十GTCAttChangePositionDlg,LabelTilt.Title十一構ソチ－Tilt]";
+LabelDeltaX.Title = "[十GTCAttChangePositionDlg,LabelDeltaX.Title十一構ソチ－Delta X]";
+FrmBtn.btnReset.Title = "[十GTCAttChangePositionDlg,FrmBtn.btnReset.Title十一構ソチ－  Reset  ]";
+LabelDeltaY.Title = "[十GTCAttChangePositionDlg,LabelDeltaY.Title十一構ソチ－Delta Y]";
+FrmBtn.btnSelect3D.Title = "[十GTCAttChangePositionDlg,FrmBtn.btnSelect3D.Title十一構ソチ－Select From 3D]";

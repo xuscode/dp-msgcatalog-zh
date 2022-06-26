@@ -1,0 +1,16 @@
+GTCExportNls_DxfDlgTite = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_DxfDlgTite十一構ソチ－Save As]";
+GTCExportNls_DxfFileDescription = "[十GTCTrsGeomExpDxfCmd,ortNls_DxfFileDescription十一構ソチ－dxf]";
+GTCExportNls_DwgFileDescription = "[十GTCTrsGeomExpDxfCmd,ortNls_DwgFileDescription十一構ソチ－dwg]";
+GTCExportNls_DxfFileDotExt = "[十GTCTrsGeomExpDxfCmd,TCExportNls_DxfFileDotExt十一構ソチ－.dxf]";
+GTCExportNls_ProgressBarTitle = "[十GTCTrsGeomExpDxfCmd,xportNls_ProgressBarTitle十一構ソチ－   Entities Transfered]";
+GTCExportNls_NotifyTitle = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_NotifyTitle十一構ソチ－Save As]";
+GTCExportNls_DwgFileExt = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_DwgFileExt十一構ソチ－*.dwg]";
+GTCExportNls_NotifyMessageLine1A = "[十GTCTrsGeomExpDxfCmd,rtNls_NotifyMessageLine1A十一構ソチ－The item ]";
+GTCExportNls_NotifyMessageLine2 = "[十GTCTrsGeomExpDxfCmd,ortNls_NotifyMessageLine2十一構ソチ－Do you want it to be overwritten?]";
+GTCExportNls_LogFileName = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_LogFileName十一構ソチ－3DdxfdwgExport.txt]";
+GTCExportNls_DlgTitle = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_DlgTitle十一構ソチ－3D dxf or dwg Export]";
+GTCExportNls_DxfFileExt = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_DxfFileExt十一構ソチ－*.dxf]";
+GTCExportNls_DwgFileDotExt = "[十GTCTrsGeomExpDxfCmd,TCExportNls_DwgFileDotExt十一構ソチ－.dwg]";
+GTCExportNls_NotifyMessageLine1B = "[十GTCTrsGeomExpDxfCmd,rtNls_NotifyMessageLine1B十一構ソチ－ already exists.]";
+GTCExportNls_LineBreak = "[十GTCTrsGeomExpDxfCmd,GTCExportNls_LineBreak十一構ソチ－]\n[十GTCTrsGeomExpDxfCmd,GTCExportNls_LineBreak十一構ソチ－]";
+GTCExportNls_ProgressBarSplit = "[十GTCTrsGeomExpDxfCmd,xportNls_ProgressBarSplit十一構ソチ－ / ]";

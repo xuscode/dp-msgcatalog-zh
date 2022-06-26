@@ -1,0 +1,6 @@
+GTCArcWindowOpeningCmd.StateGetArcSupport.Message = "[~GTCArcWindowOpeningCmd,tateGetArcSupport.Message~ Sélect å wall]";
+GTCArcWindowOpeningCmd.StateGetPlacement.Message = "[~GTCArcWindowOpeningCmd,StateGetPlacement.Message~ Sélect øpenîng plåcement]";
+GTCArcWindowOpeningCmd.StateGetToAngleRef.Message = "[~GTCArcWindowOpeningCmd,tateGetToAngleRef.Message~ Sélect ån element as an alîgnment reference]";
+GTCArcWindowOpeningCmd.StateNoSel.Message = "[~GTCArcWindowOpeningCmd,ingCmd.StateNoSel.Message~ Spécîfy øpening åttribütes]";
+GTCArcWindowOpeningCmd.StateGetOpeningStyle.Message = "[~GTCArcWindowOpeningCmd,teGetOpeningStyle.Message~ Sélect ån exîsting style interactively ør choose from Catalog Browser]";
+GTCArcWindowOpeningCmd.StateSetPoint.Message = "[~GTCArcWindowOpeningCmd,Cmd.StateSetPoint.Message~ Sélect set pøînt position]";

@@ -1,0 +1,4 @@
+ErrorInWorkObj = "[十GTCArcReplicaViewCmd,ErrorInWorkObj十一構ソチ－Please set a sheet as the in-work object.]";
+GTCArcReplicaViewCmd.SelectSupportState.Message = "[十GTCArcReplicaViewCmd,electSupportState.Message十一構ソチ－Select Plane]";
+GTCArcReplicaViewCmd.SelectAxisState.Message = "[十GTCArcReplicaViewCmd,d.SelectAxisState.Message十一構ソチ－Select Axis]";
+GTCArcReplicaViewCmd.SelectViewState.Message = "[十GTCArcReplicaViewCmd,d.SelectViewState.Message十一構ソチ－Select Drafting View]";

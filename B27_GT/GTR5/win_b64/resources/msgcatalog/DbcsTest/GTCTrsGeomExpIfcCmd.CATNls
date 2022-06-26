@@ -1,0 +1,12 @@
+GTCExportNls_IfcFileDotExt = "[十GTCTrsGeomExpIfcCmd,TCExportNls_IfcFileDotExt十一構ソチ－.ifc]";
+GTCExportNls_IfcDlgTitle = "[十GTCTrsGeomExpIfcCmd,GTCExportNls_IfcDlgTitle十一構ソチ－Save As]";
+GTCTrsGeomExpIfcCmd.initialState.Message = "[十GTCTrsGeomExpIfcCmd,cCmd.initialState.Message十一構ソチ－Click anywhere in the viewer to exit]";
+GTCExportNls_IfcFileExt = "[十GTCTrsGeomExpIfcCmd,GTCExportNls_IfcFileExt十一構ソチ－*.ifc]";
+GTCExportNls_NotifyTitle = "[十GTCTrsGeomExpIfcCmd,GTCExportNls_NotifyTitle十一構ソチ－Save As]";
+GTCExportNls_NotifyMessageLine1A = "[十GTCTrsGeomExpIfcCmd,rtNls_NotifyMessageLine1A十一構ソチ－The item ]";
+GTCExportNls_NotifyMessageLine2 = "[十GTCTrsGeomExpIfcCmd,ortNls_NotifyMessageLine2十一構ソチ－Do you want it to be overwritten?]";
+GTCExportNls_ProgressBar_FileRead_Title = "[十GTCTrsGeomExpIfcCmd,rogressBar_FileRead_Title十一構ソチ－Reading Output Data]";
+GTCExportNls_LogFileName = "[十GTCTrsGeomExpIfcCmd,GTCExportNls_LogFileName十一構ソチ－3DIfcExport.txt]";
+GTCExportNls_IfcFileDescription = "[十GTCTrsGeomExpIfcCmd,ortNls_IfcFileDescription十一構ソチ－ifc]";
+GTCExportNls_NotifyMessageLine1B = "[十GTCTrsGeomExpIfcCmd,rtNls_NotifyMessageLine1B十一構ソチ－ already exists.]";
+GTCExportNls_LineBreak = "[十GTCTrsGeomExpIfcCmd,GTCExportNls_LineBreak十一構ソチ－]\n[十GTCTrsGeomExpIfcCmd,GTCExportNls_LineBreak十一構ソチ－]";

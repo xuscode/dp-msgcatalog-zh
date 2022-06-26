@@ -1,0 +1,8 @@
+Edit = "[十GTCAttEditPackageDlg,Edit十一構ソチ－Edit /P1 on /P2]";
+TitleforEdit = "[十GTCAttEditPackageDlg,TitleforEdit十一構ソチ－Edit Package]";
+EditAttr = "[十GTCAttEditPackageDlg,EditAttr十一構ソチ－Edit Attributes]";
+Multiple = "[十GTCAttEditPackageDlg,Multiple十一構ソチ－Multiple/]";
+TitleforAttach = "[十GTCAttEditPackageDlg,TitleforAttach十一構ソチ－Attach Package]";
+Multiobj = "[十GTCAttEditPackageDlg,Multiobj十一構ソチ－multiple objects]";
+Attach = "[十GTCAttEditPackageDlg,Attach十一構ソチ－Attach /P1 to /P2]";
+EditAttrOnObj = "[十GTCAttEditPackageDlg,EditAttrOnObj十一構ソチ－Edit Attributes on /P1]";

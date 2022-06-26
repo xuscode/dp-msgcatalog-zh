@@ -1,0 +1,9 @@
+GTCArcGridFeature = "[十GTCArcCatalogNLS,GTCArcGridFeature十一構ソチ－Grid Feature]";
+GTCArcSpecSet = "[十GTCArcCatalogNLS,GTCArcSpecSet十一構ソチ－Specification Set]";
+GTCArcRoot = "[十GTCArcCatalogNLS,GTCArcRoot十一構ソチ－Category]";
+GTCArcSet = "[十GTCArcCatalogNLS,GTCArcSet十一構ソチ－Set]";
+GTCArcGeoResult = "[十GTCArcCatalogNLS,GTCArcGeoResult十一構ソチ－Geometry Result]";
+GTCArcGridElement = "[十GTCArcCatalogNLS,GTCArcGridElement十一構ソチ－Grid Element]";
+GTCArcSpecification = "[十GTCArcCatalogNLS,GTCArcSpecification十一構ソチ－Specification]";
+GTCArcBldgElement = "[十GTCArcCatalogNLS,GTCArcBldgElement十一構ソチ－Building Element]";
+GTCArcSolidResult = "[十GTCArcCatalogNLS,GTCArcSolidResult十一構ソチ－Solid Result]";

@@ -1,0 +1,5 @@
+cont.tabContParent.tabPageGeneral.hideButton.Title = "[十GTCGSLayerFilterDialog,eGeneral.hideButton.Title十一構ソチ－Hide All]";
+Title = "[十GTCGSLayerFilterDialog,Title十一構ソチ－Quick Filter ...]";
+cont.tabContParent.tabPageArchitecture.showButton.Title = "[十GTCGSLayerFilterDialog,itecture.showButton.Title十一構ソチ－Show All]";
+cont.tabContParent.tabPageArchitecture.hideButton.Title = "[十GTCGSLayerFilterDialog,itecture.hideButton.Title十一構ソチ－Hide All]";
+cont.tabContParent.tabPageGeneral.showButton.Title = "[十GTCGSLayerFilterDialog,eGeneral.showButton.Title十一構ソチ－Show All]";

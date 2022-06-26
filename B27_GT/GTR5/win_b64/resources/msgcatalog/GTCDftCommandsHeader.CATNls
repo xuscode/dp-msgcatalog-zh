@@ -1,0 +1,107 @@
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.Title		= "Automatic Dress-up";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.Help  		= "Sets graphic properties layers based on 3D-2D extraction standards for buildings";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.ShortHelp 		= "Automatic Dress-up";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.LongHelp 		= "Sets graphic properties layers based on 3D-2D extraction standards for buildings";
+
+
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.Title		= "View at Origin";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.Help      = "Positions a drawing view at the origin of its sheet";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.ShortHelp	= "View at Origin";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.LongHelp	= "Positions a drawing view at the origin of its sheet";
+
+// == EditPackage == 
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.Title		= "Edit 3D Attributes...";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.Help        = "Edits attributes of the 3D object represented by the selected drafting element";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.ShortHelp   = "Edit 3D Attributes";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.LongHelp    = "Edits attributes of the 3D object represented by the selected drafting element";
+
+// == Color Filter ==
+GTCDftCommandsHeader.GTCDftColorFilterHdr.Title              = "Color by Atributes...";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.Help               = "Colors geometry based on attribute values";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.ShortHelp          = "Color by Atributes";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.LongHelp           = "Colors geometry based on attribute values";
+
+// == Attribute Link ==
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.Title              = "Insert Attribute Link...";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.Help               = "Inserts an attribute link to a drawing text";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.ShortHelp          = "Insert Attribute Link";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.LongHelp           = "Inserts an attribute link to a drawing text";
+
+
+// == Update All Views ==
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.Title              = "Update Active Sheet";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.Help               = "Updates the active sheet";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.ShortHelp          = "Update Active Sheet";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.LongHelp           = "Updates the active sheet";
+
+//Update Layer List command
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.Title = "Update Layer List...";
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.Help    = "Updates the Layer List...";
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.ShortHelp = "Update Layer List...";
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.LongHelp   = "Update Layer List...";
+
+// == Link Ditto ==
+GTCDftCommandsHeader.GTCDftLinkDittoHdr.Title              = "Link Ditto Text Templates";
+GTCDftCommandsHeader.GTCDftLinkDittoHdr.Help               = "Link text templates in a ditto to an object";
+GTCDftCommandsHeader.GTCDftLinkDittoHdr.ShortHelp          = "Link Ditto Text Templates";
+GTCDftCommandsHeader.GTCDftLinkDittoHdr.LongHelp           = "Link text templates in a ditto to an object";
+
+// == GT Shortcuts - Project Standards == 
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.Title			= "Project Standards";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.Help			= "Open Project Standards folder for current environment";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.ShortHelp		= "Project Standards";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.LongHelp		= "Open Project Standards folder for current environment";
+
+// == GT Shortcuts - Project Data == 
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.Title			= "Project Data";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.Help			= "Open Project Data folder for current environment";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.ShortHelp		= "Project Data";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.LongHelp		= "Open Project Data folder for current environment";
+
+// == GT Shortcuts - USER Data == 
+GTCDftCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.Title			= "User Data";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.Help			= "Open User Data folder for current environment";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.ShortHelp		= "User Data";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.LongHelp		= "Open User Data folder for current environment";
+
+// == GT Shortcuts - Lic Path == 
+GTCDftCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.Title			= "License Path";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.Help			= "Show License Path used for current session";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.ShortHelp		= "License Path";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.LongHelp		= "Show License Path used for current session";
+
+// == GT Shortcuts - DP Env == 
+GTCDftCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.Title			= "Environment File";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.Help			= "Opens environment file for current session";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.ShortHelp		= "Environment File";
+GTCDftCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.LongHelp		= "Opens environment file for current session";
+
+//=============== Import 3d-2d Rules =========================
+GTCDftCommandsHeader.GTCImportDftRulesCmdHdr.Title		= "Import 3d-2d Drafting Rules...";
+GTCDftCommandsHeader.GTCImportDftRulesCmdHdr.Help		= "Import 3d-2d Drafting Rules from CSV File";
+GTCDftCommandsHeader.GTCImportDftRulesCmdHdr.ShortHelp	= "Import 3d-2d Drafting Rules";
+GTCDftCommandsHeader.GTCImportDftRulesCmdHdr.LongHelp	= "Import 3d-2d Drafting Rules from CSV File";
+
+//=============== Import drafting layers =========================
+GTCDftCommandsHeader.GTCImportDftLayersCmdHdr.Title		= "Import Drafting Layers...";
+GTCDftCommandsHeader.GTCImportDftLayersCmdHdr.Help		= "Import Drafting Layers from CSV/DXF/DWG File";
+GTCDftCommandsHeader.GTCImportDftLayersCmdHdr.ShortHelp	= "Import Drafting Layers";
+GTCDftCommandsHeader.GTCImportDftLayersCmdHdr.LongHelp	= "Import Drafting Layers from CSV/DXF/DWG File";
+
+//=============== Export drafting layers =========================
+GTCDftCommandsHeader.GTCExportDftLayersCmdHdr.Title		= "Export Drafting Layers...";
+GTCDftCommandsHeader.GTCExportDftLayersCmdHdr.Help		= "Export Drafting Layers to CSV File";
+GTCDftCommandsHeader.GTCExportDftLayersCmdHdr.ShortHelp	= "Export Drafting Layers";
+GTCDftCommandsHeader.GTCExportDftLayersCmdHdr.LongHelp	= "Export Drafting Layers to CSV File";
+
+//=============== Export 3d-2d Rules =========================
+GTCDftCommandsHeader.GTCExportDftRulesCmdHdr.Title		= "Export 3d-2d Drafting Rules...";
+GTCDftCommandsHeader.GTCExportDftRulesCmdHdr.Help		= "Export 3d-2d Drafting Rules to CSV File";
+GTCDftCommandsHeader.GTCExportDftRulesCmdHdr.ShortHelp	= "Export 3d-2d Drafting Rules";
+GTCDftCommandsHeader.GTCExportDftRulesCmdHdr.LongHelp	= "Export 3d-2d Drafting Rules to CSV File";
+
+//=============== Export Dico to CSV =========================
+GTCDftCommandsHeader.GTCAttDicoTypeExportCmdHdr.Title		= "Export Current Dictionary...";
+GTCDftCommandsHeader.GTCAttDicoTypeExportCmdHdr.Help		= "Export Current Dictionary to CSV File";
+GTCDftCommandsHeader.GTCAttDicoTypeExportCmdHdr.ShortHelp	= "Export Current Dictionary";
+GTCDftCommandsHeader.GTCAttDicoTypeExportCmdHdr.LongHelp	= "Export Current Dictionary to CSV File";

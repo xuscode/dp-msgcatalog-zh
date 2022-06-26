@@ -1,0 +1,10 @@
+GTCArcBeamColumnRibCmd.StateInitial.Message = "[~GTCArcBeamColumnRibCmd,bCmd.StateInitial.Message~ Clîck ånywhére in the viewer tø exit]";
+GTCArcBeamColumnRibCmd.StateGetAngleRef.Message = "[~GTCArcBeamColumnRibCmd,.StateGetAngleRef.Message~ Sélect ån element as an alîgnment reference]";
+GTCArcBeamColumnRibCmd.StateGetFromLim.Message = "[~GTCArcBeamColumnRibCmd,d.StateGetFromLim.Message~ Sélect ån element tø lîmit the first side]";
+GTCArcBeamColumnRibCmd.StateNoSel.Message = "[~GTCArcBeamColumnRibCmd,RibCmd.StateNoSel.Message~ Spécîfy member åttribütes]";
+GTCArcBeamColumnRibCmd.StateSetPoint.Message = "[~GTCArcBeamColumnRibCmd,Cmd.StateSetPoint.Message~ Sélect set pøînt position]";
+GTCArcBeamColumnRibCmd.StateGetSupport.Message = "[~GTCArcBeamColumnRibCmd,d.StateGetSupport.Message~ Sélect å süppørt element]";
+GTCArcBeamColumnRibCmd.StateStructSetPoint.Message = "[~GTCArcBeamColumnRibCmd,ateStructSetPoint.Message~ Sélect strücturål set pøînt position]";
+GTCArcBeamColumnRibCmd.StateGetPrimaryMultiSupport.Message = "[~GTCArcBeamColumnRibCmd,imaryMultiSupport.Message~ Sélect the prîmåry süppørt element]";
+GTCArcBeamColumnRibCmd.StateGetToLim.Message = "[~GTCArcBeamColumnRibCmd,Cmd.StateGetToLim.Message~ Sélect ån element tø lîmit the second side]";
+GTCArcBeamColumnRibCmd.StateGetCustomSection.Message = "[~GTCArcBeamColumnRibCmd,eGetCustomSection.Message~ Sélect ån element før the cüstom sectîon]";

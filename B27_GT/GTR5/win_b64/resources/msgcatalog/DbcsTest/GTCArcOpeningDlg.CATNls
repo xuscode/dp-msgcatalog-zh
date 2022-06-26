@@ -1,0 +1,17 @@
+frameElement.labelElementLayer.Title = "[十GTCArcOpeningDlg,t.labelElementLayer.Title十一構ソチ－ Layer ]";
+frameParent.frameOutputs.Title = "[十GTCArcOpeningDlg,Parent.frameOutputs.Title十一構ソチ－ Outputs ]";
+frameParent.frameOutputs.chkBtnPanel.Title = "[十GTCArcOpeningDlg,Outputs.chkBtnPanel.Title十一構ソチ－ Panel ]";
+frameParent.framePlacement.labelOrientation.Title = "[十GTCArcOpeningDlg,nt.labelOrientation.Title十一構ソチ－ Orientation ]";
+frameElement.labelName.Title = "[十GTCArcOpeningDlg,meElement.labelName.Title十一構ソチ－ Name ]";
+frameParent.framePlacement.Title = "[十GTCArcOpeningDlg,rent.framePlacement.Title十一構ソチ－ Placement ]";
+frameParent.framePlacement.labelSetPoint.Title = "[十GTCArcOpeningDlg,ement.labelSetPoint.Title十一構ソチ－ Set Point ]";
+frameNameType.labelName.Title = "[十GTCArcOpeningDlg,eNameType.labelName.Title十一構ソチ－ Name ]";
+frameParent.framePlacement.labelPosition.Title = "[十GTCArcOpeningDlg,ement.labelPosition.Title十一構ソチ－ Position ]";
+frameParent.frameOutputs.chkBtnWire.Title = "[十GTCArcOpeningDlg,eOutputs.chkBtnWire.Title十一構ソチ－ Wire ]";
+ButtonLess = "[十GTCArcOpeningDlg,ButtonLess十一構ソチ－ Complete ]";
+NewTitle = "[十GTCArcOpeningDlg,NewTitle十一構ソチ－ New Opening ]";
+frameElement.labelElement.Title = "[十GTCArcOpeningDlg,lement.labelElement.Title十一構ソチ－ Element ]";
+frameMore.labelFromLim.Title = "[十GTCArcOpeningDlg,meMore.labelFromLim.Title十一構ソチ－ From ]";
+EditTitle = "[十GTCArcOpeningDlg,EditTitle十一構ソチ－ Edit Opening ]";
+frameMore.labelToLim.Title = "[十GTCArcOpeningDlg,rameMore.labelToLim.Title十一構ソチ－ To ]";
+ButtonMore = "[十GTCArcOpeningDlg,ButtonMore十一構ソチ－ Partial ]";

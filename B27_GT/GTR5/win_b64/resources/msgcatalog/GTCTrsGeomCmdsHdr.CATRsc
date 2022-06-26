@@ -1,0 +1,19 @@
+// == Export Geometric Information ==
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.Icon.Normal          = "I_GTCTrsImportDXF";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.LongHelpId			= "GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.Icon.Normal          = "I_GTCTrsExportDXF";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.LongHelpId			= "GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr";
+
+
+// == Run command ==
+GTCTrsGeomCmdsHdr.GTCGeoRunHdr.Icon.Normal = "I_GTCGeoRun";
+GTCTrsGeomCmdsHdr.GTCGeoRunHdr.LongHelpId = "GTCTrsGeomCmdsHdr.GTCGeoRunHdr";
+
+//Quick Filter
+GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr.Icon.Normal = "I_GTCQuickLayerCmd";
+GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr.LongHelpId = "GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr";
+
+
+// == Run Center line==
+GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr.Icon.Normal = "I_GTCGeoRunCircCenterLine";
+GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr.LongHelpId = "GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr";

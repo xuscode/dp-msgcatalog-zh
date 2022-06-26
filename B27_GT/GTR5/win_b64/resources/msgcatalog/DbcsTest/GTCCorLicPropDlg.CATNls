@@ -1,0 +1,8 @@
+cbtShare.Title = "[十GTCCorLicPropDlg,cbtShare.Title十一構ソチ－ ]";
+lblShared.Title = "[十GTCCorLicPropDlg,lblShared.Title十一構ソチ－   Share   ]";
+cbtNodeLock.Title = "[十GTCCorLicPropDlg,cbtNodeLock.Title十一構ソチ－ ]";
+lblFeature1.Title = "[十GTCCorLicPropDlg,lblFeature1.Title十一構ソチ－GTX]";
+pbtApply.Title = "[十GTCCorLicPropDlg,pbtApply.Title十一構ソチ－Apply]";
+cbtBorrow.Title = "[十GTCCorLicPropDlg,cbtBorrow.Title十一構ソチ－ ]";
+lblBorrow.Title = "[十GTCCorLicPropDlg,lblBorrow.Title十一構ソチ－     Borrow     ]";
+lblNodeLock.Title = "[十GTCCorLicPropDlg,lblNodeLock.Title十一構ソチ－     Node Lock     ]";

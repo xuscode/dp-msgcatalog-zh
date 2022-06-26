@@ -1,0 +1,13 @@
+ApplicationFrame.Title = "Digital Project V1,R5";
+// URL mapping file
+DocumentMap.Name = "CATIAId2url";
+CompanionMap.Name     = "CATIACompanion";
+Copyright ="DIGITAL PROJECT™ Version 1, Release 5 operates in conjunction with the CATIA® core platform of Dassault Systèmes.";
+CopyrightWarn1.Title = "Version 1, Release 5";
+CopyrightWarn2.Title = "CATIA® Version 5.22. © Dassault Systèmes 1994-2012. All rights reserved";
+CopyrightWarn3.Title = "CATIA ® is registered in the US Patent and Trade Mark Office by Dassault Systèmes.";
+CurrentDPVersion = "V1R5SP3";
+CompatibleVersions = "V1R5SP3,V1R5SP2,V1R4SP7,V1R4SP5.2,V1R4GA,V1R4,V1R3SP8.2,V1R3SP8.1,V1R3SP4.3,Digital Project version R3 Beta2,Digital Project version R3 Beta1";
+
+GTC_CURRENT_SERVICE_PACK = "  V1,R5 Service Pack 2 ";
+GTC_CURRENT_HOTFIX = "";

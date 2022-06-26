@@ -1,0 +1,3 @@
+GTCCVSUneditCmd.SelectProductsState.Message = "[~GTCCVSUneditCmd,lectProductsState.Message~ Sélect prødüct to unedît]";
+uneditmsg = "[~GTCCVSUneditCmd,uneditmsg~ hås béen mødîfied; revert changes?]";
+GTCCVSUneditCmd.LoadState.Message = "";

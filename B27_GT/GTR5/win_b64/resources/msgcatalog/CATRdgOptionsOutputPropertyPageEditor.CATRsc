@@ -1,0 +1,13 @@
+// COPYRIGHT DASSAULT SYSTEMES 1998
+//===========================================================================
+//
+// CATRdgOptionsOutputPropertyPageEditor
+//
+//===========================================================================
+
+TabPage.SolutionName  = "DMUNavigator";
+TabPage.WorkbenchName = "RenderingWorkbench";
+TabPage.LongHelpId    = "ToolsOptions.DMUNavigator.Rendering.Output";
+TabPage.PriorityNb    = "2";
+
+//TabPage.RestrictiveProductPresence = "PHS.prd";

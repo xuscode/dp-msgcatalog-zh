@@ -1,0 +1,5 @@
+GTCArcContextualOpeningCmd.StateGetFromLimit.Message = "[~GTCArcContextualOpeningCmd,StateGetFromLimit.Message~ Sélect å frøm lîmiting element]";
+GTCArcContextualOpeningCmd.StateGetSupport.Message = "[~GTCArcContextualOpeningCmd,d.StateGetSupport.Message~ Sélect å wall, slab ør space]";
+GTCArcContextualOpeningCmd.StateGetLimits.Message = "[~GTCArcContextualOpeningCmd,md.StateGetLimits.Message~ Sélect lîmiting elements tø creåte opening contoür]";
+GTCArcContextualOpeningCmd.StateNoSelection.Message = "[~GTCArcContextualOpeningCmd,.StateNoSelection.Message~ Spécîfy øpening åttribütes]";
+GTCArcContextualOpeningCmd.StateGetToLimit.Message = "[~GTCArcContextualOpeningCmd,d.StateGetToLimit.Message~ Sélect å tø lîmiting element]";

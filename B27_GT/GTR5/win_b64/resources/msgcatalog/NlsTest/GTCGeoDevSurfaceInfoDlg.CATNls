@@ -1,0 +1,4 @@
+InfoLabel.Title = "[~GTCGeoDevSurfaceInfoDlg,InfoLabel.Title~~~ Thîs tøol créåtes rüled surfaces which are as close as possible to being developable.]";
+InfoLabel2.Title = "[~GTCGeoDevSurfaceInfoDlg,InfoLabel2.Title~~~~~ Thé develøpåbîlity of sürfaces can be assessed using the Gaussian Curvature analysis tool.]";
+ChkBtnHideShow.Title = "[~GTCGeoDevSurfaceInfoDlg,ChkBtnHideShow.Title~  Dø not show thîs méssåge again. ]";
+InfoLabel3.Title = "[~GTCGeoDevSurfaceInfoDlg,InfoLabel3.Title~   ]";

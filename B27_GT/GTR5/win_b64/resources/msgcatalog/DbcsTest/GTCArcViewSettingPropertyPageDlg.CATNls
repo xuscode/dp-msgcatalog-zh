@@ -1,0 +1,10 @@
+Title = "[十GTCArcViewSettingPropertyPageDlg,Title十一構ソチ－Architecture & Structures]";
+ViewDisplay.IconAndOptionsFrame.OptionsFrame.ShowViewPlane.Title = "[十GTCArcViewSettingPropertyPageDlg,Frame.ShowViewPlane.Title十一構ソチ－Show View Plane]";
+WallOptions.IconAndOptionsFrame.OptionsFrame.WallRemoveExtraLines.Title = "[十GTCArcViewSettingPropertyPageDlg,allRemoveExtraLines.Title十一構ソチ－Remove Extra Lines]";
+ViewVis.IconAndOptionsFrame.OptionsFrame.View.Title = "[十GTCArcViewSettingPropertyPageDlg,e.OptionsFrame.View.Title十一構ソチ－Show Drawing View]";
+ViewVis.IconAndOptionsFrame.OptionsFrame.Sheet.Title = "[十GTCArcViewSettingPropertyPageDlg,.OptionsFrame.Sheet.Title十一構ソチ－Show Drawing Sheet]";
+ViewVis.IconAndOptionsFrame.OptionsFrame.None.Title = "[十GTCArcViewSettingPropertyPageDlg,e.OptionsFrame.None.Title十一構ソチ－None]";
+ViewDisplay.IconAndOptionsFrame.OptionsFrame.ShowViewName.Title = "[十GTCArcViewSettingPropertyPageDlg,sFrame.ShowViewName.Title十一構ソチ－Show View Name]";
+ViewDisplay.HeaderFrame.Global.Title = "[十GTCArcViewSettingPropertyPageDlg,.HeaderFrame.Global.Title十一構ソチ－View Display]";
+WallOptions.HeaderFrame.Global.Title = "[十GTCArcViewSettingPropertyPageDlg,.HeaderFrame.Global.Title十一構ソチ－Wall Drawing Generation]";
+ViewVis.HeaderFrame.Global.Title = "[十GTCArcViewSettingPropertyPageDlg,.HeaderFrame.Global.Title十一構ソチ－Active View]";

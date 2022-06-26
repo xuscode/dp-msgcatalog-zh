@@ -1,0 +1,12 @@
+TabPage.WorkshopName = "PRDWorkshop";
+//TabPage.SolutionName = "AECPlant";
+TabPage.SolutionName = "MechanicalDesign";
+//TabPage.WorkbenchName = "PslConfiguration";
+TabPage.WorkbenchName = "LndConfiguration";
+TabPage.ExtraOccurrenceNb = "1";
+// STH
+//TabPage.SolutionName.Extra.1 = "MechanicalDesign";
+//TabPage.WorkbenchName.Extra.1 = "SsrConfiguration";
+//TabPage.WorkbenchName.Extra.2 = "LndConfiguration";
+TabPage.LongHelpId = "ToolsOptions.AECPlant.General";
+TabPage.PriorityNb = "0";

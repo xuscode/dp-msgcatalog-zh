@@ -1,0 +1,18 @@
+// == Primavera Connection Info Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Title		= "Connect to Primavera...";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Help        = "Connects to a Primavera database";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.ShortHelp   = "Connect to Primavera";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.LongHelp   = "Connects to a Primavera database";
+
+// == Primavera Get Projects Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Title	= "Get Primavera Projects";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Help        = "Imports/refreshes the Primavera project structure";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.ShortHelp   = "Get Primavera Projects";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.LongHelp   = "Imports/refreshes the Primavera project structure";
+
+// == Primavera Get Activities Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Title		= "Get Primavera Activities";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Help        = "Imports/refreshes the activities of a Primavera project";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.ShortHelp   = "Get Primavera Activities";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.LongHelp   = "Imports/refreshes the activities of a Primavera project";
+

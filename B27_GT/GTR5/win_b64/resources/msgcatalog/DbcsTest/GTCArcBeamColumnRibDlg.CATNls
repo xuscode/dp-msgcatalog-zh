@@ -1,0 +1,15 @@
+titleColumn = "[十GTCArcBeamColumnRibDlg,titleColumn十一構ソチ－Column]";
+frameTop.labelName.Title = "[十GTCArcBeamColumnRibDlg,frameTop.labelName.Title十一構ソチ－ Name ]";
+GTCTitleForNew = "[十GTCArcBeamColumnRibDlg,GTCTitleForNew十一構ソチ－New ]";
+frameTop.labelLocation.Title = "[十GTCArcBeamColumnRibDlg,meTop.labelLocation.Title十一構ソチ－ Location   ]";
+frameTop.labelSupport.Title = "[十GTCArcBeamColumnRibDlg,ameTop.labelSupport.Title十一構ソチ－ Support   ]";
+frameTop.labelOffset.Title = "[十GTCArcBeamColumnRibDlg,rameTop.labelOffset.Title十一構ソチ－ Offset ]";
+titleBeam2Spts = "[十GTCArcBeamColumnRibDlg,titleBeam2Spts十一構ソチ－Multi-Support Beam]";
+frameTop.labelLayer.Title = "[十GTCArcBeamColumnRibDlg,frameTop.labelLayer.Title十一構ソチ－ Layer ]";
+GTCTitleForEdit = "[十GTCArcBeamColumnRibDlg,GTCTitleForEdit十一構ソチ－Edit ]";
+titleRib = "[十GTCArcBeamColumnRibDlg,titleRib十一構ソチ－Rib]";
+frameTop.labelAlignSpt.Title = "[十GTCArcBeamColumnRibDlg,meTop.labelAlignSpt.Title十一構ソチ－ Alignment ]";
+titleBeam = "[十GTCArcBeamColumnRibDlg,titleBeam十一構ソチ－Beam]";
+frameTop.buttonLocation.Title = "[十GTCArcBeamColumnRibDlg,eTop.buttonLocation.Title十一構ソチ－...]";
+frameTop.labelAssembly.Title = "[十GTCArcBeamColumnRibDlg,meTop.labelAssembly.Title十一構ソチ－ Assembly ]";
+GTCArcMemberMultiple = "[十GTCArcBeamColumnRibDlg,GTCArcMemberMultiple十一構ソチ－<Multiple>]";

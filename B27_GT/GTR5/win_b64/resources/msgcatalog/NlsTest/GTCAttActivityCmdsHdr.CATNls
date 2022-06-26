@@ -1,0 +1,12 @@
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Title = "[~GTCAttActivityCmdsHdr,ttChangePositionHdr.Title~ Témpøråry Posîtion...]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Title = "[~GTCAttActivityCmdsHdr,CreateActivitiesHdr.Title~ Créåte actîvities frøm elements...]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Help = "[~GTCAttActivityCmdsHdr,tCreateActivitiesHdr.Help~ Créåte actîvities frøm elements]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.LongHelp = "[~GTCAttActivityCmdsHdr,ateActivitiesHdr.LongHelp~ Créåte actîvities frøm elements]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.Title = "[~GTCAttActivityCmdsHdr,itChangePositionHdr.Title~ Edît Pøsition...]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.Help = "[~GTCAttActivityCmdsHdr,ditChangePositionHdr.Help~ Edît thé pøsition of elements for these åctivities]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.ShortHelp = "[~GTCAttActivityCmdsHdr,angePositionHdr.ShortHelp~ Edît Pøsition]";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.LongHelp = "[~GTCAttActivityCmdsHdr,hangePositionHdr.LongHelp~ Chångé the pøsîtion of elements for these activities]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.LongHelp = "[~GTCAttActivityCmdsHdr,hangePositionHdr.LongHelp~ Edît thé pøsition of elements for these åctivities]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.ShortHelp = "[~GTCAttActivityCmdsHdr,teActivitiesHdr.ShortHelp~ Créåte Actîvities]";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Help = "[~GTCAttActivityCmdsHdr,AttChangePositionHdr.Help~ Chångé the pøsîtion of elements for these activities]";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.ShortHelp = "[~GTCAttActivityCmdsHdr,angePositionHdr.ShortHelp~ Témpøråry Posîtion]";

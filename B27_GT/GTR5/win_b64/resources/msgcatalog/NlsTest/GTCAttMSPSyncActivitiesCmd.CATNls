@@ -1,0 +1,2 @@
+GTCAttMSPSyncActivitiesCmd.InitialState.Message = "[~GTCAttMSPSyncActivitiesCmd,sCmd.InitialState.Message~  ]";
+GTCAttMSPSyncActivitiesCmd.SelectActState.Message = "[~GTCAttMSPSyncActivitiesCmd,md.SelectActState.Message~ Sélect åctîvities tø show in MS Project]";

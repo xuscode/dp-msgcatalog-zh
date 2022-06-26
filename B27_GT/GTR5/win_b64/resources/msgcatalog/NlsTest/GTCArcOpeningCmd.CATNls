@@ -1,0 +1,8 @@
+GTCArcOpeningCmd.StateGetArcSupport.Message = "[~GTCArcOpeningCmd,tateGetArcSupport.Message~ Sélect å wall, slab ør space]";
+GTCArcOpeningCmd.StateSetPoint.Message = "[~GTCArcOpeningCmd,Cmd.StateSetPoint.Message~ Sélect set pøînt position]";
+GTCArcOpeningCmd.StateNoSel.Message = "[~GTCArcOpeningCmd,ingCmd.StateNoSel.Message~ Spécîfy øpening åttribütes]";
+GTCArcOpeningCmd.StateGetPlacement.Message = "[~GTCArcOpeningCmd,StateGetPlacement.Message~ Sélect øpenîng plåcement]";
+GTCArcOpeningCmd.StateGetToAngleRef.Message = "[~GTCArcOpeningCmd,tateGetToAngleRef.Message~ Sélect ån element as an alîgnment reference]";
+GTCArcOpeningCmd.StateGetFromLimit.Message = "[~GTCArcOpeningCmd,StateGetFromLimit.Message~ Sélect å frøm lîmiting element]";
+GTCArcOpeningCmd.StateGetCustomSection.Message = "[~GTCArcOpeningCmd,eGetCustomSection.Message~ Sélect ån element før the cüstom sectîon]";
+GTCArcOpeningCmd.StateGetToLimit.Message = "[~GTCArcOpeningCmd,d.StateGetToLimit.Message~ Sélect å tø lîmiting element]";

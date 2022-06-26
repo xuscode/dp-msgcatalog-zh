@@ -1,0 +1,7 @@
+TabPage.WorkshopName = "PRDWorkshop";
+
+TabPage.SolutionName = "Infrastructure";
+TabPage.WorkbenchName= "GTCDprProjectWkb";
+TabPage.LongHelpId    = "ToolsOptions.Infrastructure.ProductStructure.DMUMarker";
+TabPage.PriorityNb = "9";
+

@@ -1,0 +1,85 @@
+/////////////////////////////////////////////////////////////////////
+// COPYRIGHT Gehry Technologies
+/////////////////////////////////////////////////////////////////////
+
+// == Geometric Reporter == 
+GTCTrsCommandsHeader.GTCGeomReporterHdr.Title		= "Geometry Reporter...";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.Help        = "Produces a report of geometric measurements in CSV format";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.ShortHelp   = "Geometry Reporter";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.LongHelp	= "Produces a report of geometric measurements in CSV format";
+
+// == Rename Tree Nodes == 
+//GTCTrsCommandsHeader.GTCRenameTreeHdr.Title		= "Rename Tree Nodes...";
+//GTCTrsCommandsHeader.GTCRenameTreeHdr.Help        = "Renames products and/or parts in the tree";
+//GTCTrsCommandsHeader.GTCRenameTreeHdr.ShortHelp   = "Rename Tree Nodes";
+//GTCTrsCommandsHeader.GTCRenameTreeHdr.LongHelp   = "Renames products and/or parts in the tree";
+
+// == Structure Simplifier == 
+GTCTrsCommandsHeader.GTCSimplifierHdr.Title		= "Structure Simplifier...";
+GTCTrsCommandsHeader.GTCSimplifierHdr.Help        = "Transforms structural elements into datums";
+GTCTrsCommandsHeader.GTCSimplifierHdr.ShortHelp   = "Structure Simplifier";
+GTCTrsCommandsHeader.GTCSimplifierHdr.LongHelp   = "Transforms structural elements into datums";
+
+// == Tree Reporter == 
+GTCTrsCommandsHeader.GTCWriteTreeHdr.Title		= "Tree Reporter...";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.Help        = "Generates tree information";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.ShortHelp   = "Tree Reporter";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.LongHelp   = "Generates tree information";
+
+// == SDNF Import ==
+GTCTrsCommandsHeader.GTCSDNFImportHdr.Title		="SDNF Import...";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.Help		="Imports an SDNF file";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.ShortHelp	="SDNF Import";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.LongHelp	="Imports an SDNF file";
+
+// == SDNF Export ==
+GTCTrsCommandsHeader.GTCSDNFExportHdr.Title		="SDNF Export...";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.Help		="Exports an SDNF file";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.ShortHelp	="SDNF Export";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.LongHelp	="Exports an SDNF file";
+
+// == CIS2 Export ==
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.Title		="CIS/2 Export...";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.Help		="Exports a CIS/2 file";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.ShortHelp	="CIS/2 Export";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.LongHelp	="Exports a CIS/2 file";
+
+
+// == Cost Est ==
+GTCTrsCommandsHeader.GTCCostEstimationHdr.Title		= "Uniformat Cost Estimation";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.Help		= "Produces a cost estimate based on model geometry attributed with Uniformat information";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.ShortHelp = "Uniformat Cost Estimation";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.LongHelp	= "Produces a cost estimate based on model geometry attributed with Uniformat information";
+
+
+// == Part to 3dxml ==
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.Title		= "Part to 3dxml...";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.Help		= "Export the current part to 3dxml file format";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.ShortHelp = "Part to 3dxml";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.LongHelp	= "Export the current part to 3dxml file format";
+
+
+// == Robot Export == 
+GTCTrsCommandsHeader.GTCTrsRobotNewExpHdr.Title		= "Robot Export...";
+GTCTrsCommandsHeader.GTCTrsRobotNewExpHdr.Help       = "Exports to Robot";
+GTCTrsCommandsHeader.GTCTrsRobotNewExpHdr.ShortHelp  = "Robot Export";
+GTCTrsCommandsHeader.GTCTrsRobotNewExpHdr.LongHelp   = "Exports to Robot";
+
+// == Robot Import == 
+GTCTrsCommandsHeader.GTCTrsRobotNewImpHdr.Title		= "Robot Import...";
+GTCTrsCommandsHeader.GTCTrsRobotNewImpHdr.Help       = "Imports from Robot";
+GTCTrsCommandsHeader.GTCTrsRobotNewImpHdr.ShortHelp  = "Robot Import";
+GTCTrsCommandsHeader.GTCTrsRobotNewImpHdr.LongHelp   = "Imports fromRobot";
+
+// == DFX/DWG Import with Link == 
+GTCTrsCommandsHeader.GTCTrsDWGImportHdr.Title		= "3D DXF or DWG Import With Link...";
+GTCTrsCommandsHeader.GTCTrsDWGImportHdr.Help       = "Imports a DXF or DWG file under the active product";
+GTCTrsCommandsHeader.GTCTrsDWGImportHdr.ShortHelp  = "3D DXF or DWG Import With Link";
+GTCTrsCommandsHeader.GTCTrsDWGImportHdr.LongHelp   = "Imports a DXF or DWG file under the active product";
+
+// == View Import Status == 
+GTCTrsCommandsHeader.GTCTrsReimportStatusHdr.Title		= "Update Imported Files...";
+GTCTrsCommandsHeader.GTCTrsReimportStatusHdr.Help       = "Update Imported Files";
+GTCTrsCommandsHeader.GTCTrsReimportStatusHdr.ShortHelp  = "Update Imported Files";
+GTCTrsCommandsHeader.GTCTrsReimportStatusHdr.LongHelp   = "Update Imported Files";
+

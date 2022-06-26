@@ -1,0 +1,7 @@
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCDprDrawingGenerationWkb.Title = "Drawing Generation";
+GTCDprDrawingGenerationWkb.Help       = "Drawing Generation";
+GTCDprDrawingGenerationWkb.ShortHelp  = "Drawing Generation";
+GTCDprDrawingGenerationWkb.LongHelp   = "Drawing Generation";

@@ -1,0 +1,12 @@
+Unit_mt = "[十GTCTrsDxfPropertyPageDlg,Unit_mt十一構ソチ－Meter(m)]";
+Unit_in = "[十GTCTrsDxfPropertyPageDlg,Unit_in十一構ソチ－Inch(in)]";
+Unit_invalid = "[十GTCTrsDxfPropertyPageDlg,Unit_invalid十一構ソチ－Invalid Unit]";
+GeneralOptions.HeaderFrame.Global.Title = "[十GTCTrsDxfPropertyPageDlg,.HeaderFrame.Global.Title十一構ソチ－General Options]";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.CGRLimit.Title = "[十GTCTrsDxfPropertyPageDlg,tionsFrame.CGRLimit.Title十一構ソチ－Maximum number of faces per surface:  ]";
+Unit_cm = "[十GTCTrsDxfPropertyPageDlg,Unit_cm十一構ソチ－Centimetre(cm)]";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.ImportSolidToPart.Title = "[十GTCTrsDxfPropertyPageDlg,e.ImportSolidToPart.Title十一構ソチ－Convert Solids to Parts               ]";
+Unit_ft = "[十GTCTrsDxfPropertyPageDlg,Unit_ft十一構ソチ－foot(ft)]";
+GeneralOptions.IconAndOptionsFrame.OptionsFrame.UnitOfFile.Title = "[十GTCTrsDxfPropertyPageDlg,onsFrame.UnitOfFile.Title十一構ソチ－  Unit of file :  ]";
+ImportOptions.HeaderFrame.Global.Title = "[十GTCTrsDxfPropertyPageDlg,.HeaderFrame.Global.Title十一構ソチ－Import Options]";
+Unit_mm = "[十GTCTrsDxfPropertyPageDlg,Unit_mm十一構ソチ－Millimeter(mm)]";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.ImportLayerToComp.Title = "[十GTCTrsDxfPropertyPageDlg,e.ImportLayerToComp.Title十一構ソチ－Convert Layers to Components          ]";

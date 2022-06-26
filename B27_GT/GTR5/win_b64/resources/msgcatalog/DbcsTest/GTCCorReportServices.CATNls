@@ -1,0 +1,9 @@
+GTCCorRunSectionFlatOval = "[十GTCCorReportServices,GTCCorRunSectionFlatOval十一構ソチ－Flat Oval]";
+GTCMultipleInstances = "[十GTCCorReportServices,GTCMultipleInstances十一構ソチ－<Multiple>]";
+GTCCorRunSectionNone = "[十GTCCorReportServices,GTCCorRunSectionNone十一構ソチ－None]";
+GTCCorRunSectionRadiusCorner = "[十GTCCorReportServices,CorRunSectionRadiusCorner十一構ソチ－Radius Corner]";
+GTCCorRunSectionRound = "[十GTCCorReportServices,GTCCorRunSectionRound十一構ソチ－Round]";
+GTCCorErrorOccurred = "[十GTCCorReportServices,GTCCorErrorOccurred十一構ソチ－## ERROR ##]";
+GTCCorRunSectionDblRidge = "[十GTCCorReportServices,GTCCorRunSectionDblRidge十一構ソチ－Double Ridge]";
+GTCCorUnknown = "[十GTCCorReportServices,GTCCorUnknown十一構ソチ－## UNKNOWN ##]";
+GTCCorRunSectionRect = "[十GTCCorReportServices,GTCCorRunSectionRect十一構ソチ－Rectangular]";

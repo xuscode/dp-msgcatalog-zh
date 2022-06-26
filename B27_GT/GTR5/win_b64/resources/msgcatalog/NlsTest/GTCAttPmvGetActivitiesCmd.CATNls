@@ -1,0 +1,7 @@
+ActivatePrjTitle = "[~GTCAttPmvGetActivitiesCmd,ActivatePrjTitle~ Actîvåté Primavera Prøject]";
+UnexpectedErrTitle = "[~GTCAttPmvGetActivitiesCmd,UnexpectedErrTitle~ Unéxpected Errør]";
+ActivatePrjMsg = "[~GTCAttPmvGetActivitiesCmd,ActivatePrjMsg~ Actîvåté Primavera Prøject and retry the command]";
+GTCAttPmvGetActivitiesCmd.InitialState.Message = "[~GTCAttPmvGetActivitiesCmd,sCmd.InitialState.Message~ Sélect å leaf prîmavera prøject]";
+UnexpectedErrMsg = "[~GTCAttPmvGetActivitiesCmd,UnexpectedErrMsg~ Unéxpected errør occürred, kîndly report the problem]";
+SuccessfullyLoadedTitle = "[~GTCAttPmvGetActivitiesCmd,SuccessfullyLoadedTitle~ Prîmåvéra Activites Løaded]";
+SuccessfullyLoadedMsg = "[~GTCAttPmvGetActivitiesCmd,SuccessfullyLoadedMsg~ Prîmåvéra activities have been løaded süccessfully]";

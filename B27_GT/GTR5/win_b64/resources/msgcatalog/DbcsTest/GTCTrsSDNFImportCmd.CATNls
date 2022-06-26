@@ -1,0 +1,7 @@
+Title = "[十GTCTrsSDNFImportCmd,Title十一構ソチ－SDNF Import]";
+FrameOptions.CheckButtonUseAngle.Title = "[十GTCTrsSDNFImportCmd,CheckButtonUseAngle.Title十一構ソチ－ Use Angle ]";
+FrameOptions.Title = "[十GTCTrsSDNFImportCmd,FrameOptions.Title十一構ソチ－ Options ]";
+FrameOptions.RadioStartToEnd.Title = "[十GTCTrsSDNFImportCmd,ons.RadioStartToEnd.Title十一構ソチ－ Start Point to End Point ]";
+FrameOptions.RadioEndToStart.Title = "[十GTCTrsSDNFImportCmd,ons.RadioEndToStart.Title十一構ソチ－ End Point to Start Point ]";
+PushButtonBrowse.Title = "[十GTCTrsSDNFImportCmd,PushButtonBrowse.Title十一構ソチ－...]";
+FrameOptions.CkBttnAnchorPts.Title = "[十GTCTrsSDNFImportCmd,ons.CkBttnAnchorPts.Title十一構ソチ－ Swap Left and Right Side Anchor Points ]";

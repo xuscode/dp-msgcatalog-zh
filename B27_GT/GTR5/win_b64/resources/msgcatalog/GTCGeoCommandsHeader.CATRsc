@@ -1,0 +1,20 @@
+
+// == Developable Surface Cmd ==
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.Icon.Normal = "I_GTCGeoDevelop";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.LongHelpId = "GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr";
+
+// == 3D Tag Cmd ==
+GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr.Icon.Normal = "I_GTCGeo3DTag";
+GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr.LongHelpId = "GTCGeoCommandsHeader.GTCGeo3DTagCmdHdr";
+
+// == Smart Tag Cmd ==
+GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr.Icon.Normal = "I_GTCGeoSmartTag";
+GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr.LongHelpId = "GTCGeoCommandsHeader.GTCGeoSmartTagCmdHdr";
+
+// == Update Tag Cmd ==
+GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr.Icon.Normal = "I_GTCGeoUpdateTag";
+GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr.LongHelpId = "GTCGeoCommandsHeader.GTCGeoUpdateTagCmdHdr";
+
+// == Sketch Output ==
+GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr.Icon.Normal = "I_SketchOutput";
+GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr.LongHelpId = "GTCGeoCommandsHeader.GTCGeoSketchOutputCmdHdr";

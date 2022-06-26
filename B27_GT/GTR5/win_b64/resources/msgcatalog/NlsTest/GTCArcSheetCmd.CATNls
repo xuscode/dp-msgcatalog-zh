@@ -1,0 +1,3 @@
+ErrorLoadDwg = "[~GTCArcSheetCmd,ErrorLoadDwg~~~~~~~~~~~~~~~~~~~~~~ Dråwîng døcümént can not be found. Please load the drawing manually and reselect the drawing sheet.]";
+GTCArcSheetCmd.SelectSheetState.Message = "[~GTCArcSheetCmd,.SelectSheetState.Message~ Sélect Dråftîng Sheet]";
+GTCArcSheetCmd.SelectBoundaryState.Message = "[~GTCArcSheetCmd,lectBoundaryState.Message~ Sélect Bøündåry]";

@@ -1,0 +1,55 @@
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCDprProjectWkb.Title = "Project";
+GTCDprProjectWkb.Help       = "Project";
+GTCDprProjectWkb.ShortHelp  = "Project";
+GTCDprProjectWkb.LongHelp   = "Project";
+GTCGenAnalyzeMenu.Title = "Analyze";
+GTCGenDataMenu.Title = "Data";
+GTCGenProjectAnnotationsSubMenu.Title = "Project Annotations";
+GTCGenDrawingAnnotationsSubMenu.Title = "Drawing Annotations";
+GTCGenDrawingViewsSubMenu.Title = "Drawing Views";
+//GTCGenExportSubMenu.Title = "Export";
+GTCGenSchedulesSubMenu.Title = "Schedules";
+GTCGenStructureToolsSubMenu.Title = "Structure Tools";
+GTC3DDxfTrsSubMenu.Title = "3D DXF DWG Translator";
+GTCIFCTrsSubMenu.Title = "IFC Translator";
+GTCDMUMoveCmu.Title = "Move...";
+GTCPublishCmu.Title = "Publish..";
+GTCAttsManagementToolsSubMenu.Title = "Attributes Management Tools";
+GTCShortcutsSubMenu.Title = "Environment Shortcuts";
+GTCDftRulesLayersSubMenu.Title = "Drafting Rules & Layers";
+
+//GTCAttributePackageTlb.Title = "Project Attributes";
+GTCGenProductStructTlb.Title = "Product Structure Tools";
+GTCGenProductRepTlb.Title = "Representation";
+GTCGenMeasureTlb.Title = "Measure";
+GTCGenMaterialTlb.Title = "Apply Material";
+GTCConstraintsTlb.Title = "Constraints";
+GTCGenUpdateTlb.Title = "Update";
+GTCCatalogTlb.Title = "Catalog";
+GTCGenSpatialAnalysisTlb.Title = "Spatial Analysis";
+GTCGenViews2DTlb.Title = "Drawing Views";
+GTCGenAnnotationTlb.Title = "Drawing Annotations";
+GTCGenSceneTlb.Title = "Scenes";
+GTCDMUMoveTlb.Title = "Move";
+GTCGenAnimationTlb.Title = "Animation";
+GTCGenReviewCreationTlb.Title = "Project Annotations(Basic)";
+GTCAdvancedReviewCreationTlb.Title = " Project Annotations(Advanced)";
+GTCGenSceneViewTlb.Title = "Scene View";
+GTCDataUtilitiesTlb.Title = "Data Utilities";
+GTCStructureToolsTlb.Title = "Structure Tools";
+GTCExcelDataSheetsTlb.Title = "Excel Data Sheets";
+GTCIFCProjectStructureTlb.Title = "Project Structure";
+GTCIFCSiteIbx.Title="Site";
+GTCIFCBldgIbx.Title="Building";
+GTCIFCBldgElevationIbx.Title="Building Storey At Elevation";
+
+GTCGuiWPAddinIconBox.Title = "Render Style";
+GTCConstructionAdminTlb.Title = "Construction Administration";
+GTCGeneralHelpTlb.Title = "Help"; 
+
+GTCTrsRobotTlb.Title = "Robot Translator";
+
+GTCArcSelectionTlb.Title = "A&S Selection";

@@ -1,0 +1,6 @@
+pSaveFileTypeFrame.pSaveAsLabel.Title = "[~GTCTrsGeomExpDxfDlg,eFrame.pSaveAsLabel.Title~ Såvé as  ]";
+Title = "[~GTCTrsGeomExpDxfDlg,Title~ 3D dxf ør dwg Export]";
+GTCExportNls_ProgressBarTitle = "[~GTCTrsGeomExpDxfDlg,xportNls_ProgressBarTitle~   Entîtiés Trånsfered]";
+pSaveFileTypeFrame.pSaveAsSingleDwgRadioButtton.Title = "[~GTCTrsGeomExpDxfDlg,ngleDwgRadioButtton.Title~ Sînglé Dwg]";
+pSaveFileTypeFrame.pSaveAsMultipleDwgRadioButton.Title = "[~GTCTrsGeomExpDxfDlg,tipleDwgRadioButton.Title~ Mültîplé Dwg]";
+GTCExportNls_ProgressBarSplit = "[~GTCTrsGeomExpDxfDlg,xportNls_ProgressBarSplit~ /]";

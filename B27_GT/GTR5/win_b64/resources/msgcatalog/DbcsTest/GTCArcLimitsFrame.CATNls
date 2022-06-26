@@ -1,0 +1,14 @@
+frameParent.frameChild.buttonRemove.Title = "[十GTCArcLimitsFrame,eChild.buttonRemove.Title十一構ソチ－ Remove ]";
+frameParent.frameChild.buttonAddAfter.Title = "[十GTCArcLimitsFrame,hild.buttonAddAfter.Title十一構ソチ－ Add after ]";
+ListOffset = "[十GTCArcLimitsFrame,ListOffset十一構ソチ－Offset]";
+frameParent.multiListLimObj.FeatureContextMenu.OriContextMenu.Title = "[十GTCArcLimitsFrame,Menu.OriContextMenu.Title十一構ソチ－Orientation]";
+OrientationPositive = "[十GTCArcLimitsFrame,OrientationPositive十一構ソチ－+]";
+ListLayer = "[十GTCArcLimitsFrame,ListLayer十一構ソチ－Layer]";
+ListOrientation = "[十GTCArcLimitsFrame,ListOrientation十一構ソチ－Orientation]";
+ListBoundary = "[十GTCArcLimitsFrame,ListBoundary十一構ソチ－Boundary]";
+OrientationNeutral = "[十GTCArcLimitsFrame,OrientationNeutral十一構ソチ－Neutral]";
+OrientationNegative = "[十GTCArcLimitsFrame,OrientationNegative十一構ソチ－-]";
+labelLimits = "[十GTCArcLimitsFrame,labelLimits十一構ソチ－ Limits   ]";
+frameParent.frameChild.buttonClear.Title = "[十GTCArcLimitsFrame,meChild.buttonClear.Title十一構ソチ－ Clear ]";
+frameParent.labelLayer.Title = "[十GTCArcLimitsFrame,meParent.labelLayer.Title十一構ソチ－ Layer ]";
+labelInnerLimits = "[十GTCArcLimitsFrame,labelInnerLimits十一構ソチ－ Inner Limits ]";

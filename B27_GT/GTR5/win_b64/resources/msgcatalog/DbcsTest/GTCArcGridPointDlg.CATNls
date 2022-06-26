@@ -1,0 +1,8 @@
+LabelReference.Title = "[十GTCArcGridPointDlg,LabelReference.Title十一構ソチ－Reference Point ]";
+EditorReference.Help = "[十GTCArcGridPointDlg,EditorReference.Help十一構ソチ－Reference Point]";
+EditorName.LongHelp = "[十GTCArcGridPointDlg,EditorName.LongHelp十一構ソチ－]\n[十GTCArcGridPointDlg,EditorName.LongHelp十一構ソチ－Intersection Name]";
+EditorReference.LongHelp = "[十GTCArcGridPointDlg,EditorReference.LongHelp十一構ソチ－Reference Point]";
+LabelName.Title = "[十GTCArcGridPointDlg,LabelName.Title十一構ソチ－Intersection Name ]";
+EditorName.ShortHelp = "[十GTCArcGridPointDlg,EditorName.ShortHelp十一構ソチ－Intersection Name]\n[十GTCArcGridPointDlg,EditorName.ShortHelp十一構ソチ－Intersection Name]";
+EditorReference.ShortHelp = "[十GTCArcGridPointDlg,EditorReference.ShortHelp十一構ソチ－Reference Point]";
+EditorName.Help = "[十GTCArcGridPointDlg,EditorName.Help十一構ソチ－Intersection Name]\n[十GTCArcGridPointDlg,EditorName.Help十一構ソチ－Intersection Name]";

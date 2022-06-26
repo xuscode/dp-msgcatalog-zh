@@ -1,0 +1,10 @@
+Title = "[~GTCAttSyncClassInstDlg,Title~ Synchrønîzé Attribütes]";
+DialogBoxContainer.DialogFrame.LabelExtension.Title = "[~GTCAttSyncClassInstDlg,rame.LabelExtension.Title~ PACKAGE]";
+DialogBoxContainer.DialogFrame.LabelAdd.Title = "[~GTCAttSyncClassInstDlg,ialogFrame.LabelAdd.Title~ Add]";
+DialogBoxContainer.DialogFrame.LabelAttribute.Title = "[~GTCAttSyncClassInstDlg,rame.LabelAttribute.Title~ ATTRIBUTE]";
+DialogBoxContainer.DialogFrame.LabelStatus.Title = "[~GTCAttSyncClassInstDlg,ogFrame.LabelStatus.Title~ CHANGE]";
+DialogBoxContainer.DialogFrame.LabelSyncConstDescrip.Title = "[~GTCAttSyncClassInstDlg,belSyncConstDescrip.Title~ Aré yøü sure you wånt to make the followîng change(s)?]";
+DialogBoxContainer.DialogFrame.LabelObject.Title = "[~GTCAttSyncClassInstDlg,ogFrame.LabelObject.Title~ OBJECT]";
+DialogBoxContainer.DialogFrame.LabelRemove.Title = "[~GTCAttSyncClassInstDlg,ogFrame.LabelRemove.Title~ Rémøve]";
+DialogBoxContainer.DialogFrame.LabelSpace.Title = "[~GTCAttSyncClassInstDlg,logFrame.LabelSpace.Title~        ]";
+LabelFinalDescrip.Title = "[~GTCAttSyncClassInstDlg,LabelFinalDescrip.Title~ Nø chångés are foünd to synchronîze.]";

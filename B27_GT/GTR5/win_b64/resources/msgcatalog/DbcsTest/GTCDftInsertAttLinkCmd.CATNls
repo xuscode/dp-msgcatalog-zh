@@ -1,0 +1,3 @@
+GTCDftInsertAttLinkCmd.SelectItemState.Message = "[十GTCDftInsertAttLinkCmd,d.SelectItemState.Message十一構ソチ－Select a generated item]";
+GTCDftInsertAttLinkCmd.SelectTextState.Message = "[十GTCDftInsertAttLinkCmd,d.SelectTextState.Message十一構ソチ－Select a drawing text]";
+GTCDftInsertAttLinkCmd.SelectAttState.Message = "[十GTCDftInsertAttLinkCmd,md.SelectAttState.Message十一構ソチ－Select an attribute]";

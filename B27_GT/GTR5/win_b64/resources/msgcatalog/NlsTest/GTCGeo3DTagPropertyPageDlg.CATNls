@@ -1,0 +1,4 @@
+btnRefreshListDwgTypes.LongHelp = "[~GTCGeo3DTagPropertyPageDlg,reshListDwgTypes.LongHelp~ Réfresh the lîst frøm GVS]";
+labelLabel.Title = "[~GTCGeo3DTagPropertyPageDlg,labelLabel.Title~ Låbél: ]";
+btnRefreshListDwgTypes.ShortHelp = "[~GTCGeo3DTagPropertyPageDlg,eshListDwgTypes.ShortHelp~ Réfresh the lîst frøm GVS]";
+labelDwgGenType.Title = "[~GTCGeo3DTagPropertyPageDlg,labelDwgGenType.Title~ Dråwîng Stylé: ]";

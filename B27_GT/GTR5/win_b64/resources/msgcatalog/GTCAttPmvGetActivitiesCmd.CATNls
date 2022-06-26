@@ -1,0 +1,11 @@
+GTCAttPmvGetActivitiesCmd.InitialState.Message="Select a leaf primavera project";
+
+ActivatePrjTitle="Activate Primavera Project";
+ActivatePrjMsg="Activate Primavera Project and retry the command";
+
+SuccessfullyLoadedTitle="Primavera Activites Loaded";
+SuccessfullyLoadedMsg="Primavera activities have been loaded successfully";
+
+
+UnexpectedErrTitle="Unexpected Error";
+UnexpectedErrMsg="Unexpected error occurred, kindly report the problem";

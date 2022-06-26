@@ -1,0 +1,6 @@
+FrameDiscreteFile.Title = "[十GTCCreateDftLayersAndRules,FrameDiscreteFile.Title十一構ソチ－Discrete values file]";
+Title = "[十GTCCreateDftLayersAndRules,Title十一構ソチ－Import 3d-2d Drafting Rules from CSV File]";
+FrameMapFile.Title = "[十GTCCreateDftLayersAndRules,FrameMapFile.Title十一構ソチ－Select CSV file]";
+FrameRuleFile.PushButtonBrowseRuleFile.Title = "[十GTCCreateDftLayersAndRules,uttonBrowseRuleFile.Title十一構ソチ－Browse...]";
+FrameMapFile.PushButtonBrowseMapFile.Title = "[十GTCCreateDftLayersAndRules,ButtonBrowseMapFile.Title十一構ソチ－Browse...]";
+FrameRuleFile.Title = "[十GTCCreateDftLayersAndRules,FrameRuleFile.Title十一構ソチ－Save 3d to 2d rules file to]";

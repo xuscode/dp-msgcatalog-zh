@@ -1,0 +1,19 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+// END WIZARD REPLACEMENT ZONE
+
+
+// eduardo
+
+Attach = "Attach /p1 to /p2";
+Edit = "Edit /p1 on /p2";
+
+TitleforAttach = "Attach Package";
+TitleforEdit = "Edit Package";
+
+Multiobj = "multiple objects";
+
+Multiple = "Multiple/";
+
+EditAttr = "Edit Attributes";
+EditAttrOnObj = "Edit Attributes on /p1";

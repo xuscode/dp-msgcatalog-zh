@@ -1,0 +1,9 @@
+frameFather.labelEval.LongHelp = "[十GTCGeoSmartTagDlg,Father.labelEval.LongHelp十一構ソチ－Insert Datasheet keywords in <> to evaluate. Ex:  ]\n[十GTCGeoSmartTagDlg,Father.labelEval.LongHelp十一構ソチ－ Name: <FeatureName>]\n[十GTCGeoSmartTagDlg,Father.labelEval.LongHelp十一構ソチ－<Member.Section>]";
+frameFather.labelLocation.Title = "[十GTCGeoSmartTagDlg,ather.labelLocation.Title十一構ソチ－Location: ]";
+frameFather.labelEval.Title = "[十GTCGeoSmartTagDlg,ameFather.labelEval.Title十一構ソチ－Evaluator: ]";
+frameFather.btnRefreshListDwgTypes.ShortHelp = "[十GTCGeoSmartTagDlg,eshListDwgTypes.ShortHelp十一構ソチ－Refresh the list from GVS]";
+frameFather.btnRefreshListDwgTypes.LongHelp = "[十GTCGeoSmartTagDlg,reshListDwgTypes.LongHelp十一構ソチ－Refresh the list from GVS]";
+frameFather.labelEval.ShortHelp = "[十GTCGeoSmartTagDlg,ather.labelEval.ShortHelp十一構ソチ－Insert Datasheet keywords in <> to evaluate. Ex:  ]\n[十GTCGeoSmartTagDlg,ather.labelEval.ShortHelp十一構ソチ－ Name: <FeatureName>]\n[十GTCGeoSmartTagDlg,ather.labelEval.ShortHelp十一構ソチ－<Member.Section>]";
+frameFather.labelParent.Title = "[十GTCGeoSmartTagDlg,eFather.labelParent.Title十一構ソチ－Reference: ]";
+frameFather.labelLabel.Title = "[十GTCGeoSmartTagDlg,meFather.labelLabel.Title十一構ソチ－Label: ]";
+frameFather.labelDwgGenType.Title = "[十GTCGeoSmartTagDlg,her.labelDwgGenType.Title十一構ソチ－Drawing Style: ]";

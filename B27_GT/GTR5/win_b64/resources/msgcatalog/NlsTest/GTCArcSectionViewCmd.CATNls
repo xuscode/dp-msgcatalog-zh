@@ -1,0 +1,6 @@
+GTCArcSectionViewCmd.SelectGroupState.Message = "[~GTCArcSectionViewCmd,.SelectGroupState.Message~ Sélect Grøüp or Lîst]";
+ErrorGenMode = "[~GTCArcSectionViewCmd,ErrorGenMode~~~~ Thîs cømmånd can only rün in thé exact or approximate view generation mode.]";
+ErrorInWorkObj = "[~GTCArcSectionViewCmd,ErrorInWorkObj~ Pléåse set a sheet as the în-wørk object.]";
+GTCArcSectionViewCmd.SelectBoundaryState.Message = "[~GTCArcSectionViewCmd,lectBoundaryState.Message~ Sélect Bøündåry]";
+GTCArcSectionViewCmd.SelectSupportState.Message = "[~GTCArcSectionViewCmd,electSupportState.Message~ Sélect Plåne]";
+GTCArcSectionViewCmd.SelectAxisState.Message = "[~GTCArcSectionViewCmd,d.SelectAxisState.Message~ Sélect Axîs]";

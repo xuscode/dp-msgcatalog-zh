@@ -1,0 +1,23 @@
+NewTitle = " New Slab ";
+EditTitle = " Edit Slab ";
+EditMultipleTitle = " Edit Slabs ";
+
+frameParent.frameSupport.labelName.Title = " Name ";
+
+frameParent.frameSupport.labelSupportLayer.Title = " Layer ";
+frameParent.frameSupport.labelSupportOffset.Title = " Offset ";
+frameParent.frameSupport.labelSupport.Title = " Support   ";
+
+frameParent.framePosition.Title = " Position ";
+frameParent.framePosition.labelPositionLayer.Title = " Layer ";
+frameParent.framePosition.labelPositionOffset.Title = " Offset ";
+
+frameParent.frameOutputs.Title = " Outputs ";
+frameParent.frameOutputs.chkBtnStructPanel.Title = " Structural Panel ";
+frameParent.frameOutputs.chkBtnEnvelope.Title = " Envelope ";
+frameParent.frameOutputs.chkBtnCoreSolid.Title = " Slab Solid ";
+frameParent.frameOutputs.chkBtnFinishSurf.Title = " Finish Surfaces ";
+
+frameParent.frameOutputs.labelStrPanel.Title = " Structural Panel Layer   ";
+
+frameParent.frameOutputs.labelSegments.Title = "   Segments ";

@@ -1,0 +1,11 @@
+// COPYRIGHT DASSAULT SYSTEMES 2004
+
+//===========================================================================
+// Resource catalog for the CATDesDisplayPropertiesPageEdt class
+// used in the CATDesDisplayPropertiesPageEdt command for 
+//===========================================================================
+TabPage.SolutionName  = "Infrastructure" ;
+TabPage.WorkbenchName = "DesignerWorkshop" ;
+TabPage.LongHelpId = "ToolsOptions.Infrastructure.DesignerWorkshop.Display" ;
+TabPage.PriorityNb    = "1";
+

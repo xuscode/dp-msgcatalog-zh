@@ -1,0 +1,12 @@
+GTCExportNls_IfcFileDotExt = "[~GTCTrsGeomExpIfcCmd,TCExportNls_IfcFileDotExt~ .îfc]";
+GTCExportNls_IfcDlgTitle = "[~GTCTrsGeomExpIfcCmd,GTCExportNls_IfcDlgTitle~ Såvé As]";
+GTCTrsGeomExpIfcCmd.initialState.Message = "[~GTCTrsGeomExpIfcCmd,cCmd.initialState.Message~ Clîck ånywhére in the viewer tø exit]";
+GTCExportNls_IfcFileExt = "[~GTCTrsGeomExpIfcCmd,GTCExportNls_IfcFileExt~ *.îfc]";
+GTCExportNls_NotifyTitle = "[~GTCTrsGeomExpIfcCmd,GTCExportNls_NotifyTitle~ Såvé As]";
+GTCExportNls_NotifyMessageLine1A = "[~GTCTrsGeomExpIfcCmd,rtNls_NotifyMessageLine1A~ Thé îtem ]";
+GTCExportNls_NotifyMessageLine2 = "[~GTCTrsGeomExpIfcCmd,ortNls_NotifyMessageLine2~ Dø yoü wånt ît to bé overwritten?]";
+GTCExportNls_ProgressBar_FileRead_Title = "[~GTCTrsGeomExpIfcCmd,rogressBar_FileRead_Title~ Réådîng Oütput Data]";
+GTCExportNls_LogFileName = "[~GTCTrsGeomExpIfcCmd,GTCExportNls_LogFileName~ 3DIfcExpørt.txt]";
+GTCExportNls_IfcFileDescription = "[~GTCTrsGeomExpIfcCmd,ortNls_IfcFileDescription~ îfc]";
+GTCExportNls_NotifyMessageLine1B = "[~GTCTrsGeomExpIfcCmd,rtNls_NotifyMessageLine1B~  ålréady exîsts.]";
+GTCExportNls_LineBreak = "[~GTCTrsGeomExpIfcCmd,GTCExportNls_LineBreak~ ]\n[~GTCTrsGeomExpIfcCmd,GTCExportNls_LineBreak~ ]";

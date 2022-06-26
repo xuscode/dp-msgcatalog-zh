@@ -1,0 +1,7 @@
+GTCArcFrontViewCmd.SelectSupportState.Message = "[十GTCArcFrontViewCmd,electSupportState.Message十一構ソチ－Select Plane]";
+ErrorInWorkObj = "[十GTCArcFrontViewCmd,ErrorInWorkObj十一構ソチ－Please set a sheet as the in-work object.]";
+ErrorLoadDwg = "[十GTCArcFrontViewCmd,ErrorLoadDwg十一構ソチ－Drawing document can not be found.]";
+GTCArcFrontViewCmd.SelectBoundaryState.Message = "[十GTCArcFrontViewCmd,lectBoundaryState.Message十一構ソチ－Select Boundary]";
+GTCArcFrontViewCmd.SelectGroupState.Message = "[十GTCArcFrontViewCmd,.SelectGroupState.Message十一構ソチ－Select Group or List]";
+GTCArcFrontViewCmd.SelectAxisState.Message = "[十GTCArcFrontViewCmd,d.SelectAxisState.Message十一構ソチ－Select Axis]";
+UpdateTitle = "[十GTCArcFrontViewCmd,UpdateTitle十一構ソチ－Update]";

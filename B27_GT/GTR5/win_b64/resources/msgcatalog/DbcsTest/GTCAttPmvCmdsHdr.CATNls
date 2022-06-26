@@ -1,0 +1,12 @@
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.LongHelp = "[十GTCAttPmvCmdsHdr,etProjectsCmdHdr.LongHelp十一構ソチ－Imports/refreshes the Primavera project structure]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Title = "[十GTCAttPmvCmdsHdr,GetActivitiesCmdHdr.Title十一構ソチ－Get Primavera Activities]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.ShortHelp = "[十GTCAttPmvCmdsHdr,ctivitiesCmdHdr.ShortHelp十一構ソチ－Get Primavera Activities]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.ShortHelp = "[十GTCAttPmvCmdsHdr,tConnInfoCmdHdr.ShortHelp十一構ソチ－Connect to Primavera]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Title = "[十GTCAttPmvCmdsHdr,mvGetProjectsCmdHdr.Title十一構ソチ－Get Primavera Projects]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Help = "[十GTCAttPmvCmdsHdr,PmvGetConnInfoCmdHdr.Help十一構ソチ－Connects to a Primavera database]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.LongHelp = "[十GTCAttPmvCmdsHdr,etConnInfoCmdHdr.LongHelp十一構ソチ－Connects to a Primavera database]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Help = "[十GTCAttPmvCmdsHdr,PmvGetProjectsCmdHdr.Help十一構ソチ－Imports/refreshes the Primavera project structure]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.ShortHelp = "[十GTCAttPmvCmdsHdr,tProjectsCmdHdr.ShortHelp十一構ソチ－Get Primavera Projects]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Title = "[十GTCAttPmvCmdsHdr,mvGetConnInfoCmdHdr.Title十一構ソチ－Connect to Primavera...]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Help = "[十GTCAttPmvCmdsHdr,vGetActivitiesCmdHdr.Help十一構ソチ－Imports/refreshes the activities of a Primavera project]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.LongHelp = "[十GTCAttPmvCmdsHdr,ActivitiesCmdHdr.LongHelp十一構ソチ－Imports/refreshes the activities of a Primavera project]";

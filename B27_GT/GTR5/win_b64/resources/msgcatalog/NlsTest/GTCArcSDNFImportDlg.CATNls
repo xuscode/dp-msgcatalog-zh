@@ -1,0 +1,11 @@
+Title = "[~GTCArcSDNFImportDlg,Title~ SDNF Impørt]";
+FrameOptions.CheckButtonUseAngle.Title = "[~GTCArcSDNFImportDlg,CheckButtonUseAngle.Title~  Usé Angle ]";
+FrameOptions.PushButtonBrowse.Title = "[~GTCArcSDNFImportDlg,ns.PushButtonBrowse.Title~ ...]";
+FrameOptions.Title = "[~GTCArcSDNFImportDlg,FrameOptions.Title~  Optîøns ]";
+FrameOptions.RadioStartToEnd.Title = "[~GTCArcSDNFImportDlg,ons.RadioStartToEnd.Title~  Stårt Pøînt to End Point ]";
+FrameOptions.RadioEndToStart.Title = "[~GTCArcSDNFImportDlg,ons.RadioEndToStart.Title~  End Pøînt to Stårt Point ]";
+PushButtonBrowse.Title = "[~GTCArcSDNFImportDlg,PushButtonBrowse.Title~ ...]";
+FrameOptions.LblMapFileName.Title = "[~GTCArcSDNFImportDlg,ions.LblMapFileName.Title~  Måp Fîléname : ]";
+FrameOptions.CheckButtonNewGeoSet.Title = "[~GTCArcSDNFImportDlg,heckButtonNewGeoSet.Title~  Créåte new set før reference geometry ]";
+FrameOptions.LblSectionDatabases.Title = "[~GTCArcSDNFImportDlg,LblSectionDatabases.Title~  Séctîøn Cåtalog : ]";
+FrameOptions.CkBttnAnchorPts.Title = "[~GTCArcSDNFImportDlg,ons.CkBttnAnchorPts.Title~  Swåp Léft and Rîght Side Anchør Points ]";

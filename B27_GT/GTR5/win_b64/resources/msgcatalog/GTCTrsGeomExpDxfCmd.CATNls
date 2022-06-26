@@ -1,0 +1,28 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+//Dialog title
+GTCExportNls_DxfDlgTite="Save As";
+
+//File Extensions
+GTCExportNls_DxfFileExt="*.dxf";
+GTCExportNls_DwgFileExt="*.dwg";
+GTCExportNls_DxfFileDescription="dxf";
+GTCExportNls_DwgFileDescription="dwg";
+
+GTCExportNls_DxfFileDotExt=".dxf";
+GTCExportNls_DwgFileDotExt=".dwg";
+
+
+//Rewrite file messages
+GTCExportNls_NotifyTitle="Save As";
+GTCExportNls_NotifyMessageLine1A="The item ";
+GTCExportNls_NotifyMessageLine1B=" already exists.";
+GTCExportNls_NotifyMessageLine2="Do you want it to be overwritten?";
+GTCExportNls_LineBreak="\n";
+
+GTCExportNls_LogFileName="3DdxfdwgExport.txt";
+
+//Used in part workbench.
+GTCExportNls_DlgTitle="3D dxf or dwg Export";
+GTCExportNls_ProgressBarTitle="   Entities Transfered";
+GTCExportNls_ProgressBarSplit=" / ";

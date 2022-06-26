@@ -1,0 +1,17 @@
+frameParent.frameOutputs.Title = "[~GTCArcFloorDlg,Parent.frameOutputs.Title~  Oütputs ]";
+EditMultipleTitle = "[~GTCArcFloorDlg,EditMultipleTitle~  Edît Slåbs ]";
+frameParent.framePosition.labelPositionLayer.Title = "[~GTCArcFloorDlg,.labelPositionLayer.Title~  Låyér ]";
+frameParent.frameOutputs.chkBtnEnvelope.Title = "[~GTCArcFloorDlg,puts.chkBtnEnvelope.Title~  Envéløpe ]";
+frameParent.frameOutputs.chkBtnFinishSurf.Title = "[~GTCArcFloorDlg,ts.chkBtnFinishSurf.Title~  Fînish Sürfåcés ]";
+frameParent.frameSupport.labelName.Title = "[~GTCArcFloorDlg,meSupport.labelName.Title~  Nåmé ]";
+frameParent.frameSupport.labelSupportOffset.Title = "[~GTCArcFloorDlg,.labelSupportOffset.Title~  Offsét ]";
+frameParent.framePosition.Title = "[~GTCArcFloorDlg,arent.framePosition.Title~  Pøsîtion ]";
+frameParent.frameOutputs.labelSegments.Title = "[~GTCArcFloorDlg,tputs.labelSegments.Title~    Ségments ]";
+NewTitle = "[~GTCArcFloorDlg,NewTitle~  Néw Slåb ]";
+frameParent.frameSupport.labelSupport.Title = "[~GTCArcFloorDlg,upport.labelSupport.Title~  Süppørt   ]";
+frameParent.framePosition.labelPositionOffset.Title = "[~GTCArcFloorDlg,labelPositionOffset.Title~  Offsét ]";
+frameParent.frameSupport.labelSupportLayer.Title = "[~GTCArcFloorDlg,t.labelSupportLayer.Title~  Låyér ]";
+frameParent.frameOutputs.chkBtnStructPanel.Title = "[~GTCArcFloorDlg,s.chkBtnStructPanel.Title~  Strücturål Panél ]";
+EditTitle = "[~GTCArcFloorDlg,EditTitle~  Edît Slåb ]";
+frameParent.frameOutputs.chkBtnCoreSolid.Title = "[~GTCArcFloorDlg,uts.chkBtnCoreSolid.Title~  Slåb Sølîd ]";
+frameParent.frameOutputs.labelStrPanel.Title = "[~GTCArcFloorDlg,tputs.labelStrPanel.Title~  Strücturål Panél Layer   ]";

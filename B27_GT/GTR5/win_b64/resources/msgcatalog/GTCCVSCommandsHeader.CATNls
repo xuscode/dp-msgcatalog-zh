@@ -1,0 +1,30 @@
+// == Cached Status == 
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.Title		= "Check Version Control Status...";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.Help        = "Select an object to check its Version Control status";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.ShortHelp   = "Check Version Control Status";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.LongHelp    = "Select an object to check its Version Control status";
+
+
+// == Status == 
+GTCCVSCommandsHeader.GTCCVSStatusHdr.Title		= "Check Version Control Status";
+GTCCVSCommandsHeader.GTCCVSStatusHdr.Help        = "Select an object to check its Version Control status";
+GTCCVSCommandsHeader.GTCCVSStatusHdr.ShortHelp   = "Check Version Control Status";
+GTCCVSCommandsHeader.GTCCVSStatusHdr.LongHelp    = "Select an object to check its Version Control status";
+
+// == Edit == 
+GTCCVSCommandsHeader.GTCCVSEditHdr.Title		= "Lock";
+GTCCVSCommandsHeader.GTCCVSEditHdr.Help        = "Select an object to edit";
+GTCCVSCommandsHeader.GTCCVSEditHdr.ShortHelp   = "Lock";
+GTCCVSCommandsHeader.GTCCVSEditHdr.LongHelp    = "Lock(SVN)/Edit(CVS)";
+
+// == Refresh == 
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.Title		= "Refresh";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.Help        = "Refresh the Version Control status";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.ShortHelp   = "Refresh the Version Control status";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.LongHelp    = "Refresh the Version Control status";
+
+// == Unedit == 
+GTCCVSCommandsHeader.GTCCVSUneditHdr.Title		= "Release Lock";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.Help        = "Select an object to unedit";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.ShortHelp   = "Release Lock";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.LongHelp    = "Release Lock(SVN)/Unedit(CVS)";

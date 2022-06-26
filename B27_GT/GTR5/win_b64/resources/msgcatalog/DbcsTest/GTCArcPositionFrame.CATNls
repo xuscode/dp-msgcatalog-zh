@@ -1,0 +1,11 @@
+frameParent.pushBttnHorizNormal.Title = "[十GTCArcPositionFrame,pushBttnHorizNormal.Title十一構ソチ－ Normal / Vertical ]";
+frameParent.pushBttnInvert.Title = "[十GTCArcPositionFrame,rent.pushBttnInvert.Title十一構ソチ－Invert]";
+frameParent.Title = "[十GTCArcPositionFrame,frameParent.Title十一構ソチ－ Position ]";
+OrientationPositive = "[十GTCArcPositionFrame,OrientationPositive十一構ソチ－+]";
+frameParent.labelSetPoint.Title = "[十GTCArcPositionFrame,arent.labelSetPoint.Title十一構ソチ－ Set Point ]";
+frameParent.labelAngle.Title = "[十GTCArcPositionFrame,meParent.labelAngle.Title十一構ソチ－ Angle ]";
+frameParent.labelAngleReference.Title = "[十GTCArcPositionFrame,labelAngleReference.Title十一構ソチ－ Angle Reference ]";
+OrientationNeutral = "[十GTCArcPositionFrame,OrientationNeutral十一構ソチ－o]";
+OrientationNegative = "[十GTCArcPositionFrame,OrientationNegative十一構ソチ－-]";
+frameParent.labelVOffset.Title = "[十GTCArcPositionFrame,Parent.labelVOffset.Title十一構ソチ－  V-Offset ]";
+frameParent.labelHOffset.Title = "[十GTCArcPositionFrame,Parent.labelHOffset.Title十一構ソチ－  H-Offset ]";

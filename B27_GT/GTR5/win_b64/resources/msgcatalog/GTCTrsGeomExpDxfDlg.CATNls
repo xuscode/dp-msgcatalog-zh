@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "3D dxf or dwg Export";
+pSaveFileTypeFrame.pSaveAsLabel.Title = "Save as  ";
+pSaveFileTypeFrame.pSaveAsSingleDwgRadioButtton.Title = "Single Dwg";
+pSaveFileTypeFrame.pSaveAsMultipleDwgRadioButton.Title = "Multiple Dwg";
+// END WIZARD REPLACEMENT ZONE
+
+//Progress Bar Count
+GTCExportNls_ProgressBarSplit="/";
+GTCExportNls_ProgressBarTitle="  Entities Transfered";
+
+

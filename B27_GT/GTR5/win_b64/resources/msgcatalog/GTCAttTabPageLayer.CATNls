@@ -1,0 +1,25 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+//ContentFrame.radioButtonFrame.SingleValueID.Title = "Single Value";
+//ContentFrame.radioButtonFrame.RangeID.Title = "Range";
+
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "Value";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "Color";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "Hide   ";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "Select";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.UnsetID.Title = "Unset";
+
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "From Value";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "To Value";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.UnsetID.Title = "Unset";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "Color";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "Hide   ";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "Select";
+
+//ClearApplyFrame.ClearID.Title = "Clear";
+//ClearApplyFrame.ApplyID.Title = "Apply";
+
+//none = "NONE";
+
+// END WIZARD REPLACEMENT ZONE

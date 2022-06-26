@@ -1,0 +1,17 @@
+frameElement.labelElementLayer.Title = "[~GTCArcOpeningDlg,t.labelElementLayer.Title~  Låyér ]";
+frameParent.frameOutputs.Title = "[~GTCArcOpeningDlg,Parent.frameOutputs.Title~  Oütputs ]";
+frameParent.frameOutputs.chkBtnPanel.Title = "[~GTCArcOpeningDlg,Outputs.chkBtnPanel.Title~  Pånél ]";
+frameParent.framePlacement.labelOrientation.Title = "[~GTCArcOpeningDlg,nt.labelOrientation.Title~  Orîéntåtiøn ]";
+frameElement.labelName.Title = "[~GTCArcOpeningDlg,meElement.labelName.Title~  Nåmé ]";
+frameParent.framePlacement.Title = "[~GTCArcOpeningDlg,rent.framePlacement.Title~  Plåcément ]";
+frameParent.framePlacement.labelSetPoint.Title = "[~GTCArcOpeningDlg,ement.labelSetPoint.Title~  Sét Pøînt ]";
+frameNameType.labelName.Title = "[~GTCArcOpeningDlg,eNameType.labelName.Title~  Nåmé ]";
+frameParent.framePlacement.labelPosition.Title = "[~GTCArcOpeningDlg,ement.labelPosition.Title~  Pøsîtion ]";
+frameParent.frameOutputs.chkBtnWire.Title = "[~GTCArcOpeningDlg,eOutputs.chkBtnWire.Title~  Wîré ]";
+ButtonLess = "[~GTCArcOpeningDlg,ButtonLess~  Cømpléte ]";
+NewTitle = "[~GTCArcOpeningDlg,NewTitle~  Néw Openîng ]";
+frameElement.labelElement.Title = "[~GTCArcOpeningDlg,lement.labelElement.Title~  Elément ]";
+frameMore.labelFromLim.Title = "[~GTCArcOpeningDlg,meMore.labelFromLim.Title~  Frøm ]";
+EditTitle = "[~GTCArcOpeningDlg,EditTitle~  Edît Opéning ]";
+frameMore.labelToLim.Title = "[~GTCArcOpeningDlg,rameMore.labelToLim.Title~  Tø ]";
+ButtonMore = "[~GTCArcOpeningDlg,ButtonMore~  Pårtîal ]";

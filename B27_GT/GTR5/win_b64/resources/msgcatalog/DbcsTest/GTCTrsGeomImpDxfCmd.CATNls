@@ -1,0 +1,7 @@
+GTCImportNls_LogFileName = "[十GTCTrsGeomImpDxfCmd,GTCImportNls_LogFileName十一構ソチ－3DdxfdwgImport.txt]";
+GTCImportNls_DwgFileExt = "[十GTCTrsGeomImpDxfCmd,GTCImportNls_DwgFileExt十一構ソチ－*.dwg]";
+GTCImportNls_DxfFileDescription = "[十GTCTrsGeomImpDxfCmd,ortNls_DxfFileDescription十一構ソチ－dxf (*.dxf)]";
+GTCImportNls_DwgFileDescription = "[十GTCTrsGeomImpDxfCmd,ortNls_DwgFileDescription十一構ソチ－dwg (*.dwg)]";
+GTCImportNls_DxfDlgTite = "[十GTCTrsGeomImpDxfCmd,GTCImportNls_DxfDlgTite十一構ソチ－File Selection]";
+GTCImportNls_DxfFileExt = "[十GTCTrsGeomImpDxfCmd,GTCImportNls_DxfFileExt十一構ソチ－*.dxf]";
+GTCTrsGeomImpDxfCmd.initialState.Message = "[十GTCTrsGeomImpDxfCmd,fCmd.initialState.Message十一構ソチ－Select .dxf file to import under active product]";

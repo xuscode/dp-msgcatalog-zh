@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Sorted View";
+LabelFileName.Title = "XML File : ";
+PushButtonFileChooser.Title = "...";
+// END WIZARD REPLACEMENT ZONE

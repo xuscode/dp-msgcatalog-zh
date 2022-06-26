@@ -1,0 +1,9 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Rename Tree";
+FrameRename.Title = " Rename ";
+FrameRename.LabelReplace.Title = " Replace ";
+FrameRename.Labelwith.Title = " With ";
+FrameAffect.Title = " Affect ";
+FrameAffect.CheckButtonProducts.Title = " Products ";
+FrameAffect.CheckButtonParts.Title = " Parts ";
+// END WIZARD REPLACEMENT ZONE

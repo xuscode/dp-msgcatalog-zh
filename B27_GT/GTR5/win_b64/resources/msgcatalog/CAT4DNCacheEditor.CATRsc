@@ -1,0 +1,10 @@
+TabPage.WorkshopName =  "PRDWorkshop";
+
+// Pour la nouvelle interface utilisateur - CXR5
+// -->STH
+TabPage.SolutionName  = "Infrastructure";
+TabPage.WorkbenchName = "GTCDprProjectWkb";
+// <--
+TabPage.LongHelpId    = "ToolsOptions.Infrastructure.ProductStructure.CacheManagement";
+TabPage.PriorityNb = "0";
+//veguru

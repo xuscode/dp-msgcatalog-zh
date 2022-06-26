@@ -1,0 +1,10 @@
+GTCArcBeamColumnRibCmd.StateInitial.Message = "[十GTCArcBeamColumnRibCmd,bCmd.StateInitial.Message十一構ソチ－Click anywhere in the viewer to exit]";
+GTCArcBeamColumnRibCmd.StateGetAngleRef.Message = "[十GTCArcBeamColumnRibCmd,.StateGetAngleRef.Message十一構ソチ－Select an element as an alignment reference]";
+GTCArcBeamColumnRibCmd.StateGetFromLim.Message = "[十GTCArcBeamColumnRibCmd,d.StateGetFromLim.Message十一構ソチ－Select an element to limit the first side]";
+GTCArcBeamColumnRibCmd.StateNoSel.Message = "[十GTCArcBeamColumnRibCmd,RibCmd.StateNoSel.Message十一構ソチ－Specify member attributes]";
+GTCArcBeamColumnRibCmd.StateSetPoint.Message = "[十GTCArcBeamColumnRibCmd,Cmd.StateSetPoint.Message十一構ソチ－Select set point position]";
+GTCArcBeamColumnRibCmd.StateGetSupport.Message = "[十GTCArcBeamColumnRibCmd,d.StateGetSupport.Message十一構ソチ－Select a support element]";
+GTCArcBeamColumnRibCmd.StateStructSetPoint.Message = "[十GTCArcBeamColumnRibCmd,ateStructSetPoint.Message十一構ソチ－Select structural set point position]";
+GTCArcBeamColumnRibCmd.StateGetPrimaryMultiSupport.Message = "[十GTCArcBeamColumnRibCmd,imaryMultiSupport.Message十一構ソチ－Select the primary support element]";
+GTCArcBeamColumnRibCmd.StateGetToLim.Message = "[十GTCArcBeamColumnRibCmd,Cmd.StateGetToLim.Message十一構ソチ－Select an element to limit the second side]";
+GTCArcBeamColumnRibCmd.StateGetCustomSection.Message = "[十GTCArcBeamColumnRibCmd,eGetCustomSection.Message十一構ソチ－Select an element for the custom section]";

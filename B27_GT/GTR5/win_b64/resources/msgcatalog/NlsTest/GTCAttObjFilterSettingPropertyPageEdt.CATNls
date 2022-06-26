@@ -1,0 +1,4 @@
+GTCAttObjFilterSettingPropertyPageEdt.SetNoOfRulesInColorFilterTabPage.LongHelp = "[~GTCAttObjFilterSettingPropertyPageEdt,lorFilterTabPage.LongHelp~ Sét nümber øf rules for color fîlter]";
+GTCAttObjFilterSettingPropertyPageEdt.SetAttributeFilter.LongHelp = "[~GTCAttObjFilterSettingPropertyPageEdt,tAttributeFilter.LongHelp~ Sét øbject types to åssîgn attribütes to...]";
+GTCAttObjFilterSettingPropertyPageEdt.SetSimOptions.LongHelp = "[~GTCAttObjFilterSettingPropertyPageEdt,dt.SetSimOptions.LongHelp~ Sét Prîmåvera tree visüalizatiøn options]";
+TabPage.Title = "[~GTCAttObjFilterSettingPropertyPageEdt,TabPage.Title~ Attrîbütés]";

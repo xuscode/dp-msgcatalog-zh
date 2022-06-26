@@ -1,0 +1,10 @@
+Frame003.btnShowAct.Title = "[十GTCAttMSPSyncActivitiesDlg,Frame003.btnShowAct.Title十一構ソチ－Show in MS Project]";
+Title = "[十GTCAttMSPSyncActivitiesDlg,Title十一構ソチ－Sync Activities]";
+Frame003.Title = "[十GTCAttMSPSyncActivitiesDlg,Frame003.Title十一構ソチ－Navigation]";
+frmSync.Frame005.Label006.Title = "[十GTCAttMSPSyncActivitiesDlg,c.Frame005.Label006.Title十一構ソチ－     ]";
+frmSync.Frame005.btnExport.Title = "[十GTCAttMSPSyncActivitiesDlg,.Frame005.btnExport.Title十一構ソチ－DP >> MS Project]";
+Frame003.btnCenterGraph.Title = "[十GTCAttMSPSyncActivitiesDlg,e003.btnCenterGraph.Title十一構ソチ－     Show in DP     ]";
+frmSync.Title = "[十GTCAttMSPSyncActivitiesDlg,frmSync.Title十一構ソチ－Synchronization]";
+Frame003.Label007.Title = "[十GTCAttMSPSyncActivitiesDlg,Frame003.Label007.Title十一構ソチ－   ]";
+frmSync.txtActType.Title = "[十GTCAttMSPSyncActivitiesDlg,frmSync.txtActType.Title十一構ソチ－Activity Type  ]";
+frmSync.Frame005.btnImport.Title = "[十GTCAttMSPSyncActivitiesDlg,.Frame005.btnImport.Title十一構ソチ－DP << MS Project]";

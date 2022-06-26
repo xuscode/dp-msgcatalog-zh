@@ -1,0 +1,47 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+RdItemSlabs.Icon = "I_GTCArcSlab";
+RdItemSlabs.IconSel = "I_GTCArcSlabSelected";
+RdItemSlabs.IconFocus = "I_GTCArcSlabSelected";
+
+RdItemWalls.Icon = "I_GTCArcWall";
+RdItemWalls.IconSel = "I_GTCArcWallSelected";
+RdItemWalls.IconFocus = "I_GTCArcWallSelected";
+
+RdItemBeams.Icon = "I_GTCArcBeam";
+RdItemBeams.IconSel = "I_GTCArcBeamSelected";
+RdItemBeams.IconFocus = "I_GTCArcBeamSelected";
+
+RdItemColumns.Icon = "I_GTCArcColumn";
+RdItemColumns.IconSel = "I_GTCArcColumnSelected";
+RdItemColumns.IconFocus = "I_GTCArcColumnSelected";
+
+RdItemContOpenings.Icon = "I_GTCArcContourOpn";
+RdItemContOpenings.IconSel = "I_GTCArcContourOpnSelected";
+RdItemContOpenings.IconFocus = "I_GTCArcContourOpnSelected";
+
+
+RdItemContxOpenings.Icon = "I_GTCArcSweepOpn";
+RdItemContxOpenings.IconSel = "I_GTCArcSweepOpnSelected";
+RdItemContxOpenings.IconFocus = "I_GTCArcSweepOpnSelected";
+
+RdItemDoors.Icon = "I_GTCArcDoorOpn";
+RdItemDoors.IconSel = "I_GTCArcDoorOpnSelected";
+RdItemDoors.IconFocus = "I_GTCArcDoorOpnSelected";
+
+RdItemWindowsAtElev.Icon = "I_GTCArcWindowOpnElev";
+RdItemWindowsAtElev.IconSel = "I_GTCArcWindowOpnElevSelected";
+RdItemWindowsAtElev.IconFocus = "I_GTCArcWindowOpnElevSelected";
+
+RdItemWindows.Icon = "I_GTCArcWindowOpn";
+RdItemWindows.IconSel = "I_GTCArcWindowOpnSelected";
+RdItemWindows.IconFocus = "I_GTCArcWindowOpnSelected";
+
+RdItemSpaces.Icon = "I_GTCArcSpace";
+RdItemSpaces.IconSel = "I_GTCArcSpaceSelected";
+RdItemSpaces.IconFocus = "I_GTCArcSpaceSelected";
+
+RdItemCurrPkg.Icon = "I_GTCFilterPackage";
+RdItemCurrPkg.IconSel = "I_GTCFilterPackageSelected";
+RdItemCurrPkg.IconFocus = "I_GTCFilterPackageSelected";

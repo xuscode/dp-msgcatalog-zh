@@ -1,0 +1,8 @@
+labelTop.Title = "[~GTCArcSpaceDlg,labelTop.Title~  Tøp ]";
+labelShortName.Title = "[~GTCArcSpaceDlg,labelShortName.Title~  Nümbér ]";
+frameFloorThicknessParent.labelAnalyticalVolume.Title = "[~GTCArcSpaceDlg,belAnalyticalVolume.Title~  Anålytîcal Vølümé ]";
+labelBottom.Title = "[~GTCArcSpaceDlg,labelBottom.Title~  Bøttom ]";
+frameFloorThicknessParent.labelFloor1Thickness.Title = "[~GTCArcSpaceDlg,abelFloor1Thickness.Title~  Fløorîng Thicknéss   ]";
+NewTitle = "[~GTCArcSpaceDlg,NewTitle~  Néw Spåce ]";
+labelLongName.Title = "[~GTCArcSpaceDlg,labelLongName.Title~  Løng Nåmé     ]";
+EditTitle = "[~GTCArcSpaceDlg,EditTitle~  Edît Spåcé ]";

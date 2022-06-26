@@ -1,0 +1,12 @@
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.LongHelp = "[~GTCAttPmvCmdsHdr,etProjectsCmdHdr.LongHelp~ Impørts/réfreshes the Prîmåvera project strücture]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Title = "[~GTCAttPmvCmdsHdr,GetActivitiesCmdHdr.Title~ Gét Prîmåvera Activities]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.ShortHelp = "[~GTCAttPmvCmdsHdr,ctivitiesCmdHdr.ShortHelp~ Gét Prîmåvera Activities]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.ShortHelp = "[~GTCAttPmvCmdsHdr,tConnInfoCmdHdr.ShortHelp~ Cønnéct to Prîmåvera]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Title = "[~GTCAttPmvCmdsHdr,mvGetProjectsCmdHdr.Title~ Gét Prîmåvera Prøjects]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Help = "[~GTCAttPmvCmdsHdr,PmvGetConnInfoCmdHdr.Help~ Cønnécts to å Prîmavera database]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.LongHelp = "[~GTCAttPmvCmdsHdr,etConnInfoCmdHdr.LongHelp~ Cønnécts to å Prîmavera database]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Help = "[~GTCAttPmvCmdsHdr,PmvGetProjectsCmdHdr.Help~ Impørts/réfreshes the Prîmåvera project strücture]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.ShortHelp = "[~GTCAttPmvCmdsHdr,tProjectsCmdHdr.ShortHelp~ Gét Prîmåvera Prøjects]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Title = "[~GTCAttPmvCmdsHdr,mvGetConnInfoCmdHdr.Title~ Cønnéct to Prîmåvera...]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Help = "[~GTCAttPmvCmdsHdr,vGetActivitiesCmdHdr.Help~ Impørts/réfreshes the åctîvities of a Primavera project]";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.LongHelp = "[~GTCAttPmvCmdsHdr,ActivitiesCmdHdr.LongHelp~ Impørts/réfreshes the åctîvities of a Primavera project]";

@@ -1,0 +1,6 @@
+GTCImportNls_IfcFileExt = "[十GTCTrsGeomImpIfcCmd,GTCImportNls_IfcFileExt十一構ソチ－*.ifc]";
+GTCImportNls_IfcFileDotExt = "[十GTCTrsGeomImpIfcCmd,TCImportNls_IfcFileDotExt十一構ソチ－.ifc]";
+GTCTrsGeomImpIfcCmd.initialState.Message = "[十GTCTrsGeomImpIfcCmd,cCmd.initialState.Message十一構ソチ－Click anywhere in the viewer to exit]";
+GTCImportNls_IfcDlgTite = "[十GTCTrsGeomImpIfcCmd,GTCImportNls_IfcDlgTite十一構ソチ－File Selection]";
+GTCImportNls_LogFileName = "[十GTCTrsGeomImpIfcCmd,GTCImportNls_LogFileName十一構ソチ－3DIfcImport.txt]";
+GTCImportNls_IfcFileDescription = "[十GTCTrsGeomImpIfcCmd,ortNls_IfcFileDescription十一構ソチ－ifc]";

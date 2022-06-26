@@ -1,0 +1,16 @@
+tabContParent.tabPageStandard.labelCatalog.Title = "[~GTCArcSectionFrame,andard.labelCatalog.Title~  Cåtaløg ]";
+tabContParent.tabPageRectangular.Title = "[~GTCArcSectionFrame,.tabPageRectangular.Title~  Réctångülar ]";
+tabContParent.tabPageCircular.labelRadius.Title = "[~GTCArcSectionFrame,ircular.labelRadius.Title~  Rådîüs ]";
+tabContParent.tabPageStandard.buttonCatalogBrowse.Title = "[~GTCArcSectionFrame,buttonCatalogBrowse.Title~ ...]";
+tabContParent.tabPageRectangular.labelHeight.Title = "[~GTCArcSectionFrame,angular.labelHeight.Title~  Héîght ]";
+tabContParent.tabPageStandard.Title = "[~GTCArcSectionFrame,ent.tabPageStandard.Title~  Ståndard ]";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelSection.Title = "[~GTCArcSectionFrame,gFrame.labelSection.Title~ Séctîøn]";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "[~GTCArcSectionFrame,buttonCatalogBrowse.Title~ ...]";
+labelOpening = "[~GTCArcSectionFrame,labelOpening~  Opénîng ]";
+tabContParent.tabPageRectangular.labelWidth.Title = "[~GTCArcSectionFrame,tangular.labelWidth.Title~  Wîdth ]";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelCatalog.Title = "[~GTCArcSectionFrame,gFrame.labelCatalog.Title~ Cåtaløg]";
+labelSection = "[~GTCArcSectionFrame,labelSection~  Séctîøn ]";
+tabContParent.tabPageCircular.Title = "[~GTCArcSectionFrame,ent.tabPageCircular.Title~  Cîrcülår ]";
+tabContParent.tabPageCustom.Title = "[~GTCArcSectionFrame,arent.tabPageCustom.Title~  Cüstøm ]";
+tabContParent.tabPageMixed.Title = "[~GTCArcSectionFrame,Parent.tabPageMixed.Title~ Mîxéd]";
+tabContParent.tabPageCustom.labelSection.Title = "[~GTCArcSectionFrame,Custom.labelSection.Title~  Hørîzontål Skétch ]";

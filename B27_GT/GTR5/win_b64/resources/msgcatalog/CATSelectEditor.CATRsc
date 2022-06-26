@@ -1,0 +1,5 @@
+TabPage.SolutionName  = "Infrastructure";
+// STH
+TabPage.WorkbenchName = "GTCDprGeometryWkb";
+TabPage.LongHelpId = "ToolsOptions.MechanicalDesign.PartDesign.General";
+TabPage.PriorityNb = "1";

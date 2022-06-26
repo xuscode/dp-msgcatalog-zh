@@ -1,0 +1,15 @@
+// COPYRIGHT DASSAULT SYSTEMES 1998
+//===========================================================================
+//
+// CATMatOptionsPageEditor
+//
+//===========================================================================
+
+TabPage.WorkshopName  = "General";
+
+
+// Pour la nouvelle interface utilisateur - CXR5
+// STH
+TabPage.SolutionName  = "Equipments";
+TabPage.WorkbenchName = "MaterialWorkshop";
+TabPage.LongHelpId    = "ToolsOptions.Infrastructure.MaterialLibrary.Material";

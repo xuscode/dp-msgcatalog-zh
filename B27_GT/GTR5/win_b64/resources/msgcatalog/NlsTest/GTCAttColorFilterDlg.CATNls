@@ -1,0 +1,9 @@
+BCancel = "[~GTCAttColorFilterDlg,BCancel~ Cløsé]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblLayer.Title = "[~GTCAttColorFilterDlg,r.frmLayer.lblLayer.Title~ Låyér]";
+tbcLayer.tabLayer.conLayer.frmLayer.cbtHide.Title = "[~GTCAttColorFilterDlg,er.frmLayer.cbtHide.Title~  ]";
+Title = "[~GTCAttColorFilterDlg,Title~ Cølor Fîltér]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblColor.Title = "[~GTCAttColorFilterDlg,r.frmLayer.lblColor.Title~ Cølor]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblHide.Title = "[~GTCAttColorFilterDlg,er.frmLayer.lblHide.Title~ Hîdé]";
+ExportXMLBtn.Title = "[~GTCAttColorFilterDlg,ExportXMLBtn.Title~ Expørt]";
+tbcLayer.tabLayer.Title = "[~GTCAttColorFilterDlg,tbcLayer.tabLayer.Title~ Låyér]";
+BOK = "[~GTCAttColorFilterDlg,BOK~ Réset]";

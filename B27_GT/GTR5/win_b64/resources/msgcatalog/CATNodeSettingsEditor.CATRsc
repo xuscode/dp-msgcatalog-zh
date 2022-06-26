@@ -1,0 +1,8 @@
+// fichier de ressource associe a l'onglet Node Customization
+
+TabPage.WorkshopName="PRDWorkshop";
+TabPage.SolutionName="Infrastructure";
+// STH
+TabPage.WorkbenchName="GTCDprProjectWkb";
+TabPage.LongHelpId = "ToolsOptions.Infrastructure.ProductStructure.NodesCustomization";
+TabPage.PriorityNb = "1";

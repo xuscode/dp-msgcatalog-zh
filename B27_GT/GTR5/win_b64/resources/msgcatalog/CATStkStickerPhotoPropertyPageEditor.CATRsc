@@ -1,0 +1,12 @@
+// COPYRIGHT DASSAULT SYSTEMES 1998
+//===========================================================================
+//
+// CATStkStickerPhotoPropertyPageEditor
+//
+//===========================================================================
+
+TabPage.SolutionName  = "DMUNavigator";
+TabPage.WorkbenchName = "RenderingWorkbench";
+TabPage.LongHelpId    = "ToolsOptions.DMUNavigator.Rendering.Sticker";
+TabPage.PriorityNb    = "4";
+

@@ -1,0 +1,10 @@
+LabelAzimuth.Title = "[~GTCAttChangePositionDlg,LabelAzimuth.Title~ Azîmüth]";
+LabelElevation.Title = "[~GTCAttChangePositionDlg,LabelElevation.Title~ Elévåtîøn]";
+Title = "[~GTCAttChangePositionDlg,Title~ Témpøråry Posîtion]";
+LabelDeltaZ.Title = "[~GTCAttChangePositionDlg,LabelDeltaZ.Title~ Déltå Z]";
+FrmBtn.btnPreview.Title = "[~GTCAttChangePositionDlg,FrmBtn.btnPreview.Title~   Prévîew  ]";
+LabelTilt.Title = "[~GTCAttChangePositionDlg,LabelTilt.Title~ Tîlt]";
+LabelDeltaX.Title = "[~GTCAttChangePositionDlg,LabelDeltaX.Title~ Déltå X]";
+FrmBtn.btnReset.Title = "[~GTCAttChangePositionDlg,FrmBtn.btnReset.Title~   Réset  ]";
+LabelDeltaY.Title = "[~GTCAttChangePositionDlg,LabelDeltaY.Title~ Déltå Y]";
+FrmBtn.btnSelect3D.Title = "[~GTCAttChangePositionDlg,FrmBtn.btnSelect3D.Title~ Sélect Frøm 3D]";

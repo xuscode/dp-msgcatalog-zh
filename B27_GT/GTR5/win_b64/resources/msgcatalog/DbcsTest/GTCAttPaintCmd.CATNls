@@ -1,0 +1,3 @@
+GTCAttPaintCmd.ObjFromState.Message = "[十GTCAttPaintCmd,tCmd.ObjFromState.Message十一構ソチ－Choose an object to copy attributes from.]";
+GTCAttPaintCmd.ConfirmState.Message = "[十GTCAttPaintCmd,tCmd.ConfirmState.Message十一構ソチ－Confirm or cancel.]";
+GTCAttPaintCmd.ObjToState.Message = "[十GTCAttPaintCmd,intCmd.ObjToState.Message十一構ソチ－Choose an object to copy attributes to.]";

@@ -1,0 +1,20 @@
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.Icon="I_StMagnetTranslator";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.IconSel="IP_StMagnetTranslator";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.IconFocus="IF_StMagnetTranslator";
+
+SelectionCross.IconAndOptionsFrame.OptionsFrame.SelectAllCPTChkButton.Icon="I_SelectAllControlPoints";
+SelectionCross.IconAndOptionsFrame.OptionsFrame.SelectAllCPTChkButton.IconSel="IP_SelectAllControlPoints";
+SelectionCross.IconAndOptionsFrame.OptionsFrame.SelectAllCPTChkButton.IconFocus="IF_SelectAllControlPoints";
+
+SelectionCross.IconAndOptionsFrame.OptionsFrame.SelectCrossChkButton.Icon=  "I_FullCrossOnScreen";
+SelectionCross.IconAndOptionsFrame.OptionsFrame.SelectCrossChkButton.IconSel="IP_FullCrossOnScreen";
+SelectionCross.IconAndOptionsFrame.OptionsFrame.SelectCrossChkButton.IconFocus="IF_FullCrossOnScreen";
+
+DefaultActivationStatus.IconAndOptionsFrame.OptionsFrame.DefaultConstraintActivityChkBtn.Icon="I_Inactive";
+
+DefaultActivationStatus.IconAndOptionsFrame.OptionsFrame.MinCornerDistanceChkBtn.Icon="I_StMinCornerDistance";
+
+
+SelectionCross.IconAndOptionsFrame.OptionsFrame.FilterDeselectAllButton.Icon="I_SelectNoControlPoints";
+SelectionCross.IconAndOptionsFrame.OptionsFrame.FilterDeselectAllButton.IconSel="IP_SelectNoControlPoints";
+SelectionCross.IconAndOptionsFrame.OptionsFrame.FilterDeselectAllButton.IconFocus="IF_SelectNoControlPoints";

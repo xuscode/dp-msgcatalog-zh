@@ -1,0 +1,8 @@
+TabPage.WorkshopName  = "PRDWorkshop";
+// -->STH
+TabPage.SolutionName  = "Infrastructure";
+TabPage.WorkbenchName  = "GTCDprProjectWkb";
+// <--
+TabPage.LongHelpId    = "ToolsOptions.DMUNavigator.DMUGeneral";
+TabPage.PriorityNb = "6";
+

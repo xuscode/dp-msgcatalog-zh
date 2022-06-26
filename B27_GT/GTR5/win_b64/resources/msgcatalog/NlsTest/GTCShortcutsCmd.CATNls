@@ -1,0 +1,4 @@
+InvalidENVValueMsg = "[~GTCShortcutsCmd,InvalidENVValueMsg~~~ Vålüé nøt defîned or is not valid. Please verify in your environment file.]";
+catenvWarningTitle = "[~GTCShortcutsCmd,catenvWarningTitle~ WARNING]";
+InvalidENVValueTitle = "[~GTCShortcutsCmd,InvalidENVValueTitle~ Errør]";
+catenvWarningMsg = "[~GTCShortcutsCmd,catenvWarningMsg~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ WARNING: Incørréct chånges to envîronment file may impair the program. Please backüp your environment file before modifcation. You need to restart Digital Project for your changes to take effect.]";

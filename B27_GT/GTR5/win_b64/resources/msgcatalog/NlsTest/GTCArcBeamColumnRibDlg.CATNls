@@ -1,0 +1,15 @@
+titleColumn = "[~GTCArcBeamColumnRibDlg,titleColumn~ Cølümn]";
+frameTop.labelName.Title = "[~GTCArcBeamColumnRibDlg,frameTop.labelName.Title~  Nåmé ]";
+GTCTitleForNew = "[~GTCArcBeamColumnRibDlg,GTCTitleForNew~ Néw ]";
+frameTop.labelLocation.Title = "[~GTCArcBeamColumnRibDlg,meTop.labelLocation.Title~  Løcåtîon   ]";
+frameTop.labelSupport.Title = "[~GTCArcBeamColumnRibDlg,ameTop.labelSupport.Title~  Süppørt   ]";
+frameTop.labelOffset.Title = "[~GTCArcBeamColumnRibDlg,rameTop.labelOffset.Title~  Offsét ]";
+titleBeam2Spts = "[~GTCArcBeamColumnRibDlg,titleBeam2Spts~ Mültî-Suppørt Béåm]";
+frameTop.labelLayer.Title = "[~GTCArcBeamColumnRibDlg,frameTop.labelLayer.Title~  Låyér ]";
+GTCTitleForEdit = "[~GTCArcBeamColumnRibDlg,GTCTitleForEdit~ Edît ]";
+titleRib = "[~GTCArcBeamColumnRibDlg,titleRib~ Rîb]";
+frameTop.labelAlignSpt.Title = "[~GTCArcBeamColumnRibDlg,meTop.labelAlignSpt.Title~  Alîgnmént ]";
+titleBeam = "[~GTCArcBeamColumnRibDlg,titleBeam~ Béåm]";
+frameTop.buttonLocation.Title = "[~GTCArcBeamColumnRibDlg,eTop.buttonLocation.Title~ ...]";
+frameTop.labelAssembly.Title = "[~GTCArcBeamColumnRibDlg,meTop.labelAssembly.Title~  Assémbly ]";
+GTCArcMemberMultiple = "[~GTCArcBeamColumnRibDlg,GTCArcMemberMultiple~ <Mültîplé>]";

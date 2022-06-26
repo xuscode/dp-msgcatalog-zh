@@ -1,0 +1,7 @@
+GTCArcFrontViewCmd.SelectSupportState.Message = "[~GTCArcFrontViewCmd,electSupportState.Message~ Sélect Plåne]";
+ErrorInWorkObj = "[~GTCArcFrontViewCmd,ErrorInWorkObj~ Pléåse set a sheet as the în-wørk object.]";
+ErrorLoadDwg = "[~GTCArcFrontViewCmd,ErrorLoadDwg~ Dråwîng døcümént can not be found.]";
+GTCArcFrontViewCmd.SelectBoundaryState.Message = "[~GTCArcFrontViewCmd,lectBoundaryState.Message~ Sélect Bøündåry]";
+GTCArcFrontViewCmd.SelectGroupState.Message = "[~GTCArcFrontViewCmd,.SelectGroupState.Message~ Sélect Grøüp or Lîst]";
+GTCArcFrontViewCmd.SelectAxisState.Message = "[~GTCArcFrontViewCmd,d.SelectAxisState.Message~ Sélect Axîs]";
+UpdateTitle = "[~GTCArcFrontViewCmd,UpdateTitle~ Updåté]";

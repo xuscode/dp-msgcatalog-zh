@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+Title = "Synchronize Attributes";
+DialogBoxContainer.DialogFrame.LabelSyncConstDescrip.Title = "Are you sure you want to make the following change(s)?";
+DialogBoxContainer.DialogFrame.LabelObject.Title = "OBJECT";
+DialogBoxContainer.DialogFrame.LabelExtension.Title = "PACKAGE";
+DialogBoxContainer.DialogFrame.LabelAttribute.Title = "ATTRIBUTE";
+DialogBoxContainer.DialogFrame.LabelStatus.Title = "CHANGE";
+DialogBoxContainer.DialogFrame.LabelRemove.Title = "Remove";
+DialogBoxContainer.DialogFrame.LabelAdd.Title = "Add";
+DialogBoxContainer.DialogFrame.LabelSpace.Title = "       ";
+LabelFinalDescrip.Title = "No changes are found to synchronize.";
+
+// END WIZARD REPLACEMENT ZONE

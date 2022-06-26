@@ -1,0 +1,16 @@
+frameParent.frameElement.labelElement.Title = "[~GTCArcWindowOpeningDlg,lement.labelElement.Title~  Elément ]";
+frameParent.frameElement.labelName.Title = "[~GTCArcWindowOpeningDlg,meElement.labelName.Title~  Nåmé ]";
+frameParent.framePlacement.Title = "[~GTCArcWindowOpeningDlg,rent.framePlacement.Title~  Plåcément ]";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.Help = "[~GTCArcWindowOpeningDlg,logFrame.selListDoor.Help~ Sélect style înteråctively ør choose from Catalog Browser]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.ShortHelp = "[~GTCArcWindowOpeningDlg,onCatalogBrowse.ShortHelp~ Låünchés Cataløg Browser]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Help = "[~GTCArcWindowOpeningDlg,.buttonCatalogBrowse.Help~ Låünchés Cataløg Browser]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.LongHelp = "[~GTCArcWindowOpeningDlg,tonCatalogBrowse.LongHelp~ Cåtaløg Browsér for style selectîon is enabled after Placement Reference is specified]";
+frameParent.frameStyle.Title = "[~GTCArcWindowOpeningDlg,meParent.frameStyle.Title~  Stylé ]";
+frameParent.frameStyle.pushBttnFillAttsMore.Title = "[~GTCArcWindowOpeningDlg,ushBttnFillAttsMore.Title~ Møré...]";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.ShortHelp = "[~GTCArcWindowOpeningDlg,ame.selListDoor.ShortHelp~ Sélect style înteråctively ør choose from Catalog Browser]";
+frameParent.framePlacement.labelPosition.Title = "[~GTCArcWindowOpeningDlg,ement.labelPosition.Title~  Pøsîtion ]";
+NewTitle = "[~GTCArcWindowOpeningDlg,NewTitle~  Néw Wîndøw Opening ]";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.LongHelp = "[~GTCArcWindowOpeningDlg,rame.selListDoor.LongHelp~~~~~~~~~~~~~~ Sélect style înteråctively ør choose from Catalog Browser. Style selection is enabled after Placement Reference is specified]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "[~GTCArcWindowOpeningDlg,buttonCatalogBrowse.Title~ ...]";
+EditTitle = "[~GTCArcWindowOpeningDlg,EditTitle~  Edît Windøw Opéning ]";
+frameParent.frameStyle.labelOpenRatio.Title = "[~GTCArcWindowOpeningDlg,tyle.labelOpenRatio.Title~  Opén Råtîø  ]";

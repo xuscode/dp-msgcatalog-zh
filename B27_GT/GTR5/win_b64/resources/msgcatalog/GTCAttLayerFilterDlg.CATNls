@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+Title = "Layer Filter";
+BOK = "Reset";
+BCancel = "Close";
+tbcLayer.tabLayer.Title = "Layer";
+tbcLayer.tabLayer.conLayer.frmLayer.lblLayer.Title = "Layer";
+tbcLayer.tabLayer.conLayer.frmLayer.lblColor.Title = "Color";
+tbcLayer.tabLayer.conLayer.frmLayer.lblHide.Title = "Hide";
+tbcLayer.tabLayer.conLayer.frmLayer.cbtHide.Title = " ";
+
+ExportXMLBtn.Title = "Export";
+NotifySucceed.Title = "Export";
+SucceedMsg = "Export Succeeded !";

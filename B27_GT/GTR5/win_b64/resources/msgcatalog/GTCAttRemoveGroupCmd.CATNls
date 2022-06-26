@@ -1,0 +1,2 @@
+GTCAttRemoveGroupCmd.InitialState.Message="Select a group or root to remove.";
+GTCAttRemoveGroupCmd.SelectionState.Message="Click OK to remove root/group or Cancel to exit.";

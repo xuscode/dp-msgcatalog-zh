@@ -1,0 +1,7 @@
+GTCArcWallCmd.StateGetSupport.Message = "[~GTCArcWallCmd,d.StateGetSupport.Message~ Sélect å süppørt element]";
+GTCArcWallCmd.StateGetPosPanelLayer.Message = "[~GTCArcWallCmd,eGetPosPanelLayer.Message~ Sélect låyer pøsîtion]";
+GTCArcWallCmd.StateGetTo.Message = "[~GTCArcWallCmd,allCmd.StateGetTo.Message~ Sélect ån element tø lîmit the second side]";
+GTCArcWallCmd.StateGetTop.Message = "[~GTCArcWallCmd,llCmd.StateGetTop.Message~ Sélect ån element tø lîmit the top]";
+GTCArcWallCmd.StateGetBottom.Message = "[~GTCArcWallCmd,md.StateGetBottom.Message~ Sélect ån element tø lîmit the bottom]";
+GTCArcWallCmd.StateNoSelection.Message = "[~GTCArcWallCmd,.StateNoSelection.Message~ Spécîfy wåll attribütes]";
+GTCArcWallCmd.StateGetFrom.Message = "[~GTCArcWallCmd,lCmd.StateGetFrom.Message~ Sélect ån element tø lîmit the first side]";

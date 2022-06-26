@@ -1,0 +1,170 @@
+GTCAttCommandsHeader.GTCAttActivateV1R1AttributesHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttActivateV1R1AttributesHdr";
+
+// == Remove Attribute Package ==
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.Icon.Normal         = "I_GTCRemovePackage";
+//GTCAttPartWkbHeader.GTCAttRemovePackageHdr.Icon.Focused        = "IF_GTCRemovePackage";
+//GTCAttPartWkbHeader.GTCAttRemovePackageHdr.Icon.Pressed        = "IP_GTCRemovePackage";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttRemovePackageHdr";
+
+// == List Attribute Package ==
+GTCAttCommandsHeader.GTCAttSetPackageHdr.Icon.Normal         = "I_GTCListPackages";
+//GTCAttPartWkbHeader.GTCAttSetPackageHdr.Icon.Focused        = "IF_GTCListPackages";
+//GTCAttPartWkbHeader.GTCAttSetPackageHdr.Icon.Pressed        = "IP_GTCListPackages";
+GTCAttCommandsHeader.GTCAttSetPackageHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttSetPackageHdr";
+
+// == Set Attribute Package ==
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.Icon.Normal         = "I_GTCAddPackage";
+//GTCAttCommandsHeader.GTCAttAttachPackageHdr.Icon.Focused        = "IF_GTCAttachPackage";
+//GTCAttCommandsHeader.GTCAttAttachPackageHdr.Icon.Pressed        = "IP_GTCAttachPackage";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.LongHelpId		= "GTCAttCommandsHeader.GTCAttAttachPackageHdr";
+
+// == Edit Attribute Package ==
+GTCAttCommandsHeader.GTCAttEditPackageHdr.Icon.Normal         = "I_GTCEditPackage";
+//GTCAttPartWkbHeader.GTCAttEditPackageHdr.Icon.Focused        = "IF_GTCEditPackage";
+//GTCAttPartWkbHeader.GTCAttEditPackageHdr.Icon.Pressed        = "IP_GTCEditPackage";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.LongHelpId		= "GTCAttCommandsHeader.GTCAttEditPackageHdr";
+
+// == Color Filter ==
+GTCAttCommandsHeader.GTCColorFilterHdr.Icon.Normal         = "I_GTCColorFilter";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.Icon.Focused        = "IF_GTCColorFilter";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.Icon.Pressed        = "IP_GTCColorFilter";
+GTCAttCommandsHeader.GTCColorFilterHdr.LongHelpId			= "GTCAttCommandsHeader.GTCColorFilterHdr";
+
+
+// == Layer Filter ==
+GTCAttCommandsHeader.GTCLayerFilterHdr.Icon.Normal         = "I_GTCColourLayers";
+GTCAttCommandsHeader.GTCLayerFilterHdr.LongHelpId			= "GTCAttCommandsHeader.GTCLayerFilterHdr";
+
+
+// == Dim / Undim ==
+//GTCAttCommandsHeader.GTCDimUndimHdr.Icon.Normal = "I_ArrDimMode";
+//GTCAttCommandsHeader.GTCDimUndimHdr.Icon.Focused = "IF_ArrDimMode";
+//GTCAttCommandsHeader.GTCDimUndimHdr.Icon.Pressed = "IP_ArrDimMode";
+
+
+
+
+// == Reset Color Filter == Val
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.Icon.Normal = "I_GTCAttResetColoursCmd";
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.Icon.Focused = "I_GTCAttResetColoursCmd";
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.Icon.Pressed = "I_GTCAttResetColoursCmd";
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.LongHelpId = "GTCAttCommandsHeader.GTCColorFilterResetCmdHdr";
+
+// == Clash Report  == Val
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.Icon.Normal = "I_GTCAttInterferenceReportImportCmd";
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.Icon.Focused = "I_GTCAttInterferenceReportImportCmd";
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.Icon.Pressed = "I_GTCAttInterferenceReportImportCmd";
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttImportClashCmdHdr";
+
+
+GTCAttCommandsHeader.GTCAttDimModeHdr.Icon.Normal = "IP_GTCDimMode";
+//GTCAttCommandsHeader.GTCAttDimModeHdr.Icon.Focused = "IF_ArrDimMode";
+GTCAttCommandsHeader.GTCAttDimModeHdr.Icon.Pressed = "I_GTCDimMode";
+GTCAttCommandsHeader.GTCAttDimModeHdr.LongHelpId	= "GTCAttCommandsHeader.GTCAttDimModeHdr";
+
+// == Backbone / MS Project ==
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.Icon.Normal = "I_GTCPlayer";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.LongHelpId		= "GTCAttCommandsHeader.GTCAttBackboneInitializationHdr";
+
+// == Project Group Simulation ==
+GTCAttCommandsHeader.GTCAttProjectSimHdr.Icon.Normal = "I_GTCPlayer";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.LongHelpId		= "GTCAttCommandsHeader.GTCAttProjectSimHdr";
+
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.Icon.Normal         = "I_ColorChooser";
+
+
+
+//== Attribute Transfer ==
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.Icon.Normal  = "I_GTCAttTransfer"; 
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttCopyPackageHdr";
+
+//== Group Transfer ==
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.Icon.Normal  = "I_GTCAttGroupTransfer"; 
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttGroupTransferHdr";
+
+//== Paint Attributes ==
+GTCAttCommandsHeader.GTCAttPaintHdr.Icon.Normal         = "I_GTCAttPaintPackage";
+GTCAttCommandsHeader.GTCAttPaintHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttPaintHdr";
+
+//== Synchronize Attributes ==
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.Icon.Normal         = "I_GTCAttSyncClassInst";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttSyncClassInstHdr";
+
+//== Export Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.Icon.Normal  = "I_GTCAttExportDictionary"; 
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttDicoExportCmdHdr";
+
+//== Edit Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.Icon.Normal  = "I_GTCAttEditDictionary"; 
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttDicoEditCmdHdr";
+
+//== New Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.Icon.Normal  = "I_GTCAttImportDictionary"; 
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttDicoImportCmdHdr";
+
+
+//=========================================================
+// GROUPS
+//=========================================================
+
+GTCAttCommandsHeader.GTCAttAddGroupHdr.Icon.Normal = "I_GTCAttGroup";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttAddGroupHdr";
+
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.Icon.Normal = "I_GTCAttExcelDataSheet";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr";
+
+// == Interactive Door Sched == 
+GTCAttCommandsHeader.GTCInteractiveDoorScheduleHdr.Icon.Normal		= "I_SMPDoorSchedule";
+GTCAttCommandsHeader.GTCInteractiveDoorScheduleHdr.LongHelpId		= "GTCTrsCommandsHeader.GTCInteractiveDoorScheduleHdr";
+
+// == Interactive Window Sched == 
+GTCAttCommandsHeader.GTCInteractiveWindowScheduleHdr.Icon.Normal    = "I_SMPWindowSchedule";
+GTCAttCommandsHeader.GTCInteractiveWindowScheduleHdr.LongHelpId		= "GTCTrsCommandsHeader.GTCInteractiveWindowScheduleHdr";
+
+//=== Create a sorted view ======
+//Sorted view -> create a sorted view
+//GTCAttCommandsHeader.GTCAttSortedViewHdr.Icon.Normal	= "I_GTCSortedView";
+//GTCAttCommandsHeader.GTCAttSortedViewHdr.LongHelpId		= "GTCAttCommandsHeader.GTCAttSortedViewHdr";
+GTCAttCommandsHeader.GTCAttCreateSortedViewsHdr.Icon.Normal	= "I_GTCSortedView";
+GTCAttCommandsHeader.GTCAttCreateSortedViewsHdr.LongHelpId		= "GTCAttCommandsHeader.GTCAttCreateSortedViewHdr";
+
+//=========================================================l
+// IFC Spatial Product Structure Commands
+//=========================================================
+
+GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr.Icon.Normal         = "I_GTCIFCProject";
+GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr";
+
+GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr.Icon.Normal         = "I_GTCIFCSite";
+GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr";
+
+GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr.Icon.Normal         = "I_GTCArcSiteSection";
+GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr";
+
+GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr.Icon.Normal         = "I_GTCIFCBuilding";
+GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr";
+
+GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr.Icon.Normal         = "I_GTCArcBuildingSection";
+GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr";
+
+GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr.Icon.Normal         = "I_GTCIFCBuildingStorey";
+GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr";
+
+GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr.Icon.Normal         = "I_GTCArcPartialBuildingStorey";
+GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr.LongHelpId			= "GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr";
+
+
+GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr.Icon.Normal = "I_Brightness.bmp";
+GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr.LongHelpId = "GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr";
+
+//=============== Import 3d-2d Rules =========================
+GTCAttCommandsHeader.GTCImportDftRulesCmdHdr.LongHelpId	= "GTCAttCommandsHeader.GTCImportDftRulesCmdHdr";
+
+//=============== Import drafting layers =========================
+GTCAttCommandsHeader.GTCImportDftLayersCmdHdr.LongHelpId	= "GTCAttCommandsHeader.GTCImportDftLayersCmdHdr";
+
+//=============== Export 3d-2d Rules =========================
+GTCAttCommandsHeader.GTCExportDftRulesCmdHdr.LongHelpId	= "GTCAttCommandsHeader.GTCExportDftRulesCmdHdr";
+
+//=============== Export drafting layers =========================
+GTCAttCommandsHeader.GTCExportDftLayersCmdHdr.LongHelpId	= "GTCAttCommandsHeader.GTCExportDftLayersCmdHdr";

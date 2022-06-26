@@ -1,0 +1,20 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Login to Primavera";
+PmvLoginNameLbl.Title = "Login Name";
+PmvLoginNameEd.Help = "Enter user name";
+PmvLoginNameEd.ShortHelp = "Enter user name";
+PmvLoginNameEd.LongHelp = "Enter primavera user name";
+PmvPasswdLbl.Title = "Password";
+PmvSDKLbl.Title = "ODBC DSN";
+PmvPasswdEd.Help = "Enter password";
+PmvPasswdEd.ShortHelp = "Enter password";
+PmvPasswdEd.LongHelp = "Enter password for primavera connection";
+PmvSDKNameEd.Help = "Enter name of SDK";
+PmvSDKNameEd.ShortHelp = "Enter SDK name";
+PmvSDKNameEd.LongHelp = "Enter name of primavera SDK";
+// END WIZARD REPLACEMENT ZONE
+
+AccessDeniedTitle="Access to Primavera Denied";
+AccessDeniedMsg="Failed to connect to Primavera, retry login again";
+
+

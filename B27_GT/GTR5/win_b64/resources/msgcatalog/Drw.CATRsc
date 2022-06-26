@@ -1,0 +1,43 @@
+//=====================================================================================
+//                                     CNEXT - CXR1
+//                          COPYRIGHT DASSAULT SYSTEMES 1998 
+//-------------------------------------------------------------------------------------
+// FILENAME    :    Drw
+// LOCATION    :    DraftingUI
+// AUTHOR      :    fgx
+// BUT         :    Workbench Drafting 
+// DATE        :    17.11.1998
+//-------------------------------------------------------------------------------------
+// DESCRIPTION :    
+//-------------------------------------------------------------------------------------
+// COMMENTS    :    
+//-------------------------------------------------------------------------------------
+// MODIFICATIONS     user  date        purpose
+//    HISTORY        ----  ----        -------
+//      00           fgx   ??.05.98    Creation
+//      01           fgx   23.11.98    Nouvelle version CXR2
+//      02           fgx   18.02.99    Ajout de la category
+//=====================================================================================
+
+// Configuration
+// -------------
+
+// Category
+// -->STH
+// Icons for the Welcome window 64x64
+Drw.Category = "NCManufacturing";
+Drw.Position = "2";
+Drw.Icon.NormalPnl = "I_GTCDrawingGenerationWkbPanel";
+Drw.Icon.PressedPnl = "IP_GTCDrawingGenerationWkbPanel";
+Drw.Icon.FocusPnl = "IF_GTCDrawingGenerationWkbPanel";
+
+// Icons for the Start menu 32x32
+Drw.Icon.NormalCtx = "I_GTCWorkbenchMenuCtx";
+Drw.Icon.PressedCtx = "IP_GTCWorkbenchMenuCtx";
+Drw.Icon.FocusCtx = "IF_GTCWorkbenchMenuCtx";
+
+// Icons for the workbench toolbar 24x24
+Drw.Icon.NormalRep = "I_GTCDrawingGenerationWkbStart";
+Drw.Icon.PressedRep = "IP_GTCDrawingGenerationWkbStart";
+Drw.Icon.FocusRep = "IF_GTCDrawingGenerationWkbStart";
+//<--

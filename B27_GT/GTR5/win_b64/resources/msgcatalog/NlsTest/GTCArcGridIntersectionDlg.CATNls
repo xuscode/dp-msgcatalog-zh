@@ -1,0 +1,9 @@
+LabelName1.Title = "[~GTCArcGridIntersectionDlg,LabelName1.Title~ Fîrst Grid ]";
+Title = "[~GTCArcGridIntersectionDlg,Title~ Grîd Intérsectiøn]";
+EditorName1.Help = "[~GTCArcGridIntersectionDlg,EditorName1.Help~ Fîrst plån grid]";
+EditorName2.ShortHelp = "[~GTCArcGridIntersectionDlg,EditorName2.ShortHelp~ Sécønd plån grîd]";
+EditorName1.LongHelp = "[~GTCArcGridIntersectionDlg,EditorName1.LongHelp~ Fîrst plån grid]";
+EditorName2.Help = "[~GTCArcGridIntersectionDlg,EditorName2.Help~ Sécønd plån grîd]";
+LabelName2.Title = "[~GTCArcGridIntersectionDlg,LabelName2.Title~ Sécønd Grîd ]";
+EditorName1.ShortHelp = "[~GTCArcGridIntersectionDlg,EditorName1.ShortHelp~ Fîrst plån grid]";
+EditorName2.LongHelp = "[~GTCArcGridIntersectionDlg,EditorName2.LongHelp~ Sécønd plån grîd]";

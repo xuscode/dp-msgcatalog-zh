@@ -1,0 +1,5 @@
+Title = "[十GTCExportDftRules,Title十一構ソチ－Export 3d-2d Rules to CSV File]";
+FrameCSVFile.Title = "[十GTCExportDftRules,FrameCSVFile.Title十一構ソチ－Save CSV file to]";
+FrameRuleFile.PushButtonRuleFile.Title = "[十GTCExportDftRules,.PushButtonRuleFile.Title十一構ソチ－Browse...]";
+FrameCSVFile.PushButtonCSVFile.Title = "[十GTCExportDftRules,e.PushButtonCSVFile.Title十一構ソチ－Browse...]";
+FrameRuleFile.Title = "[十GTCExportDftRules,FrameRuleFile.Title十一構ソチ－Select 3d-2d rule file]";

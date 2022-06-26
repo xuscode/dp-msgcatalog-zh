@@ -1,0 +1,3 @@
+GTCArcFloorCmd.StateGetSupport.Message = "[~GTCArcFloorCmd,d.StateGetSupport.Message~ Sélect å süppørt element]";
+GTCArcFloorCmd.StateGetLimits.Message = "[~GTCArcFloorCmd,md.StateGetLimits.Message~ Sélect lîmiting elements tø creåte slab contoür]";
+GTCArcFloorCmd.StateNoSelection.Message = "[~GTCArcFloorCmd,.StateNoSelection.Message~ Spécîfy slåb attribütes]";

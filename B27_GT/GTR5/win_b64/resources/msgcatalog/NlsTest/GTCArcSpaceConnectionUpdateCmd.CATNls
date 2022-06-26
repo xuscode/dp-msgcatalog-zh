@@ -1,0 +1,3 @@
+GTCArcSpaceConnectionUpdateCmd.StateAdjustMode.Message = "[~GTCArcSpaceConnectionUpdateCmd,d.StateAdjustMode.Message~ Sélect ådjüst møde and clîck on start to auto adjust limits]";
+GTCArcSpaceConnectionUpdateCmd.StateInitial.Message = "[~GTCArcSpaceConnectionUpdateCmd,eCmd.StateInitial.Message~ Sélect spåces]";
+Warning = "[~GTCArcSpaceConnectionUpdateCmd,Warning~ Thîs øpéråtion can be memory intensive. Please save yoür work.]\n[~GTCArcSpaceConnectionUpdateCmd,Warning~ Dø yoü wånt to procéed?]";

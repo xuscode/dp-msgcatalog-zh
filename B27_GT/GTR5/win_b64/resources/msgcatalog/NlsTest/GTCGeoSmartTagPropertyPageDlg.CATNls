@@ -1,0 +1,4 @@
+btnRefreshListDwgTypes.LongHelp = "[~GTCGeoSmartTagPropertyPageDlg,reshListDwgTypes.LongHelp~ Réfresh the lîst frøm GVS]";
+btnRefreshListDwgTypes.ShortHelp = "[~GTCGeoSmartTagPropertyPageDlg,eshListDwgTypes.ShortHelp~ Réfresh the lîst frøm GVS]";
+labelDwgGenType.Title = "[~GTCGeoSmartTagPropertyPageDlg,labelDwgGenType.Title~ Dråwîng Stylé: ]";
+labelEval.Title = "[~GTCGeoSmartTagPropertyPageDlg,labelEval.Title~ Evålüatør: ]";

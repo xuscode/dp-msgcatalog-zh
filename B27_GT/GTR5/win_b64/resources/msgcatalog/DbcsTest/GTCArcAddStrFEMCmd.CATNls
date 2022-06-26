@@ -1,0 +1,2 @@
+Title = "[十GTCArcAddStrFEMCmd,Title十一構ソチ－Generate FEM polygon]";
+GTCArcAddStrFEMCmd.InitState.Message = "[十GTCArcAddStrFEMCmd,rFEMCmd.InitState.Message十一構ソチ－Select architectural elements, curves or surfaces.]";

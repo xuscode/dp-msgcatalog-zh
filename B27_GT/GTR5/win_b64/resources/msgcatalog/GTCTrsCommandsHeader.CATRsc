@@ -1,0 +1,60 @@
+
+// == Export Geometric Information ==
+GTCTrsCommandsHeader.GTCGeomReporterHdr.Icon.Normal           = "I_GTCExtractUnits";
+//GTCTrsCommandsHeader.GTCExtraction_UnitsHdr.Icon.Focused          = "IF_GTCExtractUnits";
+//GTCTrsCommandsHeader.GTCExtraction_UnitsHdr.Icon.Pressed          = "IP_GTCExtractUnits";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.LongHelpId				= "GTCTrsCommandsHeader.GTCGeomReporterHdr";
+
+
+// == Cost Est ==
+GTCTrsCommandsHeader.GTCCostEstimationHdr.Icon.Normal	    = "I_GTCCostEstimate";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.LongHelpId		= "GTCTrsCommandsHeader.GTCCostEstimationHdr";
+
+// == Rename Tree Nodes ==
+GTCTrsCommandsHeader.GTCRenameTreeHdr.Icon.Normal           = "I_GTCRenameTree";
+//GTCTrsCommandsHeader.GTCRenameTreeHdr.Icon.Focused          = "IF_GTCRenameTree";
+//GTCTrsCommandsHeader.GTCRenameTreeHdr.Icon.Pressed          = "IP_GTCRenameTree";
+GTCTrsCommandsHeader.GTCRenameTreeHdr.LongHelpId				= "GTCTrsCommandsHeader.GTCRenameTreeHdr";
+
+// == Dumb Down Product == 
+GTCTrsCommandsHeader.GTCSimplifierHdr.Icon.Normal           = "I_GTCSimplifier";
+//GTCTrsCommandsHeader.GTCSimplifierHdr.Icon.Focused          = "IF_GTCSimplifier";
+//GTCTrsCommandsHeader.GTCSimplifierHdr.Icon.Pressed          = "IP_GTCSimplifier";
+GTCTrsCommandsHeader.GTCSimplifierHdr.LongHelpId				= "GTCTrsCommandsHeader.GTCSimplifierHdr";
+
+// == Export Tree Structure ==
+GTCTrsCommandsHeader.GTCWriteTreeHdr.Icon.Normal           = "I_GTCWriteTree";
+//GTCTrsCommandsHeader.GTCWriteTreeHdr.Icon.Focused          = "IF_GTCWriteTree";
+//GTCTrsCommandsHeader.GTCWriteTreeHdr.Icon.Pressed          = "IP_GTCWriteTree";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.LongHelpId				= "GTCTrsCommandsHeader.GTCWriteTreeHdr";
+
+// == SDNF Design Import/Export ==
+GTCTrsCommandsHeader.GTCSDNFImportHdr.Icon.Normal="I_GTCSDNFImport";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.LongHelpId="GTCTrsCommandsHeader.GTCSDNFImportHdr";
+
+GTCTrsCommandsHeader.GTCSDNFExportHdr.Icon.Normal="I_GTCSDNFExport";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.LongHelpId="GTCTrsCommandsHeader.GTCSDNFExportHdr";
+
+
+// == CIS2 Design Export ==
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.Icon.Normal="I_GTCCIS2Export";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.LongHelpId="GTCTrsCommandsHeader.GTCCIS2ExportHdr";
+
+// == Part to 3dxml ==
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.Icon.Normal	    = "I_GTCPartTo3dxml";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.LongHelpId		= "GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr";
+
+
+// == Export to Robot ==
+GTCTrsCommandsHeader.GTCTrsRobotNewExpHdr.Icon.Normal           = "I_UserWorkMenu.bmp";
+GTCTrsCommandsHeader.GTCTrsRobotNewExpHdr.LongHelpId				= "GTCTrsCommandsHeader.GTCTrsNewRobotExportCmd";
+
+// == Import from Robot ==
+GTCTrsCommandsHeader.GTCTrsRobotNewImpHdr.Icon.Normal           = "I_UserWorkMenu.bmp";
+GTCTrsCommandsHeader.GTCTrsRobotNewImpHdr.LongHelpId				= "GTCTrsCommandsHeader.GTCTrsNewRobotImportCmd";
+
+// == DFX/DWG Import with Link ==
+GTCTrsCommandsHeader.GTCTrsDWGImportHdr.Icon.Normal           = "I_GTCTrs3DdxfdwgImportCmd.bmp";
+GTCTrsCommandsHeader.GTCTrsDWGImportHdr.LongHelpId		= "GTCTrsCommandsHeader.GTCTrsDWGImportHdr";
+
+

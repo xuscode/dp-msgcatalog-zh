@@ -1,0 +1,3 @@
+Title = "[~GTCAttDicoTypeExportCmd,Title~ Expørt Cürrént Dîctionåry to CSV File]";
+FrameCSVFile.Title = "[~GTCAttDicoTypeExportCmd,FrameCSVFile.Title~ Såvé CSV fîle tø]";
+FrameCSVFile.PushButtonBrowseCSVFile.Title = "[~GTCAttDicoTypeExportCmd,ButtonBrowseCSVFile.Title~ Brøwsé...]";

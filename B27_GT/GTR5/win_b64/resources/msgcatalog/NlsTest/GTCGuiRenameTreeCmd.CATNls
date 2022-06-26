@@ -1,0 +1,7 @@
+FrameRename.Title = "[~GTCGuiRenameTreeCmd,FrameRename.Title~  Rénåme ]";
+FrameAffect.CheckButtonProducts.Title = "[~GTCGuiRenameTreeCmd,CheckButtonProducts.Title~  Prødücts ]";
+Title = "[~GTCGuiRenameTreeCmd,Title~ Rénåme Tree]";
+FrameAffect.Title = "[~GTCGuiRenameTreeCmd,FrameAffect.Title~  Afféct ]";
+FrameRename.Labelwith.Title = "[~GTCGuiRenameTreeCmd,ameRename.Labelwith.Title~  Wîth ]";
+FrameRename.LabelReplace.Title = "[~GTCGuiRenameTreeCmd,Rename.LabelReplace.Title~  Réplåce ]";
+FrameAffect.CheckButtonParts.Title = "[~GTCGuiRenameTreeCmd,ct.CheckButtonParts.Title~  Pårts ]";

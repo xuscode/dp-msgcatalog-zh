@@ -1,0 +1,4 @@
+GTCAttObjFilterSettingPropertyPageEdt.SetNoOfRulesInColorFilterTabPage.LongHelp = "[十GTCAttObjFilterSettingPropertyPageEdt,lorFilterTabPage.LongHelp十一構ソチ－Set number of rules for color filter]";
+GTCAttObjFilterSettingPropertyPageEdt.SetAttributeFilter.LongHelp = "[十GTCAttObjFilterSettingPropertyPageEdt,tAttributeFilter.LongHelp十一構ソチ－Set object types to assign attributes to...]";
+GTCAttObjFilterSettingPropertyPageEdt.SetSimOptions.LongHelp = "[十GTCAttObjFilterSettingPropertyPageEdt,dt.SetSimOptions.LongHelp十一構ソチ－Set Primavera tree visualization options]";
+TabPage.Title = "[十GTCAttObjFilterSettingPropertyPageEdt,TabPage.Title十一構ソチ－Attributes]";

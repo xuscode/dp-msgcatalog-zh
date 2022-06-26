@@ -1,0 +1,19 @@
+//---------------------------------------------------
+// Ressource File for CATMMUpdateHeader Class
+// En_US
+//---------------------------------------------------
+
+// == Update == 
+
+CATMMUpdateHeader.UpdateHeader.Title="Update Geometry";
+CATMMUpdateHeader.UpdateHeader.Help="Update Geometry";
+CATMMUpdateHeader.UpdateHeader.ShortHelp="Update Geometry";
+CATMMUpdateHeader.UpdateHeader.LongHelp="Updates Geometry";
+
+// == Update == 
+
+
+
+
+
+

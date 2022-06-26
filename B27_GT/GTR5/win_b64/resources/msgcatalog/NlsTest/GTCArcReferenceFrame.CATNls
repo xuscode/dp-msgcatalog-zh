@@ -1,0 +1,8 @@
+GTCArcOpening = "[~GTCArcReferenceFrame,GTCArcOpening~ Opénîng]";
+GTCArcRefFrameMultiple = "[~GTCArcReferenceFrame,GTCArcRefFrameMultiple~ <Mültîplé>]";
+GTCArcSill = "[~GTCArcReferenceFrame,GTCArcSill~ Sîll]";
+OrientationPositive = "[~GTCArcReferenceFrame,OrientationPositive~ +]";
+OrientationNeutral = "[~GTCArcReferenceFrame,OrientationNeutral~ ø]";
+OrientationNegative = "[~GTCArcReferenceFrame,OrientationNegative~ -]";
+frameParent.labelLayer.Title = "[~GTCArcReferenceFrame,meParent.labelLayer.Title~  Låyér ]";
+frameParent.labelOffset.Title = "[~GTCArcReferenceFrame,eParent.labelOffset.Title~  Offsét ]";

@@ -1,0 +1,62 @@
+Title = "Report Data";
+
+//----------------------------
+// Template
+//----------------------------
+//== data sheet template == 
+FrameTemplate.LabelDataSheetTemplate.Title = "Template : ";
+FrameTemplate.EditorDataSheetTemplate.LongHelp = "Select a template or check Report Data options.";
+FrameTemplate.PushButtonTemplateFileChooser.Title = "...";
+
+//-----------------------------
+// Identifiers
+//-----------------------------
+FrameNonTemplateOptions.FrameReportIdentifiers.Title = "Identifiers";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportInstanceName.Title = "Instance Name";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportPartName.Title = "Part Name";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportBodyName.Title = "Body or Set Name";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportFeatureName.Title = "Feature Name";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportFeatureType.Title = "Feature Type";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportFullTreePath.Title = "Full Tree Path";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportRefLinkPath.Title = "Link to Reference Path";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportDefaultRepPath.Title = "Default Representation Path";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportPartInstance.Title = "Part Instance";
+
+//-----------------------------
+// Calculations
+//-----------------------------
+FrameNonTemplateOptions.FrameCalculations.Title = "Calculations";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportVolume.Title = "Volume";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportArea.Title = "Area";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportLength.Title = "Length";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportCoordinates.Title = "Coordinates";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportCenterOfGravity.Title = "Center of gravity";
+
+//-----------------------------
+// Parameters
+//-----------------------------
+FrameNonTemplateOptions.FrameParamaters.Title = "Parameters";
+FrameNonTemplateOptions.FrameParamaters.MultiListSelectedParameters.ShortHelp = "Selected Parameters.";
+FrameNonTemplateOptions.FrameParamaters.MultiListSelectedParameters.LongHelp = "The user selected Parameters that will be reported in the data sheet.";
+
+//-----------------------------
+// Properties
+//-----------------------------
+FrameNonTemplateOptions.FrameProperties.Title = "Properties"; 
+FrameNonTemplateOptions.FrameProperties.PushButtonPropertiesReport.Title = "Report...";
+
+//-----------------------------
+// Atts report
+//-----------------------------
+FrameNonTemplateOptions.FrameAttsReport.Title = "Attributes";
+FrameNonTemplateOptions.FrameAttsReport.LabelAttsReport.Title = "Attributes : ";
+FrameNonTemplateOptions.FrameAttsReport.PushButtonAttsReport.Title = "Report...";
+FrameNonTemplateOptions.FrameAttsReport.LabelSelectedAtts.Title = "Selected Attributes : ";
+
+FrameNonTemplateOptions.FrameAttsReport.MultiListSelectedAtts.ShortHelp = "Selected attributes.";
+FrameNonTemplateOptions.FrameAttsReport.MultiListSelectedAtts.LongHelp = "The user selected attributes that will be reported in the data sheet.";
+
+FrameNonTemplateOptions.FrameAttsReport.CheckButtonInheritAttsFromAncestor.Title = "Inherit from Ancestor";
+FrameNonTemplateOptions.FrameAttsReport.CheckButtonInheritAttsFromAncestor.LongHelp = "Inherit attributes from an object's nearest ancestor if available and if attributes are not already attached to the object itself.";
+
+TemplateFileChooserDlg.Title="Template";

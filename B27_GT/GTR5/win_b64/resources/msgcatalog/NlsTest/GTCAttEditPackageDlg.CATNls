@@ -1,0 +1,8 @@
+Edit = "[~GTCAttEditPackageDlg,Edit~ Edît /P1 øn /P2]";
+TitleforEdit = "[~GTCAttEditPackageDlg,TitleforEdit~ Edît Påckagé]";
+EditAttr = "[~GTCAttEditPackageDlg,EditAttr~ Edît Attribütés]";
+Multiple = "[~GTCAttEditPackageDlg,Multiple~ Mültîplé/]";
+TitleforAttach = "[~GTCAttEditPackageDlg,TitleforAttach~ Attåch Packagé]";
+Multiobj = "[~GTCAttEditPackageDlg,Multiobj~ mültîplé øbjects]";
+Attach = "[~GTCAttEditPackageDlg,Attach~ Attåch /P1 tø /P2]";
+EditAttrOnObj = "[~GTCAttEditPackageDlg,EditAttrOnObj~ Edît Attribütés øn /P1]";

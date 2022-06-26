@@ -1,0 +1,5 @@
+FrameXMLFile.Title = "[十GTCExportDftLayers,FrameXMLFile.Title十一構ソチ－Drafting Layer Standard File]";
+Title = "[十GTCExportDftLayers,Title十一構ソチ－Export Drafting Layers to CSV File]";
+FrameCSVFile.Title = "[十GTCExportDftLayers,FrameCSVFile.Title十一構ソチ－Save CSV file to]";
+FrameCSVFile.PushButtonBrowseCSVFile.Title = "[十GTCExportDftLayers,ButtonBrowseCSVFile.Title十一構ソチ－Browse...]";
+FrameXMLFile.PushButtonBrowseXMLFile.Title = "[十GTCExportDftLayers,ButtonBrowseXMLFile.Title十一構ソチ－Browse...]";

@@ -1,0 +1,16 @@
+tabContParent.tabPageStandard.labelCatalog.Title = "[十GTCArcSectionFrame,andard.labelCatalog.Title十一構ソチ－ Catalog ]";
+tabContParent.tabPageRectangular.Title = "[十GTCArcSectionFrame,.tabPageRectangular.Title十一構ソチ－ Rectangular ]";
+tabContParent.tabPageCircular.labelRadius.Title = "[十GTCArcSectionFrame,ircular.labelRadius.Title十一構ソチ－ Radius ]";
+tabContParent.tabPageStandard.buttonCatalogBrowse.Title = "[十GTCArcSectionFrame,buttonCatalogBrowse.Title十一構ソチ－...]";
+tabContParent.tabPageRectangular.labelHeight.Title = "[十GTCArcSectionFrame,angular.labelHeight.Title十一構ソチ－ Height ]";
+tabContParent.tabPageStandard.Title = "[十GTCArcSectionFrame,ent.tabPageStandard.Title十一構ソチ－ Standard ]";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelSection.Title = "[十GTCArcSectionFrame,gFrame.labelSection.Title十一構ソチ－Section]";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "[十GTCArcSectionFrame,buttonCatalogBrowse.Title十一構ソチ－...]";
+labelOpening = "[十GTCArcSectionFrame,labelOpening十一構ソチ－ Opening ]";
+tabContParent.tabPageRectangular.labelWidth.Title = "[十GTCArcSectionFrame,tangular.labelWidth.Title十一構ソチ－ Width ]";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelCatalog.Title = "[十GTCArcSectionFrame,gFrame.labelCatalog.Title十一構ソチ－Catalog]";
+labelSection = "[十GTCArcSectionFrame,labelSection十一構ソチ－ Section ]";
+tabContParent.tabPageCircular.Title = "[十GTCArcSectionFrame,ent.tabPageCircular.Title十一構ソチ－ Circular ]";
+tabContParent.tabPageCustom.Title = "[十GTCArcSectionFrame,arent.tabPageCustom.Title十一構ソチ－ Custom ]";
+tabContParent.tabPageMixed.Title = "[十GTCArcSectionFrame,Parent.tabPageMixed.Title十一構ソチ－Mixed]";
+tabContParent.tabPageCustom.labelSection.Title = "[十GTCArcSectionFrame,Custom.labelSection.Title十一構ソチ－ Horizontal Sketch ]";

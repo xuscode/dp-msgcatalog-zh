@@ -1,0 +1,3 @@
+GTCAttGroupTransferCmd.ProdFromState.Message="Choose a group to transfer links from.";
+GTCAttGroupTransferCmd.ProdToState.Message="Choose a part to transfer attributes to.";
+GTCAttGroupTransferCmd.ConfirmState.Message="Confirm or cancel.";

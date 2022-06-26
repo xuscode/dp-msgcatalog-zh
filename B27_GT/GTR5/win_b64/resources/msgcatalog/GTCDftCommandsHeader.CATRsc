@@ -1,0 +1,35 @@
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.Icon.Normal = "I_GTCLayerExtract";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.LongHelpId = "GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.Icon.Normal = "I_GTCViewAtOrigin";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.LongHelpId = "GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr";
+
+
+// == Edit Attribute Package ==
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.Icon.Normal         = "I_GTCEditPackage";
+//GTCDftCommandsHeader.GTCDftEditAttributeHdr.Icon.Focused        = "IF_GTCEditPackage";
+//GTCDftCommandsHeader.GTCDftEditAttributeHdr.Icon.Pressed        = "IP_GTCEditPackage";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.LongHelpId		= "GTCDftCommandsHeader.GTCAttEditPackageHdr";
+
+// == Color Filter ==
+GTCDftCommandsHeader.GTCDftColorFilterHdr.Icon.Normal         = "I_GTCColorFilter";
+//GTCDftCommandsHeader.GTCDftColorFilterHdr.Icon.Focused        = "IF_GTCColorFilter";
+//GTCDftCommandsHeader.GTCDftColorFilterHdr.Icon.Pressed        = "IP_GTCColorFilter";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.LongHelpId			= "GTCDftCommandsHeader.GTCColorFilterHdr";
+
+
+// == Attribute Link ==
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.Icon.Normal		= "I_GTCDftInsertAttLink";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.LongHelpId		= "GTCDftCommandsHeader.GTCDftInsertAttLinkHdr";
+
+
+// == Update All Views ==
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.Icon.Normal        = "I_CATSfmUpdate";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.LongHelpId           = "GTCDftCommandsHeader.GTCDftUpdateViewsHdr";
+
+// == Update layer List ==
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.Icon.Normal        = "I_GTCUpdateLayerListCmd";
+GTCDftCommandsHeader.GTCGSUpdateLayerLst.LongHelpId           = "GTCDftCommandsHeader.GTCDftUpdateViewsHdr";
+
+// == Link Ditto ==
+GTCDftCommandsHeader.GTCDftLinkDittoHdr.Icon.Normal		= "I_GTCDftLinkDitto";
+GTCDftCommandsHeader.GTCDftLinkDittoHdr.LongHelpId		= "GTCDftCommandsHeader.GTCDftLinkDittoHdr";

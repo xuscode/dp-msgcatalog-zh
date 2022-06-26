@@ -1,0 +1,18 @@
+
+NewTitle = " New Contour Opening ";
+EditTitle = " Edit Contour Opening ";
+
+frameParent.frameElement.labelName.Title = " Name ";
+
+frameParent.frameElement.labelElementLayer.Title = " Layer ";
+frameParent.frameElement.labelElement.Title = " Element ";
+
+frameParent.frameOutputs.Title = " Outputs ";
+frameParent.frameOutputs.chkBtnPanel.Title = " Panel ";
+frameParent.frameOutputs.chkBtnWire.Title = " Wire ";
+
+ButtonMore = " Partial ";
+ButtonLess = " Complete ";
+
+frameMore.labelFromLim.Title = " From ";
+frameMore.labelToLim.Title = " To ";

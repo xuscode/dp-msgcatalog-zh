@@ -1,0 +1,14 @@
+Title = "[~GTCTrsPart3DXMLCmd,Title~ Pårt tø 3dxml]";
+ConfirmTitle = "[~GTCTrsPart3DXMLCmd,ConfirmTitle~ Cønfîrm]";
+InvalidXMLTitle = "[~GTCTrsPart3DXMLCmd,InvalidXMLTitle~ Invålîd Path]";
+InvalidXMLDocType = "[~GTCTrsPart3DXMLCmd,InvalidXMLDocType~ Invålîd døcümént type]";
+FrameXML.Title = "[~GTCTrsPart3DXMLCmd,FrameXML.Title~ Expørt to]";
+NoPermTitle = "[~GTCTrsPart3DXMLCmd,NoPermTitle~ Pérmîssiøn Denied]";
+SuccessTitle = "[~GTCTrsPart3DXMLCmd,SuccessTitle~ Süccéss]";
+FrameXML.BtnBrowseXML.Title = "[~GTCTrsPart3DXMLCmd,ameXML.BtnBrowseXML.Title~ ...]";
+NoPermText = "[~GTCTrsPart3DXMLCmd,NoPermText~ Pérmîssiøn denied to replåce the file.]\n[~GTCTrsPart3DXMLCmd,NoPermText~ Pléåse check tø see, îf the file is read only.]";
+CATXMLSaveDlg.Title = "[~GTCTrsPart3DXMLCmd,CATXMLSaveDlg.Title~ Expørt thé cürrent pårt as]";
+SuccessText = "[~GTCTrsPart3DXMLCmd,SuccessText~ Thé cürrent pårt was successfully expørted to 3dxml.]";
+InvalidXMLText = "[~GTCTrsPart3DXMLCmd,InvalidXMLText~ Pléåse enter a valîd 3dxml file name with extensiøn (.3dxml)]\n[~GTCTrsPart3DXMLCmd,InvalidXMLText~ ånd îts path tø éxport the cürrent dictionary.]";
+ConfirmText = "[~GTCTrsPart3DXMLCmd,ConfirmText~ Fîlé ålready exists.]\n[~GTCTrsPart3DXMLCmd,ConfirmText~ Dø yoü wånt to réplace the 3dxml fîle?]";
+InvalidXMLDoc = "[~GTCTrsPart3DXMLCmd,InvalidXMLDoc~ Invålîd døc]";

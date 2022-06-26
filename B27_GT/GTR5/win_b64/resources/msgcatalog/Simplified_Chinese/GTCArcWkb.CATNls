@@ -1,0 +1,127 @@
+
+
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCArcWkb.Title = "建筑与结构 ";
+GTCArcWkb.Help       = "建筑与结构 ";
+GTCArcWkb.ShortHelp  = "建筑与结构 ";
+GTCArcWkb.LongHelp   = "建筑与结构 ";
+
+GTCArcGenSelectEltTlb.Title = "Select";
+GTCArcGenSketchTlb.Title = "Sketch";
+GTCArcGenWireframeEltTlb.Title = "Wireframe";
+
+GTCArcTlb.Title = "Architecture Objects";
+GTCArcCustomBldgElsTlb.Title = "Building Elements";
+GTCArcCustomBldgElMnu.Title = "Building Elements";
+
+GTCMultiEditTlb.Title = "Multiple Edits";
+GTCArcConnectionToolsTlb.Title = "Connection Tools";
+
+GTCGridTlb.Title = "Grids";
+GTCStrFEMTlb.Title = "FEM Modeler";
+GTCRemoveSolidTlb.Title = "Details";
+GTCArcTrsRobotTlb.Title = "Robot Translator";
+GTCIfcQuantityTlb.Title = "Update Quantities";
+
+GTCGenSurfacesEltTlb.Title = "Surfaces";
+GTCGenOperationsEltTlb.Title = "Operations";
+GTCGenShapeDesignAnalysisEltTlb.Title = "Shape Analysis";
+GTCUpdateToolsEltTlb.Title = "Update Tools";
+GTCGenToolsEltTlb.Title = "General Tools";
+GTCInsertTlb.Title = "Insert";
+GTCExcelDataSheetsTlb.Title = "Excel Data Sheets";
+
+GTCGenAnalyzeMenu.Title = "Analyze";
+GTCDataMenu.Title = "Data";
+//GTCAttributePackageTlb.Title = "Project Attributes";
+GTCAnnotationTlb.Title = "Annotations";
+GTCConstraintTlb.Title = "Constraints";
+
+GTCShapeModificationTlb.Title = "Shape Modification";
+GTCCurrentPlaneOrientationTlb.Title = "Current Plane Orientation";
+GTCResueTlb.Title = "Reuse";
+GTCGuiWPAddinIconBox.Title = "Render Style";
+//GTCStructureToolsTlb.Title = "Structure Tools";
+GTCConstructionAdminTlb.Title = "Construction Administration";
+GTCGeneralHelpTlb.Title = "Help";
+
+GTCDrawingViewsSubMenu.Title = "Drawing Views";
+GTCAnnotationsSubMenu.Title = "Drawing Annotations";
+GTCConstraintsSubMenu.Title = "Constraints";
+GTCWireframeSubMenu.Title = "Wireframe";
+GTCSurfacesSubMenu.Title = "Surfaces";
+GTCOperationsSubMenu.Title = "Operations";
+GTCSolidsSubMenu.Title = "Sketch-Based Features";
+GTCDressUpSolidsSubMenu.Title = "Dress-Up Features";
+GTCBooleanOperationsSubMenu.Title = "Boolean Operations";
+GTCTransformationSubMenu.Title = "Transformations";
+GTCAdvancedReplicationSubMenu.Title = "Advanced Replication";
+GTCWireframeAnalysisSubMenu.Title = "Wireframe Analysis";
+GTCSolidsAnalysisSubMenu.Title = "Solids Analysis";
+GTCAttributesAnalysisSubMenu.Title = "Attributes Analysis";
+GTCShortcutsSubMenu.Title = "Environment Shortcuts";
+GTCDftRulesLayersSubMenu.Title = "Drafting Rules & Layers";
+
+GTCArcObjectSubMenu.Title = "Architecture Objects";
+GTCArcGridsSubMenu.Title = "Grids";
+GTCArcFEMSubMenu.Title = "FEM Modeler";
+
+GTCArcPlaneIbx.Title = "Planes";
+GTCArcPointIbx.Title = "Points";
+GTCArcLineIbx.Title = "Lines";
+GTCCircleIbx.Title = "Circles";
+//Veguru Start
+GTCSweepIbx.Title ="Sweeps";
+//Veguru End
+
+GTCFilletIbx.Title = "Fillets";
+GTCGridIbx.Title = "Grids";
+GTCKeepModeIbx.Title = "KeepMode";
+GTCJoinIbx.Title = "Joins";
+GTCBoundaryIbx.Title = "Boundaries";
+GTCSplitIbx.Title = "Splits";
+GTCTranslateIbx.Title = "Translations";
+GTCSketchIbx.Title = "Sketches";
+GTCExtrudeIbx.Title = "Extrusions";
+GTCTransformationIbx.Title = "Transformations";
+GTCPatternIbx.Title = "Patterns";
+GTCWireframeAnalysisIbx.Title = "Wireframe Analysis";
+
+GTCObjectRepetitionIbx.Title = "Repetition";
+GTCOpenCatalogIbx.Title = "Open Catalog";
+GTCWireframePatternsIbx.Title = "Wireframe Patterns";
+GTCSolidPatternIbx.Title = "Solid Patterns";
+GTCSolidPatternTlb.Title = "Solid Patterns";
+
+GTCFilletIbx.Title = "Fillet";
+GTCExtrapolateIbx.Title = "Extrapolate";
+
+GTCSplineIbx.Title = "Spline";
+GTCParallelCurveIbx.Title = "Parallel Curve";
+GTCProjectIbx.Title = "Projection";
+
+GTCRemoveFaceIbx.Title = "Remove Face";
+GTCConcatenateIbx.Title = "Concatenate";
+
+GTCGenSchedulesSubMenu.Title = "Schedules";
+GTCAttsManagementToolsSubMenu.Title = "Attributes Management Tools";
+GTCArcGenStructureToolsSubMenu.Title = "Structure Tools...";
+GTCIFCTrsSubMenu.Title = "IFC Translator";
+
+GTCSurfToolsIbx.Title = "Surface Tools";
+
+GTCVersionTitle = "Incompatible Application Version:";
+GTCVersionWarningMsg1 ="The file: ";
+GTCVersionWarningMsg2 = "Your running version of Digital Project is: ";
+GTCVersionWarningMsg3 = "Please upgrade to the latest version of Digital Project.";
+
+GTCArcViewTlb.Title = "A&S Views";
+GTCArcViewSubTlb.Title = "A&S Views";
+GTCArcViewMnu.Title = "A&S Views";
+
+GTCGeoTagSubTlb.Title = "Tags";
+GTCGeoTagSubMnu.Title = "Tags";
+
+GTCArcSelectTlb.Title = "A&S Selection";

@@ -1,0 +1,3 @@
+ErrorLoadDwg = "[十GTCArcSheetCmd,ErrorLoadDwg十十十十十十十十十十十十十十十十十十十十十十十十一構ソチ－Drawing document can not be found. Please load the drawing manually and reselect the drawing sheet.]";
+GTCArcSheetCmd.SelectSheetState.Message = "[十GTCArcSheetCmd,.SelectSheetState.Message十一構ソチ－Select Drafting Sheet]";
+GTCArcSheetCmd.SelectBoundaryState.Message = "[十GTCArcSheetCmd,lectBoundaryState.Message十一構ソチ－Select Boundary]";

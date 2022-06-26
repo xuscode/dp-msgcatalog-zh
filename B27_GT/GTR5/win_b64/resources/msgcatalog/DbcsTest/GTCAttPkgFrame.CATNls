@@ -1,0 +1,7 @@
+btnAttHyperLink.ShortHelp = "[十GTCAttPkgFrame,btnAttHyperLink.ShortHelp十一構ソチ－Open Hyperlink]";
+InvalidDate.Title = "[十GTCAttPkgFrame,InvalidDate.Title十一構ソチ－Invalid Date]";
+btnAttHyperLink.LongHelp = "[十GTCAttPkgFrame,btnAttHyperLink.LongHelp十一構ソチ－Open Hyperlink]";
+InvalidDate.Message = "[十GTCAttPkgFrame,InvalidDate.Message十一構ソチ－Failed to parse value as date. Please verify your input.]";
+btnAttDateTimeFrame.Title = "[十GTCAttPkgFrame,btnAttDateTimeFrame.Title十一構ソチ－...]";
+btnAttGetBkMk.ShortHelp = "[十GTCAttPkgFrame,btnAttGetBkMk.ShortHelp十一構ソチ－Import Bookmark]";
+btnAttGetBkMk.LongHelp = "[十GTCAttPkgFrame,btnAttGetBkMk.LongHelp十一構ソチ－Import Bookmark]";

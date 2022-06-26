@@ -1,0 +1,12 @@
+Label008.Title = "[~GTCArcReplicaViewDlg,Label008.Title~    ]";
+Label004.Title = "[~GTCArcReplicaViewDlg,Label004.Title~         ]";
+ViewLabel.Title = "[~GTCArcReplicaViewDlg,ViewLabel.Title~ Vîéw]";
+ShowCut.Title = "[~GTCArcReplicaViewDlg,ShowCut.Title~  ]";
+NewTitle = "[~GTCArcReplicaViewDlg,NewTitle~  Néw Vîew Frøm 2D ]";
+SupportLabel.Title = "[~GTCArcReplicaViewDlg,SupportLabel.Title~ Süppørt]";
+Label007.Title = "[~GTCArcReplicaViewDlg,Label007.Title~                                            ]";
+ShowCutPlaneText = "[~GTCArcReplicaViewDlg,ShowCutPlaneText~ Séctîøn]";
+ReverseDirBtn.Title = "[~GTCArcReplicaViewDlg,ReverseDirBtn.Title~ Réverse Dîrectiøn]";
+EditTitle = "[~GTCArcReplicaViewDlg,EditTitle~  Edît Viéw Frøm 2D ]";
+NameLabel.Title = "[~GTCArcReplicaViewDlg,NameLabel.Title~ Nåmé]";
+AxisLabel.Title = "[~GTCArcReplicaViewDlg,AxisLabel.Title~ Axîs]";

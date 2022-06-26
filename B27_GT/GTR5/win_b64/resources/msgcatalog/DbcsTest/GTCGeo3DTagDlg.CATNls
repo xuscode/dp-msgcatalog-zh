@@ -1,0 +1,5 @@
+frameFather.labelLocation.Title = "[十GTCGeo3DTagDlg,ather.labelLocation.Title十一構ソチ－Location: ]";
+frameFather.btnRefreshListDwgTypes.ShortHelp = "[十GTCGeo3DTagDlg,eshListDwgTypes.ShortHelp十一構ソチ－Refresh the list from GVS]";
+frameFather.btnRefreshListDwgTypes.LongHelp = "[十GTCGeo3DTagDlg,reshListDwgTypes.LongHelp十一構ソチ－Refresh the list from GVS]";
+frameFather.labelLabel.Title = "[十GTCGeo3DTagDlg,meFather.labelLabel.Title十一構ソチ－Label: ]";
+frameFather.labelDwgGenType.Title = "[十GTCGeo3DTagDlg,her.labelDwgGenType.Title十一構ソチ－Drawing Style: ]";

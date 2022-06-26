@@ -1,0 +1,9 @@
+GTCArcRoot = "Category";
+GTCArcSet = "Set";
+GTCArcBldgElement = "Building Element";
+GTCArcSpecSet = "Specification Set";
+GTCArcSpecification = "Specification";
+GTCArcGeoResult = "Geometry Result";
+GTCArcGridElement = "Grid Element";
+GTCArcGridFeature = "Grid Feature";
+GTCArcSolidResult = "Solid Result";

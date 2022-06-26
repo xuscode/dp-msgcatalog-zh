@@ -1,0 +1,2 @@
+GTCTrsRobotFileChooserDlg = "[~GTCTrsNewRobotExportCmd,GTCTrsRobotFileChooserDlg~ Røbot Fîlé]";
+GTCTrsNewRobotExportCmd.InitState.Message = "[~GTCTrsNewRobotExportCmd,portCmd.InitState.Message~ Sélect å Røbot fîle]";

@@ -1,0 +1,18 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+Title = "Export Current Dictionary";
+FrameXML.Title = "Export to";
+FrameXML.BtnBrowseXML.Title = "...";
+
+CATXMLSaveDlg.Title = "Export the current dictionary as";
+
+SuccessTitle = "Success";
+SuccessText = "The current dictionary was successfully exported.";
+ConfirmTitle = "Confirm";
+ConfirmText = "File already exists.\nDo you want to replace the XML file?";
+NoPermTitle = "Permission Denied";
+NoPermText = "Permission denied to replace the file.\nPlease check to see, if the file is read only.";
+InvalidXMLTitle = "Invalid Path";
+InvalidXMLText = "Please enter a valid XML file name with extension (.xml)\nand its path to export the current dictionary.";
+
+// END WIZARD REPLACEMENT ZONE

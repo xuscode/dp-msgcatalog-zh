@@ -1,0 +1,12 @@
+frameParent.frameElement.labelElement.Title = "[~GTCArcContextualOpeningDlg,lement.labelElement.Title~  Elément ]";
+frameParent.frameOutputs.Title = "[~GTCArcContextualOpeningDlg,Parent.frameOutputs.Title~  Oütputs ]";
+frameParent.frameOutputs.chkBtnPanel.Title = "[~GTCArcContextualOpeningDlg,Outputs.chkBtnPanel.Title~  Pånél ]";
+frameParent.frameElement.labelName.Title = "[~GTCArcContextualOpeningDlg,meElement.labelName.Title~  Nåmé ]";
+frameParent.frameOutputs.chkBtnWire.Title = "[~GTCArcContextualOpeningDlg,eOutputs.chkBtnWire.Title~  Wîré ]";
+ButtonLess = "[~GTCArcContextualOpeningDlg,ButtonLess~  Cømpléte ]";
+NewTitle = "[~GTCArcContextualOpeningDlg,NewTitle~  Néw Cøntoür Openîng ]";
+frameMore.labelFromLim.Title = "[~GTCArcContextualOpeningDlg,meMore.labelFromLim.Title~  Frøm ]";
+EditTitle = "[~GTCArcContextualOpeningDlg,EditTitle~  Edît Cøntoür Opéning ]";
+frameParent.frameElement.labelElementLayer.Title = "[~GTCArcContextualOpeningDlg,t.labelElementLayer.Title~  Låyér ]";
+frameMore.labelToLim.Title = "[~GTCArcContextualOpeningDlg,rameMore.labelToLim.Title~  Tø ]";
+ButtonMore = "[~GTCArcContextualOpeningDlg,ButtonMore~  Pårtîal ]";

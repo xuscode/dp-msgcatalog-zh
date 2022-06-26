@@ -1,0 +1,3 @@
+ExtensionFeature.Container="GTCAttContainer"
+ExtensionFeature.Extends="CATDMUUrlFeat,CATEarlySpecAttr,CAT3DMarker,CATDMUView,CATNewSceneFeat,GTCAttFeature,MechanicalFeature,ASMPRODUCT"
+ExtensionFeature.IsLocal="TRUE"

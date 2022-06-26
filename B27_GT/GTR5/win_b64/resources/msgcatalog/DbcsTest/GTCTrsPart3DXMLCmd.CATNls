@@ -1,0 +1,14 @@
+Title = "[十GTCTrsPart3DXMLCmd,Title十一構ソチ－Part to 3dxml]";
+ConfirmTitle = "[十GTCTrsPart3DXMLCmd,ConfirmTitle十一構ソチ－Confirm]";
+InvalidXMLTitle = "[十GTCTrsPart3DXMLCmd,InvalidXMLTitle十一構ソチ－Invalid Path]";
+InvalidXMLDocType = "[十GTCTrsPart3DXMLCmd,InvalidXMLDocType十一構ソチ－Invalid document type]";
+FrameXML.Title = "[十GTCTrsPart3DXMLCmd,FrameXML.Title十一構ソチ－Export to]";
+NoPermTitle = "[十GTCTrsPart3DXMLCmd,NoPermTitle十一構ソチ－Permission Denied]";
+SuccessTitle = "[十GTCTrsPart3DXMLCmd,SuccessTitle十一構ソチ－Success]";
+FrameXML.BtnBrowseXML.Title = "[十GTCTrsPart3DXMLCmd,ameXML.BtnBrowseXML.Title十一構ソチ－...]";
+NoPermText = "[十GTCTrsPart3DXMLCmd,NoPermText十一構ソチ－Permission denied to replace the file.]\n[十GTCTrsPart3DXMLCmd,NoPermText十一構ソチ－Please check to see, if the file is read only.]";
+CATXMLSaveDlg.Title = "[十GTCTrsPart3DXMLCmd,CATXMLSaveDlg.Title十一構ソチ－Export the current part as]";
+SuccessText = "[十GTCTrsPart3DXMLCmd,SuccessText十一構ソチ－The current part was successfully exported to 3dxml.]";
+InvalidXMLText = "[十GTCTrsPart3DXMLCmd,InvalidXMLText十一構ソチ－Please enter a valid 3dxml file name with extension (.3dxml)]\n[十GTCTrsPart3DXMLCmd,InvalidXMLText十一構ソチ－and its path to export the current dictionary.]";
+ConfirmText = "[十GTCTrsPart3DXMLCmd,ConfirmText十一構ソチ－File already exists.]\n[十GTCTrsPart3DXMLCmd,ConfirmText十一構ソチ－Do you want to replace the 3dxml file?]";
+InvalidXMLDoc = "[十GTCTrsPart3DXMLCmd,InvalidXMLDoc十一構ソチ－Invalid doc]";

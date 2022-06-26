@@ -1,0 +1,18 @@
+cbtNodeLock.Title = " ";
+cbtShare.Title = " ";
+cbtBorrow.Title = " ";
+cbtFloat.Title = " ";
+
+lblNodeLock.Title = "  Node Lock     ";
+lblShared.Title = "  Share   ";
+lblBorrow.Title = "  Borrow     ";
+lblServerLic.Title = "  License Count";
+lblDynamic.Title = "  Dynamic     ";
+
+
+pbtApply.Title = " Apply ";
+pbtCancel.Title = " Close ";
+
+lblFeature.Title = "  Feature  ";
+lblExpiry.Title = "                             Expires                             ";
+lblDays.Title = " Days";

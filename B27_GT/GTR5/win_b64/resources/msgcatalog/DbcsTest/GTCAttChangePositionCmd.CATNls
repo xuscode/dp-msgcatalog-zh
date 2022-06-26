@@ -1,0 +1,4 @@
+GTCAttChangePositionCmd.InitialState.Message = "[十GTCAttChangePositionCmd,nCmd.InitialState.Message十一構ソチ－ ]";
+GTCAttChangePositionCmd.SelActState.Message = "[十GTCAttChangePositionCmd,onCmd.SelActState.Message十一構ソチ－Select activities]";
+GTCAttChangePositionCmd.SelectStartPosState.Message = "[十GTCAttChangePositionCmd,lectStartPosState.Message十一構ソチ－Select start point or axis]";
+GTCAttChangePositionCmd.SelectEndPosState.Message = "[十GTCAttChangePositionCmd,SelectEndPosState.Message十一構ソチ－Select end point or axis]";

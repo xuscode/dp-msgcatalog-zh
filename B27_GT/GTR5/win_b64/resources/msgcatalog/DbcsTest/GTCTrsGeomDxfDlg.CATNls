@@ -1,0 +1,16 @@
+SelectFileToImport = "[十GTCTrsGeomDxfDlg,SelectFileToImport十一構ソチ－ - File]\n[十GTCTrsGeomDxfDlg,SelectFileToImport十一構ソチ－]";
+MissingInfo = "[十GTCTrsGeomDxfDlg,MissingInfo十一構ソチ－Incomplete dialog]";
+SaveAndUnloadCheckButtonFrame.SaveCheckButtonLabel.Title = "[十GTCTrsGeomDxfDlg,aveCheckButtonLabel.Title十一構ソチ－Save and Unload]";
+SelectProduct = "[十GTCTrsGeomDxfDlg,SelectProduct十一構ソチ－ - Product]\n[十GTCTrsGeomDxfDlg,SelectProduct十一構ソチ－]";
+FileFrm.ImportIn.Title = "[十GTCTrsGeomDxfDlg,FileFrm.ImportIn.Title十一構ソチ－  Product]";
+Dxf_File = "[十GTCTrsGeomDxfDlg,Dxf_File十一構ソチ－DXF File]";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadCheckButton.Title = "[十GTCTrsGeomDxfDlg,ndUnloadCheckButton.Title十一構ソチ－ ]";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadFileButton.Title = "[十GTCTrsGeomDxfDlg,AndUnloadFileButton.Title十一構ソチ－...]";
+SelectInfoIsMissing = "[十GTCTrsGeomDxfDlg,SelectInfoIsMissing十一構ソチ－Select following item(s) to import :]\n[十GTCTrsGeomDxfDlg,SelectInfoIsMissing十一構ソチ－]";
+FileFrm.ImportFileButton.Title = "[十GTCTrsGeomDxfDlg,rm.ImportFileButton.Title十一構ソチ－...]";
+FileFrm.LogFileButton.Title = "[十GTCTrsGeomDxfDlg,leFrm.LogFileButton.Title十一構ソチ－...]";
+Dwg_Dxf_Files = "[十GTCTrsGeomDxfDlg,Dwg_Dxf_Files十一構ソチ－DWG & DXF Files]";
+Dwg_File = "[十GTCTrsGeomDxfDlg,Dwg_File十一構ソチ－DWG File]";
+FileFrm.ImportFile.Title = "[十GTCTrsGeomDxfDlg,FileFrm.ImportFile.Title十一構ソチ－File   ]";
+FileFrm.LogFile.Title = "[十GTCTrsGeomDxfDlg,FileFrm.LogFile.Title十一構ソチ－Log   ]";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadFileLabel.Title = "[十GTCTrsGeomDxfDlg,eAndUnloadFileLabel.Title十一構ソチ－Save      ]";

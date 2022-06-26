@@ -1,0 +1,4 @@
+GTCAttCurrentPackageHeader.ShortHelp = "[~GTCAttCurrentPackageHeader,ntPackageHeader.ShortHelp~ Sét Cürrent Påckage]";
+GTCAttCurrentPackageHeader.Help = "[~GTCAttCurrentPackageHeader,CurrentPackageHeader.Help~ Sét Cürrent Påckage]";
+GTCAttCurrentPackageHeader.LongHelp = "[~GTCAttCurrentPackageHeader,entPackageHeader.LongHelp~ Sét Cürrent Påckage]";
+GTCAttCurrentPackageHeader.Title = "[~GTCAttCurrentPackageHeader,urrentPackageHeader.Title~ Sét Cürrent Påckage]";

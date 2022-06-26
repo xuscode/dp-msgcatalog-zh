@@ -1,0 +1,109 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+ContentFrame.radioButtonFrame.SingleValueID.Title = "Single Value";
+ContentFrame.radioButtonFrame.RangeID.Title = "Range";
+
+// SubPackages
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.NameID.Title = "Name";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.ColorID.Title = "Color";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.SelectID.Title = "Select";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.TransparencyID.Title = "Transparency";
+
+// Discrete, Layer
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "Value";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "Transparency";
+
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "From Value";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "To Value";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "Transparency";
+
+
+// NonDiscrete
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "Value";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "Transparency";
+
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "From Value";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "To Value";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "Transparency";
+
+// Boolean
+ContentFrame.TabPageBooleanContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageBooleanContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "Value";
+ContentFrame.TabPageBooleanContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageBooleanContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageBooleanContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageBooleanContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "Transparency";
+
+// String
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "Value";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "Transparency";
+
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "From Value";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "To Value";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "Transparency";
+
+// Hyperlink
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "Value";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "Transparency";
+
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "From Value";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "To Value";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "Color";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "Hide   ";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "Select";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "Transparency";
+
+ClearApplyFrame.ClearID.Title = "Clear";
+ClearApplyFrame.ApplyID.Title = "Apply";
+ClearApplyFrame.XMLExportBTN.Title = "Export";
+
+ClearApplyFrame.CreateFctBtn.Title = "Add to Tree";
+ClearApplyFrame.SaveFctBtn.Title = "Save to Tree";
+
+ClearApplyFrame.ApplyPermanent.Title = "Apply Permanently";
+ClearApplyFrame.XMLImportBTN.Title = "Import";
+
+FeatDlg.Title = "Enter a name for the Color Filter";
+FeatDlg.FeatureNameLbl.Title = "Name";
+
+NotifySucceed.Title = "Export";
+SucceedMsg = "Export Succeeded !";
+PkgAttXMLExportFileDlg.Title = "Export Color Filter";
+PkgAttXMLImportFileDlg.Title = "Import Color Filter";
+ExportHelp = "Export color filter definition to a file";
+ImportHelp = "Import color filter definition from a file";
+
+WarnApplyPermanentTitle="Warning";
+WarnApplyPermanentText="Graphic properties will be applied permanently. Do you wish to continue?";
+
+unset = "<Unset>";
+none = "NONE";
+
+// END WIZARD REPLACEMENT ZONE

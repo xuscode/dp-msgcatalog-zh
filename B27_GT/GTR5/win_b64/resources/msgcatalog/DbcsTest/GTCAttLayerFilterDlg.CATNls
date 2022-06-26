@@ -1,0 +1,11 @@
+BCancel = "[十GTCAttLayerFilterDlg,BCancel十一構ソチ－Close]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblLayer.Title = "[十GTCAttLayerFilterDlg,r.frmLayer.lblLayer.Title十一構ソチ－Layer]";
+tbcLayer.tabLayer.conLayer.frmLayer.cbtHide.Title = "[十GTCAttLayerFilterDlg,er.frmLayer.cbtHide.Title十一構ソチ－ ]";
+Title = "[十GTCAttLayerFilterDlg,Title十一構ソチ－Layer Filter]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblColor.Title = "[十GTCAttLayerFilterDlg,r.frmLayer.lblColor.Title十一構ソチ－Color]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblHide.Title = "[十GTCAttLayerFilterDlg,er.frmLayer.lblHide.Title十一構ソチ－Hide]";
+SucceedMsg = "[十GTCAttLayerFilterDlg,SucceedMsg十一構ソチ－Export Succeeded !]";
+ExportXMLBtn.Title = "[十GTCAttLayerFilterDlg,ExportXMLBtn.Title十一構ソチ－Export]";
+NotifySucceed.Title = "[十GTCAttLayerFilterDlg,NotifySucceed.Title十一構ソチ－Export]";
+tbcLayer.tabLayer.Title = "[十GTCAttLayerFilterDlg,tbcLayer.tabLayer.Title十一構ソチ－Layer]";
+BOK = "[十GTCAttLayerFilterDlg,BOK十一構ソチ－Reset]";

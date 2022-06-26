@@ -1,0 +1,8 @@
+cbtShare.Title = "[~GTCCorLicPropDlg,cbtShare.Title~  ]";
+lblShared.Title = "[~GTCCorLicPropDlg,lblShared.Title~    Shåré   ]";
+cbtNodeLock.Title = "[~GTCCorLicPropDlg,cbtNodeLock.Title~  ]";
+lblFeature1.Title = "[~GTCCorLicPropDlg,lblFeature1.Title~ GTX]";
+pbtApply.Title = "[~GTCCorLicPropDlg,pbtApply.Title~ Apply]";
+cbtBorrow.Title = "[~GTCCorLicPropDlg,cbtBorrow.Title~  ]";
+lblBorrow.Title = "[~GTCCorLicPropDlg,lblBorrow.Title~      Børrow     ]";
+lblNodeLock.Title = "[~GTCCorLicPropDlg,lblNodeLock.Title~      Nødé Lock     ]";

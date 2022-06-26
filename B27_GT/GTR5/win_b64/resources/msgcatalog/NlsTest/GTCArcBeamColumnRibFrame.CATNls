@@ -1,0 +1,11 @@
+labelTo = "[~GTCArcBeamColumnRibFrame,labelTo~  Tø ]";
+frameResultOutputs.chkBttnStructuralWire.Title = "[~GTCArcBeamColumnRibFrame,kBttnStructuralWire.Title~  Strücturål Wîré ]";
+labelFrom = "[~GTCArcBeamColumnRibFrame,labelFrom~  Frøm ]";
+frameLimObj.labelLayer.Title = "[~GTCArcBeamColumnRibFrame,meLimObj.labelLayer.Title~  Låyér ]";
+frameResultOutputs.chkBttnSolid.Title = "[~GTCArcBeamColumnRibFrame,utputs.chkBttnSolid.Title~  Sølîd ]";
+frameResultOutputs.Title = "[~GTCArcBeamColumnRibFrame,frameResultOutputs.Title~  Oütputs ]";
+frameResultOutputs.labelSetPoint.Title = "[~GTCArcBeamColumnRibFrame,tputs.labelSetPoint.Title~  Strücturål Sét Pøînt   ]";
+frameLimObj.labelOffset.Title = "[~GTCArcBeamColumnRibFrame,eLimObj.labelOffset.Title~  Offsét ]";
+labelBottom = "[~GTCArcBeamColumnRibFrame,labelBottom~  Bøttom ]";
+frameResultOutputs.labelSegments.Title = "[~GTCArcBeamColumnRibFrame,tputs.labelSegments.Title~    Ségments ]";
+labelTop = "[~GTCArcBeamColumnRibFrame,labelTop~  Tøp ]";

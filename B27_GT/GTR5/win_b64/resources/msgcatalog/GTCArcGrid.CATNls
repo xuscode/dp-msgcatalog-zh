@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Grid";
+					LabelType.Title  = "Type                                 ";
+					LabelName.Title  = "Grid Name                            ";
+RefHeightParmFrame.ElvSeaLevel.Title = "Elevation Above Sea Level ";
+// END WIZARD REPLACEMENT ZONE

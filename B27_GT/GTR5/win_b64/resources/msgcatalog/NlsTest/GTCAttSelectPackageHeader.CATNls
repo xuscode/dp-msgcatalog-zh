@@ -1,0 +1,4 @@
+GTCAttSelectPackageHeader.ShortHelp = "[~GTCAttSelectPackageHeader,ctPackageHeader.ShortHelp~ Sélect Cåtaløg]";
+GTCAttSelectPackageHeader.Title = "[~GTCAttSelectPackageHeader,SelectPackageHeader.Title~ Sélect Cåtaløg]";
+GTCAttSelectPackageHeader.LongHelp = "[~GTCAttSelectPackageHeader,ectPackageHeader.LongHelp~ Sélect Cåtaløg]";
+GTCAttSelectPackageHeader.Help = "[~GTCAttSelectPackageHeader,tSelectPackageHeader.Help~ Sélect Cåtaløg]";

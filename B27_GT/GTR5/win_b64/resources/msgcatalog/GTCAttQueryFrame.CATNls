@@ -1,0 +1,20 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Geometry and Attributes";
+// END WIZARD REPLACEMENT ZONE
+
+// 
+// Geometry Tab 
+//
+FrameGeometry.Title = "Geometry";
+FrameGeometry.CheckButtonQueryComponents.Title = "Components";
+FrameGeometry.CheckButtonQueryParts.Title = "Parts";
+//FrameGeometry.CheckButtonQueryParts.Title = "Part Instances";
+FrameGeometry.CheckButtonQuerySetsAndBodies.Title = "Sets and Bodies";
+FrameGeometry.CheckButtonQueryUserFeatures.Title = "User Features";
+FrameGeometry.CheckButtonQuerySolids.Title = "Solids";
+FrameGeometry.CheckButtonQuerySurfaces.Title = "Surfaces";
+FrameGeometry.CheckButtonQueryLinesCurves.Title = "Lines and Curves";
+FrameGeometry.CheckButtonQueryPoints.Title = "Points";
+
+FrameGeometry.CheckButtonQueryGroups.Title = "Groups";
+

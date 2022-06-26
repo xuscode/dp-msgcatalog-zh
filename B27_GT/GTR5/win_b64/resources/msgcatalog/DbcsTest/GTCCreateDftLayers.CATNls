@@ -1,0 +1,4 @@
+Title = "[十GTCCreateDftLayers,Title十一構ソチ－Import Drafting Layers from CSV/DXF/DWG File]";
+FrameMapFile.Title = "[十GTCCreateDftLayers,FrameMapFile.Title十一構ソチ－Select CSV/DXF/DWG file]";
+FrameLayerFile.Title = "[十GTCCreateDftLayers,FrameLayerFile.Title十一構ソチ－Drafting layer file]";
+FrameMapFile.PushButtonBrowseFile.Title = "[十GTCCreateDftLayers,ushButtonBrowseFile.Title十一構ソチ－Browse...]";

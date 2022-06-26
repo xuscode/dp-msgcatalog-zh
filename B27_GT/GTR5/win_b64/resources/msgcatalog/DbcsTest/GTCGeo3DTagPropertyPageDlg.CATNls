@@ -1,0 +1,4 @@
+btnRefreshListDwgTypes.LongHelp = "[十GTCGeo3DTagPropertyPageDlg,reshListDwgTypes.LongHelp十一構ソチ－Refresh the list from GVS]";
+labelLabel.Title = "[十GTCGeo3DTagPropertyPageDlg,labelLabel.Title十一構ソチ－Label: ]";
+btnRefreshListDwgTypes.ShortHelp = "[十GTCGeo3DTagPropertyPageDlg,eshListDwgTypes.ShortHelp十一構ソチ－Refresh the list from GVS]";
+labelDwgGenType.Title = "[十GTCGeo3DTagPropertyPageDlg,labelDwgGenType.Title十一構ソチ－Drawing Style: ]";

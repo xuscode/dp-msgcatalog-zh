@@ -1,0 +1,2 @@
+SyncInfoMsg = "[~GTCAttMSPSyncCmd,SyncInfoMsg~ Actîvåté MS Prøject node to synchronize]";
+GTCAttMSPSyncCmd.initialState.Message = "[~GTCAttMSPSyncCmd,cCmd.initialState.Message~ Stårt sync]";

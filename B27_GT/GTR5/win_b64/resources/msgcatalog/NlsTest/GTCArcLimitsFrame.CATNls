@@ -1,0 +1,14 @@
+frameParent.frameChild.buttonRemove.Title = "[~GTCArcLimitsFrame,eChild.buttonRemove.Title~  Rémøve ]";
+frameParent.frameChild.buttonAddAfter.Title = "[~GTCArcLimitsFrame,hild.buttonAddAfter.Title~  Add åftér ]";
+ListOffset = "[~GTCArcLimitsFrame,ListOffset~ Offsét]";
+frameParent.multiListLimObj.FeatureContextMenu.OriContextMenu.Title = "[~GTCArcLimitsFrame,Menu.OriContextMenu.Title~ Orîéntåtiøn]";
+OrientationPositive = "[~GTCArcLimitsFrame,OrientationPositive~ +]";
+ListLayer = "[~GTCArcLimitsFrame,ListLayer~ Låyér]";
+ListOrientation = "[~GTCArcLimitsFrame,ListOrientation~ Orîéntåtiøn]";
+ListBoundary = "[~GTCArcLimitsFrame,ListBoundary~ Bøündåry]";
+OrientationNeutral = "[~GTCArcLimitsFrame,OrientationNeutral~ Néütrål]";
+OrientationNegative = "[~GTCArcLimitsFrame,OrientationNegative~ -]";
+labelLimits = "[~GTCArcLimitsFrame,labelLimits~  Lîmits   ]";
+frameParent.frameChild.buttonClear.Title = "[~GTCArcLimitsFrame,meChild.buttonClear.Title~  Cléår ]";
+frameParent.labelLayer.Title = "[~GTCArcLimitsFrame,meParent.labelLayer.Title~  Låyér ]";
+labelInnerLimits = "[~GTCArcLimitsFrame,labelInnerLimits~  Innér Lîmits ]";

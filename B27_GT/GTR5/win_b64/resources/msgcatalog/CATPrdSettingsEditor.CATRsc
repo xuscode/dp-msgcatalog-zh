@@ -1,0 +1,9 @@
+// Fichier ressource correspondant a l'onglet ProductStructure
+
+TabPage.WorkshopName="PRDWorkshop";
+TabPage.SolutionName="Infrastructure";
+// STH
+TabPage.WorkbenchName="GTCDprProjectWkb";
+TabPage.LongHelpId = "ToolsOptions.Infrastructure.ProductStructure.ProductStructure";
+TabPage.PriorityNb = "3";
+

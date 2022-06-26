@@ -1,0 +1,5 @@
+warning = "[十GTCCVSEditCmd,warning十一構ソチ－Warning!!!]";
+updatewarning = "[十GTCCVSEditCmd,updatewarning十十十十十十十十十十十十十一構ソチ－There is a newer version of /P1 in the repository, please do an update first.]";
+GTCCVSEditCmd.SelectProductsState.Message = "[十GTCCVSEditCmd,lectProductsState.Message十一構ソチ－Select product to edit]";
+CVSExePathNotFound = "[十GTCCVSEditCmd,CVSExePathNotFound十一構ソチ－Path of version control application not specified]";
+GTCCVSEditCmd.LoadState.Message = "";

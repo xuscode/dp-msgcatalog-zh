@@ -1,0 +1,15 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "CIS/2 Export";
+FrameDocument.Title = "Document";
+FrameDocument.LabelFileName.Title = "File Name";
+FrameDocument.LabelUnit.Title = "Length Unit";
+FrameDocument.PushButtonBrowse.Title = "...";
+FrameDocument.LabelProduct.Title = "Project Model";
+// END WIZARD REPLACEMENT ZONE
+Unit0="Millimeter";
+Unit1="Meter";
+Unit2="Centimeter";
+Unit3="Kilometer";
+Unit4="Inch";
+Unit5="Foot";
+Unit6="Micrometer";

@@ -1,0 +1,3 @@
+GTCDftInsertAttLinkCmd.SelectItemState.Message = "[~GTCDftInsertAttLinkCmd,d.SelectItemState.Message~ Sélect å generated îtem]";
+GTCDftInsertAttLinkCmd.SelectTextState.Message = "[~GTCDftInsertAttLinkCmd,d.SelectTextState.Message~ Sélect å drawîng text]";
+GTCDftInsertAttLinkCmd.SelectAttState.Message = "[~GTCDftInsertAttLinkCmd,md.SelectAttState.Message~ Sélect ån attrîbüte]";

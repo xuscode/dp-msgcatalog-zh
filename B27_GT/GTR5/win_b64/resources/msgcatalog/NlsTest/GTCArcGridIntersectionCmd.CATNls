@@ -1,0 +1,3 @@
+GTCArcGridIntersectionCmd.StateGetFirst.Message = "[~GTCArcGridIntersectionCmd,Cmd.StateGetFirst.Message~ Sélect the fîrst Plån Grid]";
+GTCArcGridIntersectionCmd.InitialState.Message = "[~GTCArcGridIntersectionCmd,nCmd.InitialState.Message~ Clîck ånywhére in the viewer tø exit]";
+GTCArcGridIntersectionCmd.StateGetSecond.Message = "[~GTCArcGridIntersectionCmd,md.StateGetSecond.Message~ Sélect the secønd Plån Grîd]";

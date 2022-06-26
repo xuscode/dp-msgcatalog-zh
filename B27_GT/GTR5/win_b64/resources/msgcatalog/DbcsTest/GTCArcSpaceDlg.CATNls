@@ -1,0 +1,8 @@
+labelTop.Title = "[十GTCArcSpaceDlg,labelTop.Title十一構ソチ－ Top ]";
+labelShortName.Title = "[十GTCArcSpaceDlg,labelShortName.Title十一構ソチ－ Number ]";
+frameFloorThicknessParent.labelAnalyticalVolume.Title = "[十GTCArcSpaceDlg,belAnalyticalVolume.Title十一構ソチ－ Analytical Volume ]";
+labelBottom.Title = "[十GTCArcSpaceDlg,labelBottom.Title十一構ソチ－ Bottom ]";
+frameFloorThicknessParent.labelFloor1Thickness.Title = "[十GTCArcSpaceDlg,abelFloor1Thickness.Title十一構ソチ－ Flooring Thickness   ]";
+NewTitle = "[十GTCArcSpaceDlg,NewTitle十一構ソチ－ New Space ]";
+labelLongName.Title = "[十GTCArcSpaceDlg,labelLongName.Title十一構ソチ－ Long Name     ]";
+EditTitle = "[十GTCArcSpaceDlg,EditTitle十一構ソチ－ Edit Space ]";

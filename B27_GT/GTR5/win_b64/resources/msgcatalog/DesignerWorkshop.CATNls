@@ -1,0 +1,33 @@
+// COPYRIGHT DASSAULT SYSTEMES 1998
+//===========================================================================
+//
+// DesignerWorkshop
+//
+//===========================================================================
+
+DesignerWorkshop.Title           = "Imagine & Shape";
+DesignerWorkshop.Help            = "This workbench is used for creating imagined shapes";
+DesignerWorkshop.ShortHelp       = "Imagine & Shape";
+DesignerWorkshop.LongHelp        = "Imagine & Shape";
+
+MainFunctionsToolbar.Title   = "Creation";
+StylingSurfacesToolbar.Title = "Styling Surfaces";
+ViewManagementToolbar.Title  = "View Management";
+HelpTextToolbar.Title        = "Help Text";
+HelpTextToolbar2.Title       = "Help Text";
+PrimitiveToolbar.Title       = "Closed Primitives";
+OpenPrimitiveToolbar.Title   = "Open Primitives";
+SweepToolbar.Title           = "Sweep Primitives";
+GeneralSelect.Title          = "Selection";
+WireFrameToolbar.Title       = "Wireframe";
+GSDFrameToolbar.Title        = "Shape Operations";
+ModificationsToolbar.Title   = "Modification";
+OperationsToolBar.Title = "Operations";
+GSDToolbar.Title = "Update";
+FSSToolbar.Title = "Shape Analysis";
+DimensionsToolbar.Title = "Control of Dimension";
+
+GTCGuiWPAddinIconBox.Title = "Render Style";
+GTCConstructionAdminTlb.Title = "Construction Administration";
+GTCGeneralHelpTlb.Title = "Help"; 
+

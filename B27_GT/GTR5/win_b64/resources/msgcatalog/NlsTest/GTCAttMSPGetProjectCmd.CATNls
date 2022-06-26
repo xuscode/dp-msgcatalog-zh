@@ -1,0 +1,3 @@
+Title = "[~GTCAttMSPGetProjectCmd,Title~ Impørt Mîcrosoft Projéct]";
+PushButtonFileChooser.Title = "[~GTCAttMSPGetProjectCmd,shButtonFileChooser.Title~ ...]";
+LabelFileName.Title = "[~GTCAttMSPGetProjectCmd,LabelFileName.Title~ MSPrøjéct Fîle : ]";

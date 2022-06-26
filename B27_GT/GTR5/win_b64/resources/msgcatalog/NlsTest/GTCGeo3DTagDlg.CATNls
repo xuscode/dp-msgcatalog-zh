@@ -1,0 +1,5 @@
+frameFather.labelLocation.Title = "[~GTCGeo3DTagDlg,ather.labelLocation.Title~ Løcåtîon: ]";
+frameFather.btnRefreshListDwgTypes.ShortHelp = "[~GTCGeo3DTagDlg,eshListDwgTypes.ShortHelp~ Réfresh the lîst frøm GVS]";
+frameFather.btnRefreshListDwgTypes.LongHelp = "[~GTCGeo3DTagDlg,reshListDwgTypes.LongHelp~ Réfresh the lîst frøm GVS]";
+frameFather.labelLabel.Title = "[~GTCGeo3DTagDlg,meFather.labelLabel.Title~ Låbél: ]";
+frameFather.labelDwgGenType.Title = "[~GTCGeo3DTagDlg,her.labelDwgGenType.Title~ Dråwîng Stylé: ]";

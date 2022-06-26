@@ -1,0 +1,5 @@
+Title = "[十GTCGeoUpdateTagCmd,Title十一構ソチ－Update Tags]";
+StatusTitle = "[十GTCGeoUpdateTagCmd,StatusTitle十一構ソチ－Update Tags]";
+UpdateKOStatus = "[十GTCGeoUpdateTagCmd,UpdateKOStatus十一構ソチ－Tags update failed.]";
+UpdateOKStatus = "[十GTCGeoUpdateTagCmd,UpdateOKStatus十一構ソチ－Tags updated successfully.]";
+UpdateNotFoundStatus = "[十GTCGeoUpdateTagCmd,UpdateNotFoundStatus十一構ソチ－No Tags found to update.]";

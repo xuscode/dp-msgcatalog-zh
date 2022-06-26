@@ -1,0 +1,2 @@
+GTCAttRemoveGroupCmd.InitialState.Message = "[~GTCAttRemoveGroupCmd,pCmd.InitialState.Message~ Sélect å grøüp or root to remove.]";
+GTCAttRemoveGroupCmd.SelectionState.Message = "[~GTCAttRemoveGroupCmd,md.SelectionState.Message~ Clîck OK tø rémove root/groüp or Cåncel to exit.]";

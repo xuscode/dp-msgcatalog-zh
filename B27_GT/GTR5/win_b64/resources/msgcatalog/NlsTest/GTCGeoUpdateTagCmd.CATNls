@@ -1,0 +1,5 @@
+Title = "[~GTCGeoUpdateTagCmd,Title~ Updåté Tags]";
+StatusTitle = "[~GTCGeoUpdateTagCmd,StatusTitle~ Updåté Tags]";
+UpdateKOStatus = "[~GTCGeoUpdateTagCmd,UpdateKOStatus~ Tågs üpdaté faîled.]";
+UpdateOKStatus = "[~GTCGeoUpdateTagCmd,UpdateOKStatus~ Tågs üpdatéd successfully.]";
+UpdateNotFoundStatus = "[~GTCGeoUpdateTagCmd,UpdateNotFoundStatus~ Nø Tågs foünd to updaté.]";

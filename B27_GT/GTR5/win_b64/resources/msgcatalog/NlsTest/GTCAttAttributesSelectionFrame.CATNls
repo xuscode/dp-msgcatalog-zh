@@ -1,0 +1,15 @@
+ListAttsDictionaries.Help = "[~GTCAttAttributesSelectionFrame,ListAttsDictionaries.Help~ Sélect øne or more dîctionåries.]";
+Title = "[~GTCAttAttributesSelectionFrame,Title~ Attrîbütés]";
+GTCGroupNameOption = "[~GTCAttAttributesSelectionFrame,GTCGroupNameOption~ <Grøüp Nåmé>]";
+ListAttsPackages.LongHelp = "[~GTCAttAttributesSelectionFrame,ListAttsPackages.LongHelp~ Påckagés føünd în the selected dictionaries. Select one or more packages.]";
+ListColDicoName = "[~GTCAttAttributesSelectionFrame,ListColDicoName~ Dîctiønåry]";
+ListAttsDictionaries.ShortHelp = "[~GTCAttAttributesSelectionFrame,ttsDictionaries.ShortHelp~ Dîctiønåriés]";
+ListAttsPackages.ShortHelp = "[~GTCAttAttributesSelectionFrame,istAttsPackages.ShortHelp~ Påckagés]";
+ListAttsPackagesAttributes.Help = "[~GTCAttAttributesSelectionFrame,tsPackagesAttributes.Help~ Attrîbütés føund in the selected påckages based on the selected dictionaries. Select one or more attributes.]";
+ListColPkgName = "[~GTCAttAttributesSelectionFrame,ListColPkgName~ Påckagé]";
+ListAttsDictionaries.LongHelp = "[~GTCAttAttributesSelectionFrame,AttsDictionaries.LongHelp~ Sélect øne or more dîctionåries.]";
+GTCPackageSubTypeOption = "[~GTCAttAttributesSelectionFrame,GTCPackageSubTypeOption~ <Süb-Typé>]";
+ListAttsPackages.Help = "[~GTCAttAttributesSelectionFrame,ListAttsPackages.Help~ Påckagés føünd în the selected dictionaries. Select one or more packages.]";
+ListColPkgAttName = "[~GTCAttAttributesSelectionFrame,ListColPkgAttName~ Attrîbüté]";
+ListAttsPackagesAttributes.ShortHelp = "[~GTCAttAttributesSelectionFrame,kagesAttributes.ShortHelp~ Attrîbütés]";
+ListAttsPackagesAttributes.LongHelp = "[~GTCAttAttributesSelectionFrame,ckagesAttributes.LongHelp~ Attrîbütés føund in the selected påckages based on the selected dictionaries. Select one or more attributes.]";

@@ -1,0 +1,42 @@
+// Marketing solutions
+//------------------------
+//Infrastructure.Title = "Infrastructure";
+Infrastructure.Title = "Project Center";
+//MechanicalDesign.Title = "Mechanical Design";
+MechanicalDesign.Title = "Engineering";
+Shape.Title = "Shape";
+AnalysisSimulation.Title = "Analysis & Simulation";
+AECPlant.Title = "AEC Plant";
+ProcessPlanning.Title = "Process Planning";
+//Equipments.Title = "Equipment & Systems";
+Equipments.Title = "Project Standards";
+//NCManufacturing.Title = "Machining";
+NCManufacturing.Title = "Drawings";
+DMUNavigator.Title = "Rendering";
+//DPManufacturing.Title = "Digital Process for Manufacturing";
+VNC.Title = "Machining Simulation";
+Inspection.Title = "Inspection";
+DenebInfrastructure.Title = "DELMIA Infrastructure";
+IGRIP.Title = "IGRIP";
+Safework.Title = "Ergonomics Design & Analysis";
+AECShipBuilding.Title = "Ship Building";
+LMSEngineeringViewer.Title = "Desktop";
+LMSNoiseAndVibration.Title = "Noise & Vibration";
+LMSMotion.Title = "Motion";
+LMSGeometry.Title = "Geometry";
+LMSDurability.Title = "Durability";
+LMSAcoustics.Title = "Acoustics";
+LMSOptimization.Title = "Optimization";
+LMSMeshing.Title = "Modeling";
+LMSCrash.Title = "Crash";
+LMSOccupantSafety.Title = "Occupant Safety";
+//Knowledge.Title = "Knowledgeware";
+Knowledge.Title = "V5 Tools";
+ENOVIAV5VPM.Title = "ENOVIA V5 VPM";
+LogicControlModeling.Title = "Logic Control Modeling";
+
+// Eduardo
+StudentTitle = "for Student";
+
+// imit
+MarketingTitle = " - Marketing Demo";

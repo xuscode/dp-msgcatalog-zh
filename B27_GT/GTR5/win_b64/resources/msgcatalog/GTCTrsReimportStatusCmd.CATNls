@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Update Imported Files";
+ ImportList.ColumnTitle1 = "Name";
+ ImportList.ColumnTitle2 = "File Type";
+ ImportList.ColumnTitle3 = "Revision";
+ ImportList.ColumnTitle4 = "Import File";
+ ImportList.ColumnTitle5 = "Modified Time On Last Import";
+ ImportList.ColumnTitle6 = "Modified Time On Disk";
+ ImportList.ColumnTitle7 = "Status";
+ReimportBtn.Title = "  Reimport  ";
+UnloadPartsCheck.Title = "Unload parts during import";
+// END WIZARD REPLACEMENT ZONE
+ReadOnlyFilesWarning = "The following files that belong to this product are read-only.\nPlease unset the read-only flags and try again.\n\n";
+DeletePartsWarning = "Obsolete parts and CATParts will be deleted and can not be recovered.";

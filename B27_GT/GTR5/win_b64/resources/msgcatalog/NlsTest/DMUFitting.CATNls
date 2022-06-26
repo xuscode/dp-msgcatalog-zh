@@ -1,0 +1,16 @@
+CATFisActionCnt.Title = "[~DMUFitting,CATFisActionCnt.Title~ Othér åctîøns]";
+DMUFittingToolBar.Title = "[~DMUFitting,DMUFittingToolBar.Title~ DMU Sîmülåtiøn]";
+DMUCheckForFittingToolBar.Title = "[~DMUFitting,ckForFittingToolBar.Title~ DMU Chéck]";
+DMUFittingMgtToolBar.Title = "[~DMUFitting,MUFittingMgtToolBar.Title~ DMU Månagément]";
+DMUFitting.ShortHelp = "[~DMUFitting,DMUFitting.ShortHelp~ Dîgitål Møck-Up Fitting Workbénch]";
+DMUViewingToolBar.Title = "[~DMUFitting,DMUViewingToolBar.Title~ DMU Vîéwing]";
+DMUMeasureToolBar.Title = "[~DMUFitting,DMUMeasureToolBar.Title~ DMU Méåsüre]";
+DMUDynClashIconBox.Title = "[~DMUFitting,DMUDynClashIconBox.Title~ Aütømåtîc clash détection]";
+N4DANALYZE.Title = "[~DMUFitting,N4DANALYZE.Title~ Anålyzé]";
+DMUFitPublish.Title = "[~DMUFitting,DMUFitPublish.Title~ Püblîsh]";
+N4DANALYZE.Mnemonic = "[~DMUFitting,N4DANALYZE.Mnemonic~ A]";
+DMUFitSimulation.Title = "[~DMUFitting,DMUFitSimulation.Title~ Sîmülåtiøn]";
+DMUFitting.Help = "[~DMUFitting,DMUFitting.Help~ Dîgitål Møck-Up Fitting]";
+DMUFitInsertNewSim.Title = "[~DMUFitting,DMUFitInsertNewSim.Title~ Séqüences & Actîøns]";
+DMUFitting.Title = "[~DMUFitting,DMUFitting.Title~ Fîtting Simülåtiøn]";
+DMUFitting.LongHelp = "[~DMUFitting,DMUFitting.LongHelp~ Thîs wørkbénch is üsed to mount ånd dismount assemblies]";

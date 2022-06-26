@@ -1,0 +1,10 @@
+ListColKeywords = "[十GTCAttPropertiesSelectionDlg,ListColKeywords十一構ソチ－Property]";
+Title = "[十GTCAttPropertiesSelectionDlg,Title十一構ソチ－Properties]";
+FrameTemplate.ListKeywords.Help = "[十GTCAttPropertiesSelectionDlg,emplate.ListKeywords.Help十一構ソチ－Keywords found in the selected Components. Select one or more Properties.]";
+FrameTemplate.ListKeywords.ShortHelp = "[十GTCAttPropertiesSelectionDlg,te.ListKeywords.ShortHelp十一構ソチ－Properties]";
+FrameTemplate.ListKeywords.LongHelp = "[十GTCAttPropertiesSelectionDlg,ate.ListKeywords.LongHelp十一構ソチ－Keywords found in the selected Components. Select one or more Properties.]";
+FrameNonTemplateOptions.FrameReportIdentifiers.Title = "[十GTCAttPropertiesSelectionDlg,meReportIdentifiers.Title十一構ソチ－Identifiers]";
+FrameTemplate.ListComponents.LongHelp = "[十GTCAttPropertiesSelectionDlg,e.ListComponents.LongHelp十一構ソチ－Select one or more Component Types.]";
+FrameTemplate.ListComponents.Help = "[十GTCAttPropertiesSelectionDlg,plate.ListComponents.Help十一構ソチ－Select one or more Component Types.]";
+FrameTemplate.ListColComponents = "[十GTCAttPropertiesSelectionDlg,emplate.ListColComponents十一構ソチ－Component]";
+FrameTemplate.ListComponents.ShortHelp = "[十GTCAttPropertiesSelectionDlg,.ListComponents.ShortHelp十一構ソチ－Components]";

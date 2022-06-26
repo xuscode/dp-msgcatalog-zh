@@ -1,0 +1,2 @@
+GTCArcRemoveSolidCmd.StateGetFrom.Message = "[~GTCArcRemoveSolidCmd,dCmd.StateGetFrom.Message~ Sélect büîlding element ør solid to remove from]";
+GTCArcRemoveSolidCmd.StateGetRemove.Message = "[~GTCArcRemoveSolidCmd,md.StateGetRemove.Message~ Sélect büîlding element(s) ør solid(s) to remove]";

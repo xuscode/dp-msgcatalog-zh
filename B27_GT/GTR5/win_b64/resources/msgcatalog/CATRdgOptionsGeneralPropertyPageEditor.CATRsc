@@ -1,0 +1,12 @@
+// COPYRIGHT DASSAULT SYSTEMES 2003
+//===========================================================================
+//
+// CATRdgOptionsGeneralPropertyPageEditor
+//
+//===========================================================================
+
+TabPage.SolutionName  = "DMUNavigator";
+TabPage.WorkbenchName = "RenderingWorkbench";
+TabPage.LongHelpId    = "ToolsOptions.DMUNavigator.Rendering.General";
+TabPage.PriorityNb    = "0";
+

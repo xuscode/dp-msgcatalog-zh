@@ -1,0 +1,8 @@
+UnloadPartsCheck.Title = "[十GTCTrsImportLinkDlg,UnloadPartsCheck.Title十一構ソチ－Unload parts during import]";
+Title = "[十GTCTrsImportLinkDlg,Title十一構ソチ－Import DFX/DWG File With Link]";
+Frame001.Title = "[十GTCTrsImportLinkDlg,Frame001.Title十一構ソチ－Select file to import:]";
+Frame004.BrowseFolderBtn.Title = "[十GTCTrsImportLinkDlg,004.BrowseFolderBtn.Title十一構ソチ－Browse...]";
+Frame001.BrowseFileNameBtn.Title = "[十GTCTrsImportLinkDlg,1.BrowseFileNameBtn.Title十一構ソチ－Browse...]";
+Frame004.Title = "[十GTCTrsImportLinkDlg,Frame004.Title十一構ソチ－Select folder to save product:]";
+BrowseFolderTitle = "[十GTCTrsImportLinkDlg,BrowseFolderTitle十一構ソチ－Select folder]";
+BrowseFileTitle = "[十GTCTrsImportLinkDlg,BrowseFileTitle十一構ソチ－Select file]";

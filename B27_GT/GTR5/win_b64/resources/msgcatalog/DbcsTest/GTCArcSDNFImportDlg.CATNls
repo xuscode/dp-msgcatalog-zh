@@ -1,0 +1,11 @@
+Title = "[十GTCArcSDNFImportDlg,Title十一構ソチ－SDNF Import]";
+FrameOptions.CheckButtonUseAngle.Title = "[十GTCArcSDNFImportDlg,CheckButtonUseAngle.Title十一構ソチ－ Use Angle ]";
+FrameOptions.PushButtonBrowse.Title = "[十GTCArcSDNFImportDlg,ns.PushButtonBrowse.Title十一構ソチ－...]";
+FrameOptions.Title = "[十GTCArcSDNFImportDlg,FrameOptions.Title十一構ソチ－ Options ]";
+FrameOptions.RadioStartToEnd.Title = "[十GTCArcSDNFImportDlg,ons.RadioStartToEnd.Title十一構ソチ－ Start Point to End Point ]";
+FrameOptions.RadioEndToStart.Title = "[十GTCArcSDNFImportDlg,ons.RadioEndToStart.Title十一構ソチ－ End Point to Start Point ]";
+PushButtonBrowse.Title = "[十GTCArcSDNFImportDlg,PushButtonBrowse.Title十一構ソチ－...]";
+FrameOptions.LblMapFileName.Title = "[十GTCArcSDNFImportDlg,ions.LblMapFileName.Title十一構ソチ－ Map Filename : ]";
+FrameOptions.CheckButtonNewGeoSet.Title = "[十GTCArcSDNFImportDlg,heckButtonNewGeoSet.Title十一構ソチ－ Create new set for reference geometry ]";
+FrameOptions.LblSectionDatabases.Title = "[十GTCArcSDNFImportDlg,LblSectionDatabases.Title十一構ソチ－ Section Catalog : ]";
+FrameOptions.CkBttnAnchorPts.Title = "[十GTCArcSDNFImportDlg,ons.CkBttnAnchorPts.Title十一構ソチ－ Swap Left and Right Side Anchor Points ]";

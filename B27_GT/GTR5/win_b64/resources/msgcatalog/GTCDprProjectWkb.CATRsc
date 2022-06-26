@@ -1,0 +1,17 @@
+GTCDprProjectWkb.Category = "Infrastructure";
+GTCDprProjectWkb.Position = "1";
+
+// Icons for the Welcome window 64x64
+GTCDprProjectWkb.Icon.NormalPnl = "I_GTCProjectWkbPanel";
+GTCDprProjectWkb.Icon.PressedPnl = "IP_GTCProjectWkbPanel";
+GTCDprProjectWkb.Icon.FocusPnl = "IF_GTCProjectWkbPanel";
+
+// Icons for the Start menu 32x32
+GTCDprProjectWkb.Icon.NormalCtx ="I_GTCProjectWkbStart";
+GTCDprProjectWkb.Icon.PressedCtx = "IP_GTCProjectWkbStart";
+GTCDprProjectWkb.Icon.FocusCtx = "IF_GTCProjectWkbStart";
+
+// Icons for the workbench toolbar 24x24
+GTCDprProjectWkb.Icon.NormalRep = "I_GTCProjectWkbToolbar";
+GTCDprProjectWkb.Icon.PressedRep = "IP_GTCProjectWkbToolbar";
+GTCDprProjectWkb.Icon.FocusRep = "IF_GTCProjectWkbToolbar";

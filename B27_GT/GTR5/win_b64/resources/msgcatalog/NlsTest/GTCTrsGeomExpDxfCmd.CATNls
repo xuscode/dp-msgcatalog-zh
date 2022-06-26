@@ -1,0 +1,16 @@
+GTCExportNls_DxfDlgTite = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_DxfDlgTite~ Såvé As]";
+GTCExportNls_DxfFileDescription = "[~GTCTrsGeomExpDxfCmd,ortNls_DxfFileDescription~ dxf]";
+GTCExportNls_DwgFileDescription = "[~GTCTrsGeomExpDxfCmd,ortNls_DwgFileDescription~ dwg]";
+GTCExportNls_DxfFileDotExt = "[~GTCTrsGeomExpDxfCmd,TCExportNls_DxfFileDotExt~ .dxf]";
+GTCExportNls_ProgressBarTitle = "[~GTCTrsGeomExpDxfCmd,xportNls_ProgressBarTitle~    Entîtiés Trånsfered]";
+GTCExportNls_NotifyTitle = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_NotifyTitle~ Såvé As]";
+GTCExportNls_DwgFileExt = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_DwgFileExt~ *.dwg]";
+GTCExportNls_NotifyMessageLine1A = "[~GTCTrsGeomExpDxfCmd,rtNls_NotifyMessageLine1A~ Thé îtem ]";
+GTCExportNls_NotifyMessageLine2 = "[~GTCTrsGeomExpDxfCmd,ortNls_NotifyMessageLine2~ Dø yoü wånt ît to bé overwritten?]";
+GTCExportNls_LogFileName = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_LogFileName~ 3DdxfdwgExpørt.txt]";
+GTCExportNls_DlgTitle = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_DlgTitle~ 3D dxf ør dwg Export]";
+GTCExportNls_DxfFileExt = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_DxfFileExt~ *.dxf]";
+GTCExportNls_DwgFileDotExt = "[~GTCTrsGeomExpDxfCmd,TCExportNls_DwgFileDotExt~ .dwg]";
+GTCExportNls_NotifyMessageLine1B = "[~GTCTrsGeomExpDxfCmd,rtNls_NotifyMessageLine1B~  ålréady exîsts.]";
+GTCExportNls_LineBreak = "[~GTCTrsGeomExpDxfCmd,GTCExportNls_LineBreak~ ]\n[~GTCTrsGeomExpDxfCmd,GTCExportNls_LineBreak~ ]";
+GTCExportNls_ProgressBarSplit = "[~GTCTrsGeomExpDxfCmd,xportNls_ProgressBarSplit~  / ]";

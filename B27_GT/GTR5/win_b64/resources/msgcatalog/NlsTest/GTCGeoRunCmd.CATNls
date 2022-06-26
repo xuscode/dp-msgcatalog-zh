@@ -1,0 +1,2 @@
+GTCGeoRunCmd.StateGetRef.Message = "[~GTCGeoRunCmd,unCmd.StateGetRef.Message~ Sélect å rün reference]";
+GTCGeoRunCmd.StateInitial.Message = "[~GTCGeoRunCmd,nCmd.StateInitial.Message~ Sélect sîngle ør mültiple Runs/Finish to execute]";

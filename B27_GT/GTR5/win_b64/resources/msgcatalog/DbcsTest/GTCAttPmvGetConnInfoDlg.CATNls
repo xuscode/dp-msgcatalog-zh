@@ -1,0 +1,15 @@
+PmvLoginNameEd.LongHelp = "[十GTCAttPmvGetConnInfoDlg,PmvLoginNameEd.LongHelp十一構ソチ－Enter primavera user name]";
+PmvSDKNameEd.ShortHelp = "[十GTCAttPmvGetConnInfoDlg,PmvSDKNameEd.ShortHelp十一構ソチ－Enter SDK name]";
+AccessDeniedMsg = "[十GTCAttPmvGetConnInfoDlg,AccessDeniedMsg十一構ソチ－Failed to connect to Primavera, retry login again]";
+Title = "[十GTCAttPmvGetConnInfoDlg,Title十一構ソチ－Login to Primavera]";
+PmvPasswdEd.LongHelp = "[十GTCAttPmvGetConnInfoDlg,PmvPasswdEd.LongHelp十一構ソチ－Enter password for primavera connection]";
+AccessDeniedTitle = "[十GTCAttPmvGetConnInfoDlg,AccessDeniedTitle十一構ソチ－Access to Primavera Denied]";
+PmvLoginNameEd.Help = "[十GTCAttPmvGetConnInfoDlg,PmvLoginNameEd.Help十一構ソチ－Enter user name]";
+PmvPasswdLbl.Title = "[十GTCAttPmvGetConnInfoDlg,PmvPasswdLbl.Title十一構ソチ－Password]";
+PmvPasswdEd.Help = "[十GTCAttPmvGetConnInfoDlg,PmvPasswdEd.Help十一構ソチ－Enter password]";
+PmvLoginNameLbl.Title = "[十GTCAttPmvGetConnInfoDlg,PmvLoginNameLbl.Title十一構ソチ－Login Name]";
+PmvSDKLbl.Title = "[十GTCAttPmvGetConnInfoDlg,PmvSDKLbl.Title十一構ソチ－ODBC DSN]";
+PmvLoginNameEd.ShortHelp = "[十GTCAttPmvGetConnInfoDlg,PmvLoginNameEd.ShortHelp十一構ソチ－Enter user name]";
+PmvSDKNameEd.Help = "[十GTCAttPmvGetConnInfoDlg,PmvSDKNameEd.Help十一構ソチ－Enter name of SDK]";
+PmvPasswdEd.ShortHelp = "[十GTCAttPmvGetConnInfoDlg,PmvPasswdEd.ShortHelp十一構ソチ－Enter password]";
+PmvSDKNameEd.LongHelp = "[十GTCAttPmvGetConnInfoDlg,PmvSDKNameEd.LongHelp十一構ソチ－Enter name of primavera SDK]";

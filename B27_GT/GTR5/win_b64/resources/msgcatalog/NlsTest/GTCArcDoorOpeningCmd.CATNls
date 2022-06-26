@@ -1,0 +1,6 @@
+GTCArcDoorOpeningCmd.StateGetOpeningStyle.Message = "[~GTCArcDoorOpeningCmd,teGetOpeningStyle.Message~ Sélect ån exîsting style interactively ør choose from Catalog Browser]";
+GTCArcDoorOpeningCmd.StateSetPoint.Message = "[~GTCArcDoorOpeningCmd,Cmd.StateSetPoint.Message~ Sélect set pøînt position]";
+GTCArcDoorOpeningCmd.StateGetArcSupport.Message = "[~GTCArcDoorOpeningCmd,tateGetArcSupport.Message~ Sélect å wall]";
+GTCArcDoorOpeningCmd.StateNoSel.Message = "[~GTCArcDoorOpeningCmd,ingCmd.StateNoSel.Message~ Spécîfy øpening åttribütes]";
+GTCArcDoorOpeningCmd.StateGetPlacementReference.Message = "[~GTCArcDoorOpeningCmd,lacementReference.Message~ Sélect ån element as hørîzontal placement reference]";
+GTCArcDoorOpeningCmd.StateGetPlacementElevation.Message = "[~GTCArcDoorOpeningCmd,lacementElevation.Message~ Sélect ån element as elevatîøn placement reference]";

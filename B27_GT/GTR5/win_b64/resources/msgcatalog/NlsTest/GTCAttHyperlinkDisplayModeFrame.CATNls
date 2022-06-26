@@ -1,0 +1,4 @@
+Title = "[~GTCAttHyperlinkDisplayModeFrame,Title~ Hypérlînk]";
+btnAttHyperLinkSrc.Title = "[~GTCAttHyperlinkDisplayModeFrame,btnAttHyperLinkSrc.Title~ Søürcé]";
+btnAttHyperLinkLink.Title = "[~GTCAttHyperlinkDisplayModeFrame,btnAttHyperLinkLink.Title~ Lînk]";
+btnAttHyperLinkName.Title = "[~GTCAttHyperlinkDisplayModeFrame,btnAttHyperLinkName.Title~ Nåmé]";

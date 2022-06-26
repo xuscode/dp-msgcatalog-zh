@@ -1,0 +1,11 @@
+Title = "[~GTCAttQueryFrame,Title~ Géømetry ånd Attrîbütes]";
+FrameGeometry.CheckButtonQueryComponents.Title = "[~GTCAttQueryFrame,ttonQueryComponents.Title~ Cømponénts]";
+FrameGeometry.CheckButtonQueryPoints.Title = "[~GTCAttQueryFrame,ckButtonQueryPoints.Title~ Pøînts]";
+FrameGeometry.Title = "[~GTCAttQueryFrame,FrameGeometry.Title~ Géømetry]";
+FrameGeometry.CheckButtonQueryUserFeatures.Title = "[~GTCAttQueryFrame,onQueryUserFeatures.Title~ Usér Feåtüres]";
+FrameGeometry.CheckButtonQuerySurfaces.Title = "[~GTCAttQueryFrame,ButtonQuerySurfaces.Title~ Sürfåcés]";
+FrameGeometry.CheckButtonQueryLinesCurves.Title = "[~GTCAttQueryFrame,tonQueryLinesCurves.Title~ Lînés ånd Cürves]";
+FrameGeometry.CheckButtonQueryParts.Title = "[~GTCAttQueryFrame,eckButtonQueryParts.Title~ Pårts]";
+FrameGeometry.CheckButtonQuerySetsAndBodies.Title = "[~GTCAttQueryFrame,nQuerySetsAndBodies.Title~ Séts ånd Bødîes]";
+FrameGeometry.CheckButtonQuerySolids.Title = "[~GTCAttQueryFrame,ckButtonQuerySolids.Title~ Sølîds]";
+FrameGeometry.CheckButtonQueryGroups.Title = "[~GTCAttQueryFrame,ckButtonQueryGroups.Title~ Grøüps]";

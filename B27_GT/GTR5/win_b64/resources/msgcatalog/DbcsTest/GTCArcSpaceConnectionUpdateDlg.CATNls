@@ -1,0 +1,7 @@
+Title = "[十GTCArcSpaceConnectionUpdateDlg,Title十一構ソチ－Adjust Space Limits]";
+RadioButtonInclude.Title = "[十GTCArcSpaceConnectionUpdateDlg,RadioButtonInclude.Title十一構ソチ－Include walls]";
+LabelSpacer2.Title = "[十GTCArcSpaceConnectionUpdateDlg,LabelSpacer2.Title十一構ソチ－   ]";
+LabelUpdateLimits.Title = "[十GTCArcSpaceConnectionUpdateDlg,LabelUpdateLimits.Title十一構ソチ－Updated limits: ]";
+RadioButtonExclude.Title = "[十GTCArcSpaceConnectionUpdateDlg,RadioButtonExclude.Title十一構ソチ－Exclude walls]";
+LabelSpacer.Title = "[十GTCArcSpaceConnectionUpdateDlg,LabelSpacer.Title十一構ソチ－  ]";
+RadioButtonCenter.Title = "[十GTCArcSpaceConnectionUpdateDlg,RadioButtonCenter.Title十一構ソチ－Center of walls]";

@@ -1,0 +1,8 @@
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.Icon="I_StMagnetTranslator";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.IconSel="IP_StMagnetTranslator";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.TranslatorMagnetCheck.IconFocus="IF_StMagnetTranslator";
+
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.MeshPointSelectFeedback.Icon="I_StMPointSelectFeedback";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.MeshPointSelectFeedback.IconSel="IP_StMPointSelectFeedback";
+TranslatorLook.IconAndOptionsFrame.OptionsFrame.MeshPointSelectFeedback.IconFocus="IF_StMPointSelectFeedback";
+

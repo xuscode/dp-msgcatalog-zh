@@ -1,0 +1,30 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Quantity Extraction";
+FrameQueryObjects.Title = "Query Objects";
+FrameQueryObjects.FrameObjectTypes.Title = "Object Types";
+FrameQueryObjects.FrameObjectTypes.CheckButtonSolids.Title = "Solids";
+FrameQueryObjects.FrameObjectTypes.CheckButtonSurfaces.Title = "Surfaces";
+FrameQueryObjects.FrameObjectTypes.CheckButtonLinesCurves.Title = "Lines and Curves";
+FrameQueryObjects.FrameObjectTypes.CheckButtonPoints.Title = "Points";
+FrameQueryObjects.FrameObjectTypes.CheckButtonPartInstances.Title = "Part Instances";
+FrameQueryObjects.FrameObjectTypes.CheckButtonSetsAndBodies.Title = "Sets and Bodies";
+FrameQueryObjects.FrameObjectTypes.CheckButtonUserFeatures.Title = "User Features";
+FrameReportData.Title = "Report Data";
+FrameReportData.FrameIdentifiers.Title = "Identifiers";
+FrameReportData.FrameIdentifiers.CheckButtonPartName.Title = "Part Name";
+FrameReportData.FrameIdentifiers.CheckButtonBodyName.Title = "Body or Set Name";
+FrameReportData.FrameIdentifiers.CheckButtonFeatureName.Title = "Feature Name";
+FrameReportData.FrameIdentifiers.CheckButtonFeatureType.Title = "Feature Type";
+FrameReportData.FrameIdentifiers.CheckButtonPartInstance.Title = "Part Instance";
+FrameReportData.FrameCalculations.Title = "Calculations";
+FrameReportData.FrameCalculations.CheckButtonVolume.Title = "Volume";
+FrameReportData.FrameCalculations.CheckButtonArea.Title = "Area";
+FrameReportData.FrameCalculations.CheckButtonLength.Title = "Length";
+FrameReportData.FrameCalculations.CheckButtonCoordinates.Title = "Coordinates";
+FrameReportData.FrameExportFile.Title = "Export File";
+FrameReportData.FrameExportFile.PushButtonExportFileBrowse.Title = "...";
+// END WIZARD REPLACEMENT ZONE
+
+
+Only = "Only ";
+Attributes = " Attributes";

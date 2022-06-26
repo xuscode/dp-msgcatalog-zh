@@ -1,0 +1,9 @@
+GTCArcGridFeature = "[~GTCArcCatalogNLS,GTCArcGridFeature~ Grîd Féåtüre]";
+GTCArcSpecSet = "[~GTCArcCatalogNLS,GTCArcSpecSet~ Spécîficåtiøn Set]";
+GTCArcRoot = "[~GTCArcCatalogNLS,GTCArcRoot~ Cåtégøry]";
+GTCArcSet = "[~GTCArcCatalogNLS,GTCArcSet~ Sét]";
+GTCArcGeoResult = "[~GTCArcCatalogNLS,GTCArcGeoResult~ Géømetry Resült]";
+GTCArcGridElement = "[~GTCArcCatalogNLS,GTCArcGridElement~ Grîd Elément]";
+GTCArcSpecification = "[~GTCArcCatalogNLS,GTCArcSpecification~ Spécîficåtiøn]";
+GTCArcBldgElement = "[~GTCArcCatalogNLS,GTCArcBldgElement~ Büîlding Elément]";
+GTCArcSolidResult = "[~GTCArcCatalogNLS,GTCArcSolidResult~ Sølîd Résült]";

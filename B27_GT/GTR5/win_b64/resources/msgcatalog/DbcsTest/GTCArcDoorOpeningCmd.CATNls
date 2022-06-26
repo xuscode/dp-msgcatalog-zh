@@ -1,0 +1,6 @@
+GTCArcDoorOpeningCmd.StateGetOpeningStyle.Message = "[十GTCArcDoorOpeningCmd,teGetOpeningStyle.Message十一構ソチ－Select an existing style interactively or choose from Catalog Browser]";
+GTCArcDoorOpeningCmd.StateSetPoint.Message = "[十GTCArcDoorOpeningCmd,Cmd.StateSetPoint.Message十一構ソチ－Select set point position]";
+GTCArcDoorOpeningCmd.StateGetArcSupport.Message = "[十GTCArcDoorOpeningCmd,tateGetArcSupport.Message十一構ソチ－Select a wall]";
+GTCArcDoorOpeningCmd.StateNoSel.Message = "[十GTCArcDoorOpeningCmd,ingCmd.StateNoSel.Message十一構ソチ－Specify opening attributes]";
+GTCArcDoorOpeningCmd.StateGetPlacementReference.Message = "[十GTCArcDoorOpeningCmd,lacementReference.Message十一構ソチ－Select an element as horizontal placement reference]";
+GTCArcDoorOpeningCmd.StateGetPlacementElevation.Message = "[十GTCArcDoorOpeningCmd,lacementElevation.Message十一構ソチ－Select an element as elevation placement reference]";

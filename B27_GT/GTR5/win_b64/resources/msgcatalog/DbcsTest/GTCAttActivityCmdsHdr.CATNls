@@ -1,0 +1,12 @@
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Title = "[十GTCAttActivityCmdsHdr,ttChangePositionHdr.Title十一構ソチ－Temporary Position...]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Title = "[十GTCAttActivityCmdsHdr,CreateActivitiesHdr.Title十一構ソチ－Create activities from elements...]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Help = "[十GTCAttActivityCmdsHdr,tCreateActivitiesHdr.Help十一構ソチ－Create activities from elements]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.LongHelp = "[十GTCAttActivityCmdsHdr,ateActivitiesHdr.LongHelp十一構ソチ－Create activities from elements]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.Title = "[十GTCAttActivityCmdsHdr,itChangePositionHdr.Title十一構ソチ－Edit Position...]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.Help = "[十GTCAttActivityCmdsHdr,ditChangePositionHdr.Help十一構ソチ－Edit the position of elements for these activities]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.ShortHelp = "[十GTCAttActivityCmdsHdr,angePositionHdr.ShortHelp十一構ソチ－Edit Position]";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.LongHelp = "[十GTCAttActivityCmdsHdr,hangePositionHdr.LongHelp十一構ソチ－Change the position of elements for these activities]";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.LongHelp = "[十GTCAttActivityCmdsHdr,hangePositionHdr.LongHelp十一構ソチ－Edit the position of elements for these activities]";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.ShortHelp = "[十GTCAttActivityCmdsHdr,teActivitiesHdr.ShortHelp十一構ソチ－Create Activities]";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Help = "[十GTCAttActivityCmdsHdr,AttChangePositionHdr.Help十一構ソチ－Change the position of elements for these activities]";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.ShortHelp = "[十GTCAttActivityCmdsHdr,angePositionHdr.ShortHelp十一構ソチ－Temporary Position]";

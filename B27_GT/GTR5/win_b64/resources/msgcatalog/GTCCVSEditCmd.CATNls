@@ -1,0 +1,10 @@
+// DO NOT EDIT :: THE CAA WIZARD WILL REPLACE ALL THE CODE HERE
+// END CAA WIZARD REPLACEMENT ZONE
+GTCCVSEditCmd.SelectProductsState.Message="Select product to edit";
+GTCCVSEditCmd.LoadState.Message="";
+
+
+// for the notify dialog in GTCCVSEditCmd::Edit
+warning = "Warning!!!";
+CVSExePathNotFound = "Path of version control application not specified";
+updatewarning = "There is a newer version of /p1 in the repository, please do an update first.";

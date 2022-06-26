@@ -1,0 +1,27 @@
+// == Create Sheet == 
+GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr.Icon.Normal          = "I_GTCArcSheet";
+GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr";
+
+// == Create Front View == 
+GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr.Icon.Normal          = "I_GTCArcFrontView";
+GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr";
+
+// == Create Section View == 
+GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr.Icon.Normal          = "I_GTCArcSectionView";
+GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr";
+
+// == Create Cut View == 
+GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr.Icon.Normal          = "I_GTCArcCutView";
+GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr";
+
+// == Create Grid View == 
+GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr.Icon.Normal          = "I_GTCArcGridView";
+GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr";
+
+// == Create Replica View == 
+GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr.Icon.Normal          = "I_GTCArcReplicaView";
+GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr";
+
+// == Hide Clipping == 
+GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr.Icon.Normal          = "I_GTCShowCutPlaneAlt";
+GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr.LongHelpId			= "GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr";

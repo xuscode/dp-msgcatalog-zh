@@ -1,0 +1,5 @@
+Title = "[~GTCExportDftRules,Title~ Expørt 3d-2d Rülés to CSV Fîle]";
+FrameCSVFile.Title = "[~GTCExportDftRules,FrameCSVFile.Title~ Såvé CSV fîle tø]";
+FrameRuleFile.PushButtonRuleFile.Title = "[~GTCExportDftRules,.PushButtonRuleFile.Title~ Brøwsé...]";
+FrameCSVFile.PushButtonCSVFile.Title = "[~GTCExportDftRules,e.PushButtonCSVFile.Title~ Brøwsé...]";
+FrameRuleFile.Title = "[~GTCExportDftRules,FrameRuleFile.Title~ Sélect 3d-2d rüle fîle]";

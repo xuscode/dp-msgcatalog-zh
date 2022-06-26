@@ -1,0 +1,12 @@
+// CATAssSettingsEditor.CATRsc
+
+// pcc, novembre 1999
+//--> STH
+TabPage.SolutionName	= "Infrastructure";
+TabPage.WorkbenchName	= "Assembly";
+//<--
+
+TabPage.WorkshopName = "PRDWorkshop";
+TabPage.LongHelpId = "ToolsOptions.MechanicalDesign.AssemblyDesign.Assembly";
+
+TabPage.PriorityNb = "0";

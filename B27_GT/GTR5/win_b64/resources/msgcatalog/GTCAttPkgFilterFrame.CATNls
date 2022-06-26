@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+
+ColorID.Title = "Color";
+HideID.Title = "Hide   ";
+SelectID.Title = "Select";
+TransparencyID.Title = "Transparency";
+
+_No = "No ";
+
+
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,7 @@
+DMU2DConfiguration.Title = "[~DMU2DConfiguration,DMU2DConfiguration.Title~ Dråwîng Viéwer]";
+2DDMUMoveToolbar.Title = "[~DMU2DConfiguration,2DDMUMoveToolbar.Title~ 2D Møvé]";
+2DDMUAnnot.Title = "[~DMU2DConfiguration,2DDMUAnnot.Title~ 2D Annøtåtéd Vîews]";
+DMU2DConfiguration.Help = "[~DMU2DConfiguration,DMU2DConfiguration.Help~ Dråwîng Viéwer]";
+2DDMUViewing.Title = "[~DMU2DConfiguration,2DDMUViewing.Title~ 2D Vîéwing]";
+DMU2DConfiguration.ShortHelp = "[~DMU2DConfiguration,2DConfiguration.ShortHelp~ Dråwîng Viéwer]";
+2DDMUToolbar.Title = "[~DMU2DConfiguration,2DDMUToolbar.Title~ Dråwîng Tøols]";

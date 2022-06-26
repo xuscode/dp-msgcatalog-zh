@@ -1,0 +1,11 @@
+labelTo = "[十GTCArcBeamColumnRibFrame,labelTo十一構ソチ－ To ]";
+frameResultOutputs.chkBttnStructuralWire.Title = "[十GTCArcBeamColumnRibFrame,kBttnStructuralWire.Title十一構ソチ－ Structural Wire ]";
+labelFrom = "[十GTCArcBeamColumnRibFrame,labelFrom十一構ソチ－ From ]";
+frameLimObj.labelLayer.Title = "[十GTCArcBeamColumnRibFrame,meLimObj.labelLayer.Title十一構ソチ－ Layer ]";
+frameResultOutputs.chkBttnSolid.Title = "[十GTCArcBeamColumnRibFrame,utputs.chkBttnSolid.Title十一構ソチ－ Solid ]";
+frameResultOutputs.Title = "[十GTCArcBeamColumnRibFrame,frameResultOutputs.Title十一構ソチ－ Outputs ]";
+frameResultOutputs.labelSetPoint.Title = "[十GTCArcBeamColumnRibFrame,tputs.labelSetPoint.Title十一構ソチ－ Structural Set Point   ]";
+frameLimObj.labelOffset.Title = "[十GTCArcBeamColumnRibFrame,eLimObj.labelOffset.Title十一構ソチ－ Offset ]";
+labelBottom = "[十GTCArcBeamColumnRibFrame,labelBottom十一構ソチ－ Bottom ]";
+frameResultOutputs.labelSegments.Title = "[十GTCArcBeamColumnRibFrame,tputs.labelSegments.Title十一構ソチ－   Segments ]";
+labelTop = "[十GTCArcBeamColumnRibFrame,labelTop十一構ソチ－ Top ]";

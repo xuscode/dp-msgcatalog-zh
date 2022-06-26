@@ -1,0 +1,7 @@
+Title = "[~GTCArcSpaceConnectionUpdateDlg,Title~ Adjüst Spåcé Lîmits]";
+RadioButtonInclude.Title = "[~GTCArcSpaceConnectionUpdateDlg,RadioButtonInclude.Title~ Inclüdé wålls]";
+LabelSpacer2.Title = "[~GTCArcSpaceConnectionUpdateDlg,LabelSpacer2.Title~    ]";
+LabelUpdateLimits.Title = "[~GTCArcSpaceConnectionUpdateDlg,LabelUpdateLimits.Title~ Updåtéd lîmits: ]";
+RadioButtonExclude.Title = "[~GTCArcSpaceConnectionUpdateDlg,RadioButtonExclude.Title~ Exclüdé wålls]";
+LabelSpacer.Title = "[~GTCArcSpaceConnectionUpdateDlg,LabelSpacer.Title~   ]";
+RadioButtonCenter.Title = "[~GTCArcSpaceConnectionUpdateDlg,RadioButtonCenter.Title~ Cénter øf wålls]";

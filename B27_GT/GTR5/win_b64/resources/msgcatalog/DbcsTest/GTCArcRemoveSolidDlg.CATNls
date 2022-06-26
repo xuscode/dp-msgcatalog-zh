@@ -1,0 +1,4 @@
+SelectorListRemove.ShortHelp = "[十GTCArcRemoveSolidDlg,ectorListRemove.ShortHelp十一構ソチ－Select building element or solid to remove]";
+SelectorListFrom.ShortHelp = "[十GTCArcRemoveSolidDlg,electorListFrom.ShortHelp十一構ソチ－Select building element or solid within current part to remove from]";
+SelectorListFrom.LongHelp = "[十GTCArcRemoveSolidDlg,SelectorListFrom.LongHelp十一構ソチ－Select building element or solid within current part to remove from]";
+SelectorListRemove.LongHelp = "[十GTCArcRemoveSolidDlg,lectorListRemove.LongHelp十一構ソチ－Select building element or solid to remove]";

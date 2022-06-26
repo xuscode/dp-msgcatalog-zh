@@ -1,0 +1,8 @@
+GTCArcOpeningCmd.StateGetArcSupport.Message = "[十GTCArcOpeningCmd,tateGetArcSupport.Message十一構ソチ－Select a wall, slab or space]";
+GTCArcOpeningCmd.StateSetPoint.Message = "[十GTCArcOpeningCmd,Cmd.StateSetPoint.Message十一構ソチ－Select set point position]";
+GTCArcOpeningCmd.StateNoSel.Message = "[十GTCArcOpeningCmd,ingCmd.StateNoSel.Message十一構ソチ－Specify opening attributes]";
+GTCArcOpeningCmd.StateGetPlacement.Message = "[十GTCArcOpeningCmd,StateGetPlacement.Message十一構ソチ－Select opening placement]";
+GTCArcOpeningCmd.StateGetToAngleRef.Message = "[十GTCArcOpeningCmd,tateGetToAngleRef.Message十一構ソチ－Select an element as an alignment reference]";
+GTCArcOpeningCmd.StateGetFromLimit.Message = "[十GTCArcOpeningCmd,StateGetFromLimit.Message十一構ソチ－Select a from limiting element]";
+GTCArcOpeningCmd.StateGetCustomSection.Message = "[十GTCArcOpeningCmd,eGetCustomSection.Message十一構ソチ－Select an element for the custom section]";
+GTCArcOpeningCmd.StateGetToLimit.Message = "[十GTCArcOpeningCmd,d.StateGetToLimit.Message十一構ソチ－Select a to limiting element]";

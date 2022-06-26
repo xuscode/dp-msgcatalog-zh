@@ -1,0 +1,15 @@
+pSaveUnloadFrame.pSaveUnloadLabel.Title = "[十GTCTrsGeomImpDxfDlg,me.pSaveUnloadLabel.Title十一構ソチ－Save and Unload parts]";
+Title = "[十GTCTrsGeomImpDxfDlg,Title十一構ソチ－3D dxf or dwg Import]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Help = "[十GTCTrsGeomImpDxfDlg,aveUnloadCheckButton.Help十一構ソチ－Select for Saving and Unloading the Parts.]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.LongHelp = "[十GTCTrsGeomImpDxfDlg,nloadCheckButton.LongHelp十一構ソチ－Select for Saving and Unloading the Parts.]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.ShortHelp = "[十GTCTrsGeomImpDxfDlg,loadCheckButton.ShortHelp十一構ソチ－Select for Saving and Unloading the Parts.]";
+pImportDlgFileFrame.pImportInLabel.Title = "[十GTCTrsGeomImpDxfDlg,rame.pImportInLabel.Title十一構ソチ－Import in:]";
+pSaveUnloadFrame.pSaveToLabel.Title = "[十GTCTrsGeomImpDxfDlg,dFrame.pSaveToLabel.Title十一構ソチ－Save to:]";
+pSaveUnloadFrame.pSaveToEditor.ShortHelp = "[十GTCTrsGeomImpDxfDlg,e.pSaveToEditor.ShortHelp十一構ソチ－Select the location for saving the files.]";
+GTCImportNls_ProgressBarSplit = "[十GTCTrsGeomImpDxfDlg,mportNls_ProgressBarSplit十一構ソチ－/]";
+pSaveUnloadFrame.pSaveToButton.Title = "[十GTCTrsGeomImpDxfDlg,Frame.pSaveToButton.Title十一構ソチ－...]";
+pSaveUnloadFrame.pSaveToEditor.Help = "[十GTCTrsGeomImpDxfDlg,dFrame.pSaveToEditor.Help十一構ソチ－Select the location for saving the files.]";
+pSaveUnloadFrame.pSaveToEditor.LongHelp = "[十GTCTrsGeomImpDxfDlg,me.pSaveToEditor.LongHelp十一構ソチ－Select the location for saving the files.]";
+GTCImportNls_SaveFolderSelection = "[十GTCTrsGeomImpDxfDlg,rtNls_SaveFolderSelection十一構ソチ－Select the folder to save the files]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Title = "[十GTCTrsGeomImpDxfDlg,veUnloadCheckButton.Title十一構ソチ－  ]";
+GTCImportNls_ProgressBarTitle = "[十GTCTrsGeomImpDxfDlg,mportNls_ProgressBarTitle十一構ソチ－  Entities Transfered]";

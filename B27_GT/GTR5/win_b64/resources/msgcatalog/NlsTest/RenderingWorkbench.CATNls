@@ -1,0 +1,15 @@
+CATRdgAnimationTlb.Title = "[~RenderingWorkbench,CATRdgAnimationTlb.Title~ Anîmåtiøn]";
+NewLight.Title = "[~RenderingWorkbench,NewLight.Title~ Créåte Lîght]";
+CATRdgViewTlb.Title = "[~RenderingWorkbench,CATRdgViewTlb.Title~ Vîéwpøint]";
+CATRdgSceneTlb.Title = "[~RenderingWorkbench,CATRdgSceneTlb.Title~ Scéne Edîtør]";
+CATRdgApplyTlb.Title = "[~RenderingWorkbench,CATRdgApplyTlb.Title~ Apply Måtérîal]";
+RenderingWorkbench.Help = "[~RenderingWorkbench,RenderingWorkbench.Help~ Thîs wørkbénch is üsed to compute high quålity images]";
+CATRdgNewEnvironmentTlb.Title = "[~RenderingWorkbench,dgNewEnvironmentTlb.Title~ Créåte Envîrønment]";
+CATRdgLightTlb.Title = "[~RenderingWorkbench,CATRdgLightTlb.Title~ Lîght Cømmånds]";
+RenderingWorkbench.Title = "[~RenderingWorkbench,RenderingWorkbench.Title~ Phøto Stüdîo]";
+CATRdgEngineTlb.Title = "[~RenderingWorkbench,CATRdgEngineTlb.Title~ Rénder]";
+CATRdgCameraTlb.Title = "[~RenderingWorkbench,CATRdgCameraTlb.Title~ Cåméra Cømmands]";
+NewEnvironment.Title = "[~RenderingWorkbench,NewEnvironment.Title~ Créåte Envîrønment]";
+RenderingWorkbench.ShortHelp = "[~RenderingWorkbench,deringWorkbench.ShortHelp~ Phøto Stüdîo]";
+RenderingWorkbench.LongHelp = "[~RenderingWorkbench,nderingWorkbench.LongHelp~ Phøto Stüdîo Workbénch]";
+CATRdgNewLightTlb.Title = "[~RenderingWorkbench,CATRdgNewLightTlb.Title~ Créåte Lîght]";

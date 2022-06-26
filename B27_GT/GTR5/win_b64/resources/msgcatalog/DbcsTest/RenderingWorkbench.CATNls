@@ -1,0 +1,15 @@
+CATRdgAnimationTlb.Title = "[十RenderingWorkbench,CATRdgAnimationTlb.Title十一構ソチ－Animation]";
+NewLight.Title = "[十RenderingWorkbench,NewLight.Title十一構ソチ－Create Light]";
+CATRdgViewTlb.Title = "[十RenderingWorkbench,CATRdgViewTlb.Title十一構ソチ－Viewpoint]";
+CATRdgSceneTlb.Title = "[十RenderingWorkbench,CATRdgSceneTlb.Title十一構ソチ－Scene Editor]";
+CATRdgApplyTlb.Title = "[十RenderingWorkbench,CATRdgApplyTlb.Title十一構ソチ－Apply Material]";
+RenderingWorkbench.Help = "[十RenderingWorkbench,RenderingWorkbench.Help十一構ソチ－This workbench is used to compute high quality images]";
+CATRdgNewEnvironmentTlb.Title = "[十RenderingWorkbench,dgNewEnvironmentTlb.Title十一構ソチ－Create Environment]";
+CATRdgLightTlb.Title = "[十RenderingWorkbench,CATRdgLightTlb.Title十一構ソチ－Light Commands]";
+RenderingWorkbench.Title = "[十RenderingWorkbench,RenderingWorkbench.Title十一構ソチ－Photo Studio]";
+CATRdgEngineTlb.Title = "[十RenderingWorkbench,CATRdgEngineTlb.Title十一構ソチ－Render]";
+CATRdgCameraTlb.Title = "[十RenderingWorkbench,CATRdgCameraTlb.Title十一構ソチ－Camera Commands]";
+NewEnvironment.Title = "[十RenderingWorkbench,NewEnvironment.Title十一構ソチ－Create Environment]";
+RenderingWorkbench.ShortHelp = "[十RenderingWorkbench,deringWorkbench.ShortHelp十一構ソチ－Photo Studio]";
+RenderingWorkbench.LongHelp = "[十RenderingWorkbench,nderingWorkbench.LongHelp十一構ソチ－Photo Studio Workbench]";
+CATRdgNewLightTlb.Title = "[十RenderingWorkbench,CATRdgNewLightTlb.Title十一構ソチ－Create Light]";

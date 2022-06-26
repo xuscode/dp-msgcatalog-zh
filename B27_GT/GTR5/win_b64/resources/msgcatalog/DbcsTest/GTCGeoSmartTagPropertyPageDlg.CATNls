@@ -1,0 +1,4 @@
+btnRefreshListDwgTypes.LongHelp = "[十GTCGeoSmartTagPropertyPageDlg,reshListDwgTypes.LongHelp十一構ソチ－Refresh the list from GVS]";
+btnRefreshListDwgTypes.ShortHelp = "[十GTCGeoSmartTagPropertyPageDlg,eshListDwgTypes.ShortHelp十一構ソチ－Refresh the list from GVS]";
+labelDwgGenType.Title = "[十GTCGeoSmartTagPropertyPageDlg,labelDwgGenType.Title十一構ソチ－Drawing Style: ]";
+labelEval.Title = "[十GTCGeoSmartTagPropertyPageDlg,labelEval.Title十一構ソチ－Evaluator: ]";

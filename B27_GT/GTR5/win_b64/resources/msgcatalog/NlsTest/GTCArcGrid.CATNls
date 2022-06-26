@@ -1,0 +1,4 @@
+Title = "[~GTCArcGrid,Title~ Grîd]";
+LabelName.Title = "[~GTCArcGrid,LabelName.Title~ Grîd Nåmé                            ]";
+RefHeightParmFrame.ElvSeaLevel.Title = "[~GTCArcGrid,rmFrame.ElvSeaLevel.Title~ Elévåtîøn Above Sea Level ]";
+LabelType.Title = "[~GTCArcGrid,LabelType.Title~ Typé                                 ]";

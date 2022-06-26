@@ -1,0 +1,9 @@
+GTCCorRunSectionFlatOval = "[~GTCCorReportServices,GTCCorRunSectionFlatOval~ Flåt Oval]";
+GTCMultipleInstances = "[~GTCCorReportServices,GTCMultipleInstances~ <Mültîplé>]";
+GTCCorRunSectionNone = "[~GTCCorReportServices,GTCCorRunSectionNone~ Nøné]";
+GTCCorRunSectionRadiusCorner = "[~GTCCorReportServices,CorRunSectionRadiusCorner~ Rådîüs Cørnér]";
+GTCCorRunSectionRound = "[~GTCCorReportServices,GTCCorRunSectionRound~ Røünd]";
+GTCCorErrorOccurred = "[~GTCCorReportServices,GTCCorErrorOccurred~ ## ERROR ##]";
+GTCCorRunSectionDblRidge = "[~GTCCorReportServices,GTCCorRunSectionDblRidge~ Døüblé Rîdge]";
+GTCCorUnknown = "[~GTCCorReportServices,GTCCorUnknown~ ## UNKNOWN ##]";
+GTCCorRunSectionRect = "[~GTCCorReportServices,GTCCorRunSectionRect~ Réctångülar]";

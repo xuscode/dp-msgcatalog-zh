@@ -1,0 +1,10 @@
+ListColKeywords = "[~GTCAttPropertiesSelectionDlg,ListColKeywords~ Prøpérty]";
+Title = "[~GTCAttPropertiesSelectionDlg,Title~ Prøpértîes]";
+FrameTemplate.ListKeywords.Help = "[~GTCAttPropertiesSelectionDlg,emplate.ListKeywords.Help~ Kéywørds foünd în the selected Components. Select one or more Properties.]";
+FrameTemplate.ListKeywords.ShortHelp = "[~GTCAttPropertiesSelectionDlg,te.ListKeywords.ShortHelp~ Prøpértîes]";
+FrameTemplate.ListKeywords.LongHelp = "[~GTCAttPropertiesSelectionDlg,ate.ListKeywords.LongHelp~ Kéywørds foünd în the selected Components. Select one or more Properties.]";
+FrameNonTemplateOptions.FrameReportIdentifiers.Title = "[~GTCAttPropertiesSelectionDlg,meReportIdentifiers.Title~ Idéntîfiers]";
+FrameTemplate.ListComponents.LongHelp = "[~GTCAttPropertiesSelectionDlg,e.ListComponents.LongHelp~ Sélect øne or more Component Types.]";
+FrameTemplate.ListComponents.Help = "[~GTCAttPropertiesSelectionDlg,plate.ListComponents.Help~ Sélect øne or more Component Types.]";
+FrameTemplate.ListColComponents = "[~GTCAttPropertiesSelectionDlg,emplate.ListColComponents~ Cømponént]";
+FrameTemplate.ListComponents.ShortHelp = "[~GTCAttPropertiesSelectionDlg,.ListComponents.ShortHelp~ Cømponénts]";

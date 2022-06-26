@@ -1,0 +1,5 @@
+GTCArcContextualOpeningCmd.StateGetFromLimit.Message = "[十GTCArcContextualOpeningCmd,StateGetFromLimit.Message十一構ソチ－Select a from limiting element]";
+GTCArcContextualOpeningCmd.StateGetSupport.Message = "[十GTCArcContextualOpeningCmd,d.StateGetSupport.Message十一構ソチ－Select a wall, slab or space]";
+GTCArcContextualOpeningCmd.StateGetLimits.Message = "[十GTCArcContextualOpeningCmd,md.StateGetLimits.Message十一構ソチ－Select limiting elements to create opening contour]";
+GTCArcContextualOpeningCmd.StateNoSelection.Message = "[十GTCArcContextualOpeningCmd,.StateNoSelection.Message十一構ソチ－Specify opening attributes]";
+GTCArcContextualOpeningCmd.StateGetToLimit.Message = "[十GTCArcContextualOpeningCmd,d.StateGetToLimit.Message十一構ソチ－Select a to limiting element]";

@@ -1,0 +1,106 @@
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCDprGeometryWkb.Title = "Geometry";
+GTCDprGeometryWkb.Help       = "Geometry";
+GTCDprGeometryWkb.ShortHelp  = "Geometry";
+GTCDprGeometryWkb.LongHelp   = "Geometry";
+
+GTCGenSelectEltTlb.Title = "Select";
+GTCGenSketchEltTlb.Title = "Sketch";
+GTCGenWireframeEltTlb.Title = "Wireframe";
+GTCGenSolidsEltTlb.Title = "Solids";
+GTCDressUpSolidsTlb.Title = "Dress-Up Features";
+GTCGenSurfaceBasedSolidsEltTlb.Title = "Surface-Based Solids";
+GTCGenSurfacesEltTlb.Title = "Surfaces";
+GTCGeoRunIbx.Title = "Surfacis Runs";
+GTCGenOperationsEltTlb.Title = "Operations";
+GTCGenShapeDesignAnalysisEltTlb.Title = "Shape Analysis";
+GTCUpdateToolsEltTlb.Title = "Update Tools";
+GTCGenToolsEltTlb.Title = "General Tools";
+GTCInsertTlb.Title = "Insert";
+GTCExcelDataSheetsTlb.Title = "Excel Data Sheets";
+GTCBoolOpsTlb.Title = "Boolean Operations";
+GTCAnalysisTlb.Title = "Analysis";
+GTCTransformationTlb.Title = "Transformation";
+GTCGenAnalyzeMenu.Title = "Analyze";
+GTCDataMenu.Title = "Data";
+//GTCAttributePackageTlb.Title = "Project Attributes";
+GTCAnnotationTlb.Title = "Annotations";
+GTCConstraintTlb.Title = "Constraints";
+GTCDataUtilitiesTlb.Title = "Data Utilities";
+GTCFreeStyleDesignTlb.Title = "Free Style Design";
+GTCShapeModificationTlb.Title = "Shape Modification";
+GTCCurrentPlaneOrientationTlb.Title = "Current Plane Orientation";
+GTCResueTlb.Title = "Reuse";
+GTCLawTlb.Title = "Law";
+GTCGuiWPAddinIconBox.Title = "Render Style";
+//GTCStructureToolsTlb.Title = "Structure Tools";
+//GTCStructureToolsSubMenu.Title = "Structure Tools...";
+GTCConstructionAdminTlb.Title = "Construction Administration";
+GTCGeneralHelpTlb.Title = "Help";
+
+GTCSurfaceBasedSolidsSubMenu.Title = "Surface-Based Solids";
+GTCDrawingViewsSubMenu.Title = "Drawing Views";
+GTCAnnotationsSubMenu.Title = "Drawing Annotations";
+GTCConstraintsSubMenu.Title = "Constraints";
+GTCWireframeSubMenu.Title = "Wireframe";
+GTCSurfacesSubMenu.Title = "Surfaces";
+GTCOperationsSubMenu.Title = "Operations";
+GTCSolidsSubMenu.Title = "Sketch-Based Features";
+GTCDressUpSolidsSubMenu.Title = "Dress-Up Features";
+GTCDraftSubMnu.Title = "Draft...";
+GTCBooleanOperationsSubMenu.Title = "Boolean Operations";
+GTCTransformationSubMenu.Title = "Transformations";
+GTCAdvancedReplicationSubMenu.Title = "Advanced Replication";
+GTCWireframeAnalysisSubMenu.Title = "Wireframe Analysis";
+GTCSolidsAnalysisSubMenu.Title = "Solids Analysis";
+GTCAttributesAnalysisSubMenu.Title = "Attributes Analysis";
+GTCDftRulesLayersSubMenu.Title = "Drafting Rules & Layers";
+
+GTCPlaneIbx.Title = "Planes";
+GTCPointIbx.Title = "Points";
+GTCLineIbx.Title = "Lines";
+GTCCircleIbx.Title = "Circles";
+//veguru Start
+GTCSweepIbx.Title = "Sweeps";
+//veguru End
+
+GTCBoolOpsIbx.Title = "Boolean Ops";
+GTCFilletIbx.Title = "Fillets";
+GTCPocketIbx.Title = "Pockets";
+GTCPadIbx.Title = "Pads";
+GTCGridIbx.Title = "Grids";
+GTCKeepModeIbx.Title = "KeepMode";
+GTCJoinIbx.Title = "Joins";
+GTCBoundaryIbx.Title = "Boundaries";
+GTCSplitIbx.Title = "Splits";
+GTCTranslateIbx.Title = "Translations";
+GTCSketchIbx.Title = "Sketches";
+GTCExtrudeIbx.Title = "Extrusions";
+GTCTransformationIbx.Title = "Transformations";
+GTCPatternIbx.Title = "Patterns";
+GTCWireframeAnalysisIbx.Title = "Wireframe Analysis";
+
+GTCObjectRepetitionIbx.Title = "Repetition";
+GTCOpenCatalogIbx.Title = "Open Catalog";
+GTCWireframePatternsIbx.Title = "Wireframe Patterns";
+GTCSolidPatternIbx.Title = "Solid Patterns";
+GTCSolidPatternTlb.Title = "Solid Patterns";
+
+GTCFilletIbx.Title = "Fillet";
+GTCExtrapolateIbx.Title = "Extrapolate";
+
+GTCSplineIbx.Title = "Spline";
+GTCParallelCurveIbx.Title = "Parallel Curve";
+GTCProjectIbx.Title = "Projection";
+
+GTCRemoveFaceIbx.Title = "Remove Face";
+GTCConcatenateIbx.Title = "Concatenate";
+
+GTCGenSchedulesSubMenu.Title = "Schedules";
+GTCAttsManagementToolsSubMenu.Title = "Attributes Management Tools";
+GTCStructureToolsSubMenu.Title = "Structure Tools";
+GTCIFCTrsSubMenu.Title = "IFC Translator";
+GTCLawMnu.Title = "Law";
+GTCSurfToolsIbx.Title = "Surface Tools";

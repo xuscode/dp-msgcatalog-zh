@@ -1,0 +1,21 @@
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.Icon.Normal         = "I_GTCCVSStatusCmd";
+//GTCAttPartWkbHeader.GTCCVSStatusHdr.Icon.Focused        = "IF_GTCRemovePackage";
+//GTCAttPartWkbHeader.GTCCVSStatusHdr.Icon.Pressed        = "IP_GTCRemovePackage";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.LongHelpId			= "GTCCVSCommandsHeader.GTCCVSStatusHdr"; 
+
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.Icon.Normal         = "I_GTCCVSRefreshCmd";
+//GTCAttPartWkbHeader.GTCCVSRefreshHdr.Icon.Focused        = "IF_GTCRemovePackage";
+//GTCAttPartWkbHeader.GTCCVSRefreshHdr.Icon.Pressed        = "IP_GTCRemovePackage";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.LongHelpId			= "GTCCVSCommandsHeader.GTCCVSRefreshHdr";
+
+
+
+GTCCVSCommandsHeader.GTCCVSEditHdr.Icon.Normal         = "I_GTCCVSEditCmd";
+//GTCAttPartWkbHeader.GTCCVSEditHdr.Icon.Focused        = "IF_GTCRemovePackage";
+//GTCAttPartWkbHeader.GTCCVSEditHdr.Icon.Pressed        = "IP_GTCRemovePackage";
+GTCCVSCommandsHeader.GTCCVSEditHdr.LongHelpId			= "GTCCVSCommandsHeader.GTCCVSEditHdr";
+
+GTCCVSCommandsHeader.GTCCVSUneditHdr.Icon.Normal         = "I_GTCCVSUneditCmd";
+//GTCAttPartWkbHeader.GTCCVSEditHdr.Icon.Focused        = "IF_GTCRemovePackage";
+//GTCAttPartWkbHeader.GTCCVSEditHdr.Icon.Pressed        = "IP_GTCRemovePackage";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.LongHelpId			= "GTCCVSCommandsHeader.GTCCVSUneditHdr";

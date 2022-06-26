@@ -1,0 +1,15 @@
+PmvLoginNameEd.LongHelp = "[~GTCAttPmvGetConnInfoDlg,PmvLoginNameEd.LongHelp~ Entér prîmåvera üser name]";
+PmvSDKNameEd.ShortHelp = "[~GTCAttPmvGetConnInfoDlg,PmvSDKNameEd.ShortHelp~ Entér SDK nåme]";
+AccessDeniedMsg = "[~GTCAttPmvGetConnInfoDlg,AccessDeniedMsg~ Fåîléd tø connect to Primavera, retry login again]";
+Title = "[~GTCAttPmvGetConnInfoDlg,Title~ Løgîn to Primåvéra]";
+PmvPasswdEd.LongHelp = "[~GTCAttPmvGetConnInfoDlg,PmvPasswdEd.LongHelp~ Entér påsswørd for prîmavera connection]";
+AccessDeniedTitle = "[~GTCAttPmvGetConnInfoDlg,AccessDeniedTitle~ Accéss tø Prîmåvera Denied]";
+PmvLoginNameEd.Help = "[~GTCAttPmvGetConnInfoDlg,PmvLoginNameEd.Help~ Entér üser nåme]";
+PmvPasswdLbl.Title = "[~GTCAttPmvGetConnInfoDlg,PmvPasswdLbl.Title~ Påsswørd]";
+PmvPasswdEd.Help = "[~GTCAttPmvGetConnInfoDlg,PmvPasswdEd.Help~ Entér påsswørd]";
+PmvLoginNameLbl.Title = "[~GTCAttPmvGetConnInfoDlg,PmvLoginNameLbl.Title~ Løgîn Nåmé]";
+PmvSDKLbl.Title = "[~GTCAttPmvGetConnInfoDlg,PmvSDKLbl.Title~ ODBC DSN]";
+PmvLoginNameEd.ShortHelp = "[~GTCAttPmvGetConnInfoDlg,PmvLoginNameEd.ShortHelp~ Entér üser nåme]";
+PmvSDKNameEd.Help = "[~GTCAttPmvGetConnInfoDlg,PmvSDKNameEd.Help~ Entér nåme øf SDK]";
+PmvPasswdEd.ShortHelp = "[~GTCAttPmvGetConnInfoDlg,PmvPasswdEd.ShortHelp~ Entér påsswørd]";
+PmvSDKNameEd.LongHelp = "[~GTCAttPmvGetConnInfoDlg,PmvSDKNameEd.LongHelp~ Entér nåme øf prîmavera SDK]";

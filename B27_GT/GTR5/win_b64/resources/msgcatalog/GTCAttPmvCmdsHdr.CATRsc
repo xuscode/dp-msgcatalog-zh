@@ -1,0 +1,13 @@
+// == Primavera Connection Info Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Icon.Normal          = "I_GTCAttPmvConnInfo";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.LongHelpId			= "GTCAttPmvCmdsHdr.GTCPvGetConnInfoHdr";
+
+// == Primavera Get Projects Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Icon.Normal          = "I_GTCAttPmvGetProjects";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.LongHelpId			= "GTCAttPmvCmdsHdr.GTCPvGetProjectsHdr";
+
+// == Primavera Get Activities Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Icon.Normal          = "I_GTCAttPmvGetActivities";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.LongHelpId			= "GTCAttPmvCmdsHdr.GTCPvGetActivitiesHdr";
+
+

@@ -1,0 +1,7 @@
+GTCImportNls_LogFileName = "[~GTCTrsGeomImpDxfCmd,GTCImportNls_LogFileName~ 3DdxfdwgImpørt.txt]";
+GTCImportNls_DwgFileExt = "[~GTCTrsGeomImpDxfCmd,GTCImportNls_DwgFileExt~ *.dwg]";
+GTCImportNls_DxfFileDescription = "[~GTCTrsGeomImpDxfCmd,ortNls_DxfFileDescription~ dxf (*.dxf)]";
+GTCImportNls_DwgFileDescription = "[~GTCTrsGeomImpDxfCmd,ortNls_DwgFileDescription~ dwg (*.dwg)]";
+GTCImportNls_DxfDlgTite = "[~GTCTrsGeomImpDxfCmd,GTCImportNls_DxfDlgTite~ Fîlé Selectiøn]";
+GTCImportNls_DxfFileExt = "[~GTCTrsGeomImpDxfCmd,GTCImportNls_DxfFileExt~ *.dxf]";
+GTCTrsGeomImpDxfCmd.initialState.Message = "[~GTCTrsGeomImpDxfCmd,fCmd.initialState.Message~ Sélect .dxf fîle tø import ünder åctive product]";

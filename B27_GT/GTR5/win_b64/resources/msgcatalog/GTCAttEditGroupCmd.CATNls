@@ -1,0 +1,29 @@
+GTCAttEditGroupCmd.InitialState.Message="Select a group.";
+GTCAttEditGroupCmd.EditState.Message="Select features to add them to a group.";
+GTCAttEditGroupCmd.QueryState.Message="Check query options and click OK to commit or Cancel to continue without query options.";
+
+GTCGroupErrorTitle="Groups Error";
+GTCSelectGroupFromDropdown="Please select a group from the package dropdown to use this command.";
+GTCGroupCommandError="Error.  Cannot perform this command.";
+GTCMSPGroupCommandError="Creation failed. For Microsoft Project, make sure you are adding a group of same type as existing groups.";
+
+
+//--------------------------------------
+// excel data sheet column headers
+//--------------------------------------
+GTCExcelColHeaderInstanceName		= "Instance Name";
+GTCExcelColHeaderNumberInstances	= "# Instances";
+GTCExcelColHeaderPartName			= "Part Name";
+GTCExcelColHeaderBodyOrSetName		= "Body Or Set Name";
+GTCExcelColHeaderFeatureName		= "Feature Name";
+GTCExcelColHeaderFeatureType		= "Feature Type";
+GTCExcelColHeaderFeatureFullTreePath = "Full Tree Path";
+GTCExcelColHeaderFeatureLinkRefPath	= "Link to Reference Path";
+GTCExcelColHeaderFeatureDefaultRepPath	= "Default Representation Path";
+
+GTCExcelColHeaderVolume				= "Volume";
+GTCExcelColHeaderArea				= "Area";
+GTCExcelColHeaderLength				= "Length";
+GTCExcelColHeaderCoordinateX		= "Coordinate X";
+GTCExcelColHeaderCoordinateY		= "Coordinate Y";
+GTCExcelColHeaderCoordinateZ		= "Coordinate Z";

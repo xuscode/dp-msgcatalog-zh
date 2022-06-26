@@ -1,0 +1,16 @@
+frameParent.frameElement.labelElement.Title = "[十GTCArcWindowOpeningDlg,lement.labelElement.Title十一構ソチ－ Element ]";
+frameParent.frameElement.labelName.Title = "[十GTCArcWindowOpeningDlg,meElement.labelName.Title十一構ソチ－ Name ]";
+frameParent.framePlacement.Title = "[十GTCArcWindowOpeningDlg,rent.framePlacement.Title十一構ソチ－ Placement ]";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.Help = "[十GTCArcWindowOpeningDlg,logFrame.selListDoor.Help十一構ソチ－Select style interactively or choose from Catalog Browser]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.ShortHelp = "[十GTCArcWindowOpeningDlg,onCatalogBrowse.ShortHelp十一構ソチ－Launches Catalog Browser]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Help = "[十GTCArcWindowOpeningDlg,.buttonCatalogBrowse.Help十一構ソチ－Launches Catalog Browser]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.LongHelp = "[十GTCArcWindowOpeningDlg,tonCatalogBrowse.LongHelp十一構ソチ－Catalog Browser for style selection is enabled after Placement Reference is specified]";
+frameParent.frameStyle.Title = "[十GTCArcWindowOpeningDlg,meParent.frameStyle.Title十一構ソチ－ Style ]";
+frameParent.frameStyle.pushBttnFillAttsMore.Title = "[十GTCArcWindowOpeningDlg,ushBttnFillAttsMore.Title十一構ソチ－More...]";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.ShortHelp = "[十GTCArcWindowOpeningDlg,ame.selListDoor.ShortHelp十一構ソチ－Select style interactively or choose from Catalog Browser]";
+frameParent.framePlacement.labelPosition.Title = "[十GTCArcWindowOpeningDlg,ement.labelPosition.Title十一構ソチ－ Position ]";
+NewTitle = "[十GTCArcWindowOpeningDlg,NewTitle十一構ソチ－ New Window Opening ]";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.LongHelp = "[十GTCArcWindowOpeningDlg,rame.selListDoor.LongHelp十十十十十十十十十十十十十十十十一構ソチ－Select style interactively or choose from Catalog Browser. Style selection is enabled after Placement Reference is specified]";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "[十GTCArcWindowOpeningDlg,buttonCatalogBrowse.Title十一構ソチ－...]";
+EditTitle = "[十GTCArcWindowOpeningDlg,EditTitle十一構ソチ－ Edit Window Opening ]";
+frameParent.frameStyle.labelOpenRatio.Title = "[十GTCArcWindowOpeningDlg,tyle.labelOpenRatio.Title十一構ソチ－ Open Ratio  ]";

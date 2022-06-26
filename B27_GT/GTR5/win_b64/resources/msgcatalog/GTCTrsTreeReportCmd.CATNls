@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = " Tree Report ";
+BOK = " Export ";
+LabelFile.Title = " File ";
+PushButtonBrowse.Title = "...";
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,16 @@
+SelectFileToImport = "[~GTCTrsGeomDxfDlg,SelectFileToImport~  - Fîlé]\n[~GTCTrsGeomDxfDlg,SelectFileToImport~ ]";
+MissingInfo = "[~GTCTrsGeomDxfDlg,MissingInfo~ Incømpléte dîålog]";
+SaveAndUnloadCheckButtonFrame.SaveCheckButtonLabel.Title = "[~GTCTrsGeomDxfDlg,aveCheckButtonLabel.Title~ Såvé and Unløad]";
+SelectProduct = "[~GTCTrsGeomDxfDlg,SelectProduct~  - Prødüct]\n[~GTCTrsGeomDxfDlg,SelectProduct~ ]";
+FileFrm.ImportIn.Title = "[~GTCTrsGeomDxfDlg,FileFrm.ImportIn.Title~   Prødüct]";
+Dxf_File = "[~GTCTrsGeomDxfDlg,Dxf_File~ DXF Fîlé]";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadCheckButton.Title = "[~GTCTrsGeomDxfDlg,ndUnloadCheckButton.Title~  ]";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadFileButton.Title = "[~GTCTrsGeomDxfDlg,AndUnloadFileButton.Title~ ...]";
+SelectInfoIsMissing = "[~GTCTrsGeomDxfDlg,SelectInfoIsMissing~ Sélect føllowîng item(s) to import :]\n[~GTCTrsGeomDxfDlg,SelectInfoIsMissing~ ]";
+FileFrm.ImportFileButton.Title = "[~GTCTrsGeomDxfDlg,rm.ImportFileButton.Title~ ...]";
+FileFrm.LogFileButton.Title = "[~GTCTrsGeomDxfDlg,leFrm.LogFileButton.Title~ ...]";
+Dwg_Dxf_Files = "[~GTCTrsGeomDxfDlg,Dwg_Dxf_Files~ DWG & DXF Fîlés]";
+Dwg_File = "[~GTCTrsGeomDxfDlg,Dwg_File~ DWG Fîlé]";
+FileFrm.ImportFile.Title = "[~GTCTrsGeomDxfDlg,FileFrm.ImportFile.Title~ Fîlé   ]";
+FileFrm.LogFile.Title = "[~GTCTrsGeomDxfDlg,FileFrm.LogFile.Title~ Løg   ]";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadFileLabel.Title = "[~GTCTrsGeomDxfDlg,eAndUnloadFileLabel.Title~ Såvé      ]";

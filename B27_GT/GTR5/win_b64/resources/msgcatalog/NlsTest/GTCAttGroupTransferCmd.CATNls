@@ -1,0 +1,3 @@
+GTCAttGroupTransferCmd.ProdToState.Message = "[~GTCAttGroupTransferCmd,erCmd.ProdToState.Message~ Chøosé å part to transfer attrîbütes to.]";
+GTCAttGroupTransferCmd.ConfirmState.Message = "[~GTCAttGroupTransferCmd,rCmd.ConfirmState.Message~ Cønfîrm or cåncél.]";
+GTCAttGroupTransferCmd.ProdFromState.Message = "[~GTCAttGroupTransferCmd,Cmd.ProdFromState.Message~ Chøosé å groüp to transfer lînks from.]";

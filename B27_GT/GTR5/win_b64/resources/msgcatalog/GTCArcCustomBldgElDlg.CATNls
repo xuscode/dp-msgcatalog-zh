@@ -1,0 +1,35 @@
+// Gehry Technologies
+
+LabelElementList.Title = " Building Element :  ";
+LabelNumInstances.Title = " Number Instances :  ";
+
+
+GTCArcCustBaseTitle = " Create Custom ";
+
+GTCArcCustBldgEl = "Building Element";
+GTCArcCustUnknown = "Building Element";
+GTCArcCustSpace = "Space";
+GTCArcCustSlab = "Slab";
+GTCArcCustRoof = "Roof";
+GTCArcCustWall = "Wall";
+GTCArcCustCurtainWall = "Curtain Wall";
+GTCArcCustStair = "Stair";
+GTCArcCustStairFlight = "Stair Flight";
+GTCArcCustRamp = "Ramp";
+GTCArcCustRampFlight = "Ramp Flight";
+GTCArcCustRailing = "Railing";
+GTCArcCustColumn = "Column";
+GTCArcCustBeam = "Beam";
+GTCArcCustMember = "Member";
+GTCArcCustPlate = "Plate";
+GTCArcCustFooting = "Footing";
+GTCArcCustPile = "Pile";
+GTCArcCustCovering = "Covering";
+GTCArcCustTransportEl = "Transport Element";
+GTCArcCustFurnishingEl = "Furnishing Element";
+GTCArcCustDistributionEl = "Distribution Element";		
+GTCArcCustDetailingEl = "Detailing Element";
+
+
+FrameElName.LabelElName.Title = " Name ";
+FrameAttributes.Title = " Attributes ";

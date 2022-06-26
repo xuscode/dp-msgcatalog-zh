@@ -1,0 +1,4 @@
+DialogTitle = "[十GTCTrsDWGImportCmd,DialogTitle十一構ソチ－Import DWG/DXF file with link]";
+ErrNoProductSelected = "[十GTCTrsDWGImportCmd,ErrNoProductSelected十一構ソチ－Please select a product first.]";
+ErrEnvIncorrect = "[十GTCTrsDWGImportCmd,ErrEnvIncorrect十十十十十一構ソチ－Please set the variable GTC3DDWGFilePath correctly in the environment file.]";
+GTCTrsDWGImportCmd.initialState.Message = "[十GTCTrsDWGImportCmd,tCmd.initialState.Message十一構ソチ－ ]";

@@ -1,0 +1,4 @@
+NametoSet.Title = "[~GTCAttStoreyAtElevationDlg,NametoSet.Title~ Nåmé øf Object]";
+NametoSet.ObjectName.LongHelp = "[~GTCAttStoreyAtElevationDlg,toSet.ObjectName.LongHelp~ Entér the nåme yøü want to gîve to the inserted object]";
+ProductPartComponent.Title = "[~GTCAttStoreyAtElevationDlg,roductPartComponent.Title~ Sélect Object tø Insert:]";
+Message = "[~GTCAttStoreyAtElevationDlg,Message~ Sélect åny Level Grîd]";

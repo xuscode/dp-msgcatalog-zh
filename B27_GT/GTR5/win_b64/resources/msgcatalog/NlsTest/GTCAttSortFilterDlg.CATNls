@@ -1,0 +1,3 @@
+Title = "[~GTCAttSortFilterDlg,Title~ Sørtéd Vîew]";
+PushButtonFileChooser.Title = "[~GTCAttSortFilterDlg,shButtonFileChooser.Title~ ...]";
+LabelFileName.Title = "[~GTCAttSortFilterDlg,LabelFileName.Title~ XML Fîlé : ]";

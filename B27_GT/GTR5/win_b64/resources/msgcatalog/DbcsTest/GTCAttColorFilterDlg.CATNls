@@ -1,0 +1,9 @@
+BCancel = "[十GTCAttColorFilterDlg,BCancel十一構ソチ－Close]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblLayer.Title = "[十GTCAttColorFilterDlg,r.frmLayer.lblLayer.Title十一構ソチ－Layer]";
+tbcLayer.tabLayer.conLayer.frmLayer.cbtHide.Title = "[十GTCAttColorFilterDlg,er.frmLayer.cbtHide.Title十一構ソチ－ ]";
+Title = "[十GTCAttColorFilterDlg,Title十一構ソチ－Color Filter]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblColor.Title = "[十GTCAttColorFilterDlg,r.frmLayer.lblColor.Title十一構ソチ－Color]";
+tbcLayer.tabLayer.conLayer.frmLayer.lblHide.Title = "[十GTCAttColorFilterDlg,er.frmLayer.lblHide.Title十一構ソチ－Hide]";
+ExportXMLBtn.Title = "[十GTCAttColorFilterDlg,ExportXMLBtn.Title十一構ソチ－Export]";
+tbcLayer.tabLayer.Title = "[十GTCAttColorFilterDlg,tbcLayer.tabLayer.Title十一構ソチ－Layer]";
+BOK = "[十GTCAttColorFilterDlg,BOK十一構ソチ－Reset]";

@@ -1,0 +1,68 @@
+//GTCTrsGeomTlb.Title = "Translate Geometry";
+GTCTrsGeomCmdsHdr.GTCTrsGeomCmds.Title = "DXF Translator";
+
+// == Geometric Reporter == 
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.Title		= "3D DXF or DWG Import...";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.Help       = "Imports a DXF or DWG file under the active product";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.ShortHelp  = "3D DXF or DWG Import";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.LongHelp   = "Imports a DXF or DWG file under the active product";
+
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.Title		= "3D DXF or DWG Export...";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.Help       = "Exports a product to a DXF or DWG file";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.ShortHelp  = "3D DXF or DWG Export";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.LongHelp   = "Exports a product to a DXF or DWG file";
+
+GTCTrsGeomCmdsHdr.GTCGeomExpPartDxfHdr.Title		= "3D DXF or DWG Export...";
+GTCTrsGeomCmdsHdr.GTCGeomExpPartDxfHdr.Help       = "Exports a part to a DXF or DWG file";
+GTCTrsGeomCmdsHdr.GTCGeomExpPartDxfHdr.ShortHelp  = "3D DXF or DWG Export";
+GTCTrsGeomCmdsHdr.GTCGeomExpPartDxfHdr.LongHelp   = "Exports a part to a DXF or DWG file";
+
+GTCTrsGeomCmdsHdr.GTCGeomExpIfcHdr.Title		= "IFC Export...";
+GTCTrsGeomCmdsHdr.GTCGeomExpIfcHdr.Help       = "Exports IFC file";
+GTCTrsGeomCmdsHdr.GTCGeomExpIfcHdr.ShortHelp  = "IFC Export";
+GTCTrsGeomCmdsHdr.GTCGeomExpIfcHdr.LongHelp   = "Exports IFC file";
+
+GTCTrsGeomCmdsHdr.GTCGeomImpIfcHdr.Title		= "IFC Import...";
+GTCTrsGeomCmdsHdr.GTCGeomImpIfcHdr.Help       = "Imports a Ifc file under the active product";
+GTCTrsGeomCmdsHdr.GTCGeomImpIfcHdr.ShortHelp  = "IFC Import";
+GTCTrsGeomCmdsHdr.GTCGeomImpIfcHdr.LongHelp   = "Imports a Ifc file under the active product";
+
+GTCTrsGeomCmdsHdr.GTCForceUpdateHdr.Title		= "Force Update...";
+GTCTrsGeomCmdsHdr.GTCForceUpdateHdr.Help       = "Forcefully updates the part";
+GTCTrsGeomCmdsHdr.GTCForceUpdateHdr.ShortHelp  = "Force Update...";
+GTCTrsGeomCmdsHdr.GTCForceUpdateHdr.LongHelp   = "Forcefully updates the part";
+
+// == Run Cmd ==
+
+GTCTrsGeomCmdsHdr.GTCGeoRunHdr.Title	= "Run...";
+GTCTrsGeomCmdsHdr.GTCGeoRunHdr.Help	     = "Creates a Geo Run";
+GTCTrsGeomCmdsHdr.GTCGeoRunHdr.ShortHelp	= "Run";
+GTCTrsGeomCmdsHdr.GTCGeoRunHdr.LongHelp	= "Creates a Geo Run along the line selected";
+
+// == Run Center line Cmd ==
+
+GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr.Title	= "Run Center Line...";
+GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr.Help	     = "Creates a Geo Run Center Line";
+GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr.ShortHelp	=  "Run Center Line";
+GTCTrsGeomCmdsHdr.GTCGeoRunCenterLineHdr.LongHelp	= "Creates a Geo Run Center Line for the selected Geo Run";
+
+
+//QuickFilter
+
+GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr.Title = "Quick Filter...";
+GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr.Help = "Filters out various Architectural objects";
+GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr.ShortHelp = "Quick Filter...";
+GTCTrsGeomCmdsHdr.GTCGSQuickFilterHdr.LongHelp = "The Architectural objects against which the check boxes are checked are displayed";
+
+
+//Update Layer List command
+GTCTrsGeomCmdsHdr.GTCGSUpdateLayerLst.Title = "Update Layer List...";
+GTCTrsGeomCmdsHdr.GTCGSUpdateLayerLst.Help    = "Updates the Layer List...";
+GTCTrsGeomCmdsHdr.GTCGSUpdateLayerLst.ShortHelp = "Update Layer List...";
+GTCTrsGeomCmdsHdr.GTCGSUpdateLayerLst.LongHelp   = "Update Layer List...";
+
+//Update Product Layer List command
+GTCTrsGeomCmdsHdr.GTCUpdateProdLayerCmdHdr.Title = "Update Layer List";
+GTCTrsGeomCmdsHdr.GTCUpdateProdLayerCmdHdr.Help    = "Updates the Layer List";
+GTCTrsGeomCmdsHdr.GTCUpdateProdLayerCmdHdr.ShortHelp = "Update Layer List";
+GTCTrsGeomCmdsHdr.GTCUpdateProdLayerCmdHdr.LongHelp   = "Update Layer List";

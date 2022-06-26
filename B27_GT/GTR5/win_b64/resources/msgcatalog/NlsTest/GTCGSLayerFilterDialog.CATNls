@@ -1,0 +1,5 @@
+cont.tabContParent.tabPageGeneral.hideButton.Title = "[~GTCGSLayerFilterDialog,eGeneral.hideButton.Title~ Hîdé All]";
+Title = "[~GTCGSLayerFilterDialog,Title~ Qüîck Filtér ...]";
+cont.tabContParent.tabPageArchitecture.showButton.Title = "[~GTCGSLayerFilterDialog,itecture.showButton.Title~ Shøw All]";
+cont.tabContParent.tabPageArchitecture.hideButton.Title = "[~GTCGSLayerFilterDialog,itecture.hideButton.Title~ Hîdé All]";
+cont.tabContParent.tabPageGeneral.showButton.Title = "[~GTCGSLayerFilterDialog,eGeneral.showButton.Title~ Shøw All]";

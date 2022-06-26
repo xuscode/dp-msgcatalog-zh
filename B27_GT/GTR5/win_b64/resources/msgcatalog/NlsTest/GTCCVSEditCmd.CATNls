@@ -1,0 +1,5 @@
+warning = "[~GTCCVSEditCmd,warning~ Wårnîng!!!]";
+updatewarning = "[~GTCCVSEditCmd,updatewarning~~~~~~~~~~~ Thére îs å newer versiøn of /P1 in the repository, please do an üpdate first.]";
+GTCCVSEditCmd.SelectProductsState.Message = "[~GTCCVSEditCmd,lectProductsState.Message~ Sélect prødüct to edît]";
+CVSExePathNotFound = "[~GTCCVSEditCmd,CVSExePathNotFound~ Påth øf vérsîon control application not specified]";
+GTCCVSEditCmd.LoadState.Message = "";

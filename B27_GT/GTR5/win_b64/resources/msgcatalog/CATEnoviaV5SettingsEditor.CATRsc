@@ -1,0 +1,11 @@
+// Fichier ressource correspondant a l'onglet ENOVIA LCA
+
+//-->STH
+//TabPage.SolutionName="General";
+//TabPage.WorkbenchName="Compatibility";
+//<--
+TabPage.LongHelpId = "ToolsOptions.General.Compatibility.EnoviaLCA";
+
+
+//TabPage.PresenceOnEnvVariable = "PLUGIN_PROXY";
+

@@ -1,0 +1,2 @@
+SyncInfoMsg = "[十GTCAttMSPSyncCmd,SyncInfoMsg十一構ソチ－Activate MS Project node to synchronize]";
+GTCAttMSPSyncCmd.initialState.Message = "[十GTCAttMSPSyncCmd,cCmd.initialState.Message十一構ソチ－Start sync]";

@@ -1,0 +1,3 @@
+GTCCVSUneditCmd.SelectProductsState.Message = "[十GTCCVSUneditCmd,lectProductsState.Message十一構ソチ－Select product to unedit]";
+uneditmsg = "[十GTCCVSUneditCmd,uneditmsg十一構ソチ－has been modified; revert changes?]";
+GTCCVSUneditCmd.LoadState.Message = "";

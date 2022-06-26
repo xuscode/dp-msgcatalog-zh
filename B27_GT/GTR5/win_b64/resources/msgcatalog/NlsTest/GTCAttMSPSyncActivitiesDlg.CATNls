@@ -1,0 +1,10 @@
+Frame003.btnShowAct.Title = "[~GTCAttMSPSyncActivitiesDlg,Frame003.btnShowAct.Title~ Shøw în MS Projéct]";
+Title = "[~GTCAttMSPSyncActivitiesDlg,Title~ Sync Actîvitiés]";
+Frame003.Title = "[~GTCAttMSPSyncActivitiesDlg,Frame003.Title~ Nåvîgatiøn]";
+frmSync.Frame005.Label006.Title = "[~GTCAttMSPSyncActivitiesDlg,c.Frame005.Label006.Title~      ]";
+frmSync.Frame005.btnExport.Title = "[~GTCAttMSPSyncActivitiesDlg,.Frame005.btnExport.Title~ DP >> MS Prøjéct]";
+Frame003.btnCenterGraph.Title = "[~GTCAttMSPSyncActivitiesDlg,e003.btnCenterGraph.Title~      Shøw în DP     ]";
+frmSync.Title = "[~GTCAttMSPSyncActivitiesDlg,frmSync.Title~ Synchrønîzåtion]";
+Frame003.Label007.Title = "[~GTCAttMSPSyncActivitiesDlg,Frame003.Label007.Title~    ]";
+frmSync.txtActType.Title = "[~GTCAttMSPSyncActivitiesDlg,frmSync.txtActType.Title~ Actîvity Typé  ]";
+frmSync.Frame005.btnImport.Title = "[~GTCAttMSPSyncActivitiesDlg,.Frame005.btnImport.Title~ DP << MS Prøjéct]";

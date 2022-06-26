@@ -1,0 +1,20 @@
+GTCArcWkb.Category = "Infrastructure";
+GTCArcWkb.Position = "3";
+
+// Icons for the Welcome window 64x64 
+GTCArcWkb.Icon.NormalPnl = "I_GTCArcWkbPanel.bmp";
+GTCArcWkb.Icon.PressedPnl = "IP_GTCArcWkbPanel.bmp";
+GTCArcWkb.Icon.FocusPnl = "IF_GTCArcWkbPanel.bmp";
+
+//GTCArcWkb.Icon.PressedPnl = "IP_GTCGeometryWkbPanel";
+//GTCArcWkb.Icon.FocusPnl = "IF_GTCGeometryWkbPanel";
+
+// Icons for the Start menu 32x32
+GTCArcWkb.Icon.NormalCtx ="I_GTCArcWkbStart";
+GTCArcWkb.Icon.PressedCtx = "IP_GTCArcWkbStart";
+GTCArcWkb.Icon.FocusCtx = "IF_GTCArcWkbStart";
+
+// Icons for the workbench toolbar 24x24 (Appears in the start menu)
+GTCArcWkb.Icon.NormalRep = "I_GTCArcWkbToolbar";
+GTCArcWkb.Icon.PressedRep = "IP_GTCArcWkbToolbar";
+GTCArcWkb.Icon.FocusRep   = "IF_GTCArcWkbToolbar";

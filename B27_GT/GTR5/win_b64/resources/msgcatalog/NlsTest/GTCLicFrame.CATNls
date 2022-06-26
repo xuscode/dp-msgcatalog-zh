@@ -1,0 +1,14 @@
+cbtShare.Title = "[~GTCLicFrame,cbtShare.Title~  ]";
+pbtCancel.Title = "[~GTCLicFrame,pbtCancel.Title~  Cløsé ]";
+lblFeature.Title = "[~GTCLicFrame,lblFeature.Title~   Féåtüre  ]";
+lblShared.Title = "[~GTCLicFrame,lblShared.Title~   Shåré   ]";
+lblServerLic.Title = "[~GTCLicFrame,lblServerLic.Title~   Lîcénse Cøünt]";
+cbtNodeLock.Title = "[~GTCLicFrame,cbtNodeLock.Title~  ]";
+lblExpiry.Title = "[~GTCLicFrame,lblExpiry.Title~~~~~                              Expîrés                             ]";
+pbtApply.Title = "[~GTCLicFrame,pbtApply.Title~  Apply ]";
+cbtBorrow.Title = "[~GTCLicFrame,cbtBorrow.Title~  ]";
+cbtFloat.Title = "[~GTCLicFrame,cbtFloat.Title~  ]";
+lblBorrow.Title = "[~GTCLicFrame,lblBorrow.Title~   Børrow     ]";
+lblNodeLock.Title = "[~GTCLicFrame,lblNodeLock.Title~   Nødé Lock     ]";
+lblDynamic.Title = "[~GTCLicFrame,lblDynamic.Title~   Dynåmîc     ]";
+lblDays.Title = "[~GTCLicFrame,lblDays.Title~  Dåys]";

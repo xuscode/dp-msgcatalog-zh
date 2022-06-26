@@ -1,0 +1,6 @@
+GTCDprProjectWkbHeader.CATNavigation4DGroup.LongHelpId = "GTCTDprProjectWkbHeader.CATNavigation4DGroup";
+GTCDprProjectWkbHeader.CATNavigation4DGroup.Icon.Normal="I_List";
+GTCDprProjectWkbHeader.CATNavigation4DGroup.Icon.Focused="IF_List";
+GTCDprProjectWkbHeader.CATNavigation4DGroup.Icon.Pressed="IP_List";
+GTCDprProjectWkbHeader.SelectGroupContent.Icon.Normal="I_Select";
+

@@ -1,0 +1,6 @@
+GTCImportNls_IfcFileExt = "[~GTCTrsGeomImpIfcCmd,GTCImportNls_IfcFileExt~ *.îfc]";
+GTCImportNls_IfcFileDotExt = "[~GTCTrsGeomImpIfcCmd,TCImportNls_IfcFileDotExt~ .îfc]";
+GTCTrsGeomImpIfcCmd.initialState.Message = "[~GTCTrsGeomImpIfcCmd,cCmd.initialState.Message~ Clîck ånywhére in the viewer tø exit]";
+GTCImportNls_IfcDlgTite = "[~GTCTrsGeomImpIfcCmd,GTCImportNls_IfcDlgTite~ Fîlé Selectiøn]";
+GTCImportNls_LogFileName = "[~GTCTrsGeomImpIfcCmd,GTCImportNls_LogFileName~ 3DIfcImpørt.txt]";
+GTCImportNls_IfcFileDescription = "[~GTCTrsGeomImpIfcCmd,ortNls_IfcFileDescription~ îfc]";

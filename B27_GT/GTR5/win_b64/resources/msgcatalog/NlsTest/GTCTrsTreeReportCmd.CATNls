@@ -1,0 +1,4 @@
+Title = "[~GTCTrsTreeReportCmd,Title~  Trée Repørt ]";
+LabelFile.Title = "[~GTCTrsTreeReportCmd,LabelFile.Title~  Fîlé ]";
+PushButtonBrowse.Title = "[~GTCTrsTreeReportCmd,PushButtonBrowse.Title~ ...]";
+BOK = "[~GTCTrsTreeReportCmd,BOK~  Expørt ]";

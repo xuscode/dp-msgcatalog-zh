@@ -1,0 +1,13 @@
+Unit2 = "[~GTCTrsCIS2Command,Unit2~ Céntîmeter]";
+Title = "[~GTCTrsCIS2Command,Title~ CIS/2 Expørt]";
+FrameDocument.PushButtonBrowse.Title = "[~GTCTrsCIS2Command,nt.PushButtonBrowse.Title~ ...]";
+FrameDocument.Title = "[~GTCTrsCIS2Command,FrameDocument.Title~ Døcümént]";
+FrameDocument.LabelFileName.Title = "[~GTCTrsCIS2Command,ument.LabelFileName.Title~ Fîlé Nåme]";
+Unit5 = "[~GTCTrsCIS2Command,Unit5~ Føot]";
+FrameDocument.LabelProduct.Title = "[~GTCTrsCIS2Command,cument.LabelProduct.Title~ Prøjéct Model]";
+Unit4 = "[~GTCTrsCIS2Command,Unit4~ Inch]";
+FrameDocument.LabelUnit.Title = "[~GTCTrsCIS2Command,eDocument.LabelUnit.Title~ Léngth Unît]";
+Unit6 = "[~GTCTrsCIS2Command,Unit6~ Mîcrøméter]";
+Unit1 = "[~GTCTrsCIS2Command,Unit1~ Méter]";
+Unit0 = "[~GTCTrsCIS2Command,Unit0~ Mîlliméter]";
+Unit3 = "[~GTCTrsCIS2Command,Unit3~ Kîløméter]";

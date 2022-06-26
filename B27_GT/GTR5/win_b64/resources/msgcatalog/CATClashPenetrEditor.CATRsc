@@ -1,0 +1,11 @@
+// TabPage.WorkshopName = "PRDWorkshop";
+
+
+// Pour la nouvelle interface tools/option - CXR8
+//TabPage.SolutionName = "Infrastructure";
+//TabPage.WorkbenchName= "GTCDprProjectWkb";
+//TabPage.LongHelpId   = "ToolsOptions.Infrastructure.ProductStructure.DMUClashPenetr";
+TabPage.PriorityNb = "7";
+//veguru
+
+

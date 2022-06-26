@@ -1,0 +1,3 @@
+GTCAttPkgCopyCmd.ProdFromState.Message="Choose a part to transfer attributes from.";
+GTCAttPkgCopyCmd.ProdToState.Message="Choose a part to transfer attributes to.";
+GTCAttPkgCopyCmd.ConfirmState.Message="Confirm or cancel.";

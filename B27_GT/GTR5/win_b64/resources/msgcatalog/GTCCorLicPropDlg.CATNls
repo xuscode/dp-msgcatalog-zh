@@ -1,0 +1,11 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+pbtApply.Title = "Apply";
+cbtNodeLock.Title = " ";
+cbtShare.Title = " ";
+cbtBorrow.Title = " ";
+
+lblNodeLock.Title = "     Node Lock     ";
+lblShared.Title = "   Share   ";
+lblBorrow.Title = "     Borrow     ";
+lblFeature1.Title = "GTX";
+// END WIZARD REPLACEMENT ZONE

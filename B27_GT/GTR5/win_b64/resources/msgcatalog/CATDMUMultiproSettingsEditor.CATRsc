@@ -1,0 +1,4 @@
+TabPage.WorkshopName  = "PRDWorkshop";
+//TabPage.SolutionName  = "DMUNavigator";
+TabPage.SolutionName  = "Knowledge";
+TabPage.LongHelpId    = "ToolsOptions.DMUNavigator.Multiprocess";

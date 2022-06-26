@@ -1,0 +1,4 @@
+CATMMUpdateHeader.UpdateHeader.Title = "[~CATMMUpdateHeader,Header.UpdateHeader.Title~ Updåté Geømetry]";
+CATMMUpdateHeader.UpdateHeader.Help = "[~CATMMUpdateHeader,eHeader.UpdateHeader.Help~ Updåté Geømetry]";
+CATMMUpdateHeader.UpdateHeader.ShortHelp = "[~CATMMUpdateHeader,er.UpdateHeader.ShortHelp~ Updåté Geømetry]";
+CATMMUpdateHeader.UpdateHeader.LongHelp = "[~CATMMUpdateHeader,der.UpdateHeader.LongHelp~ Updåtés Geømetry]";

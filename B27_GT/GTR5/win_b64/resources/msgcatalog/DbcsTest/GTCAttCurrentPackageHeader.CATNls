@@ -1,0 +1,4 @@
+GTCAttCurrentPackageHeader.ShortHelp = "[十GTCAttCurrentPackageHeader,ntPackageHeader.ShortHelp十一構ソチ－Set Current Package]";
+GTCAttCurrentPackageHeader.Help = "[十GTCAttCurrentPackageHeader,CurrentPackageHeader.Help十一構ソチ－Set Current Package]";
+GTCAttCurrentPackageHeader.LongHelp = "[十GTCAttCurrentPackageHeader,entPackageHeader.LongHelp十一構ソチ－Set Current Package]";
+GTCAttCurrentPackageHeader.Title = "[十GTCAttCurrentPackageHeader,urrentPackageHeader.Title十一構ソチ－Set Current Package]";

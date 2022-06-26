@@ -1,0 +1,3 @@
+frameFather.btnReverse.Title = " Reverse ";
+frameFather.labelName.Title ="Axis Name ";
+frameFather.labelLine.Title = "Reference Curve ";

@@ -1,0 +1,350 @@
+GTCAttCommandsHeader.GTCAttActivateV1R1AttributesHdr.Title = "Activate V1R1 Attributes";
+GTCAttCommandsHeader.GTCAttActivateV1R1AttributesHdr.ShortHelp   = "Activate V1R1 Attributes in V1R2";
+GTCAttCommandsHeader.GTCAttActivateV1R1AttributesHdr.LongHelp    = "Activate V1R1 Attributes in V1R2";
+
+// == set current dictionary ==
+GTCAttCommandsHeader.GTCAttSelectPackageHdr.Title              = "Select Current Dictionary";
+
+// == SetPackage ==
+GTCAttCommandsHeader.GTCAttSetPackageHdr.Title              = "Select Current Class";
+
+// == AttachPackage == 
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.Title		= "Attach Package...";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.Help        = "Attaches an attribute package to an object";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.ShortHelp   = "Attach Package";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.LongHelp    = "Attaches an attribute package of the current class to an object";
+
+// == EditPackage == 
+GTCAttCommandsHeader.GTCAttEditPackageHdr.Title		= "Edit Attributes...";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.Help        = "Edits attributes";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.ShortHelp   = "Edit Attributes";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.LongHelp    = "Edits attributes of the current class or its sub-classes";
+
+// == RemovePackage == 
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.Title		= "Remove Packages...";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.Help        = "Removes attribute packages from objects";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.ShortHelp   = "Remove Packages";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.LongHelp    = "Removes packages of the current class or its sub-classes from objects";
+
+// == Color Filter ==
+GTCAttCommandsHeader.GTCColorFilterHdr.Title              = "Color by Attributes...";
+GTCAttCommandsHeader.GTCColorFilterHdr.Help               = "Colors geometry based on attribute values";
+GTCAttCommandsHeader.GTCColorFilterHdr.ShortHelp          = "Color by Attributes";
+GTCAttCommandsHeader.GTCColorFilterHdr.LongHelp           = "Colors geometry based on attribute values";
+
+// == Color Filter Edit ==
+GTCAttCommandsHeader.GTCEAttColorFilterEdit.Title              = "Apply Filter...";
+GTCAttCommandsHeader.GTCEAttColorFilterEdit.Help               = "Colors geometry based on attribute values";
+GTCAttCommandsHeader.GTCEAttColorFilterEdit.ShortHelp          = "Color by Attributes";
+GTCAttCommandsHeader.GTCEAttColorFilterEdit.LongHelp           = "Colors geometry based on attribute values";
+
+// == Color Filter Edit Def==
+GTCAttCommandsHeader.GTCColorFilterEditDefHdr.Title              = "Modify";
+GTCAttCommandsHeader.GTCColorFilterEditDefHdr.Help               = "Modify Color Filter";
+GTCAttCommandsHeader.GTCColorFilterEditDefHdr.ShortHelp          = "Modify Color Filter";
+GTCAttCommandsHeader.GTCColorFilterEditDefHdr.LongHelp           = "Modify Color Filter";
+
+// == Layer Filter ==
+GTCAttCommandsHeader.GTCLayerFilterHdr.Title              = "Color by Layers...";
+GTCAttCommandsHeader.GTCLayerFilterHdr.Help               = "Colors geometry based on layers";
+GTCAttCommandsHeader.GTCLayerFilterHdr.ShortHelp          = "Color by Layers";
+GTCAttCommandsHeader.GTCLayerFilterHdr.LongHelp           = "Colors geometry based on layers";
+
+
+// == Dim Mode ==
+GTCAttCommandsHeader.GTCAttDimModeHdr.Title              = "Turn Dim Mode On/Off";
+GTCAttCommandsHeader.GTCAttDimModeHdr.Help               = "Turn Dim Mode On/Off";
+GTCAttCommandsHeader.GTCAttDimModeHdr.ShortHelp          = "Turn Dim Mode On/Off";
+GTCAttCommandsHeader.GTCAttDimModeHdr.LongHelp           = "Turn Dim Mode On/Off";
+
+// == Dim Mode On // Eduardo ==
+GTCAttCommandsHeader.DimOn.Title              = "Turn Dim Mode On";
+GTCAttCommandsHeader.DimOn.Help               = "Turn Dim Mode On";
+GTCAttCommandsHeader.DimOn.ShortHelp          = "Turn Dim Mode On";
+GTCAttCommandsHeader.DimOn.LongHelp           = "Turn Dim Mode On";
+
+// == Dim Mode Off // Eduardo ==
+GTCAttCommandsHeader.DimOff.Title              = "Turn Dim Mode Off";
+GTCAttCommandsHeader.DimOff.Help               = "Turn Dim Mode Off";
+GTCAttCommandsHeader.DimOff.ShortHelp          = "Turn Dim Mode Off";
+GTCAttCommandsHeader.DimOff.LongHelp           = "Turn Dim Mode Off";
+
+// == MS Project Simulation ==
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.Title              = "Microsoft Project Simulation...";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.Help               = "Simulates activities imported from Microsoft Project";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.ShortHelp          = "Microsoft Project Simulation";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.LongHelp           = "Simulates activities imported from Microsoft Project";
+
+// == Project(Group) Simulation ==
+GTCAttCommandsHeader.GTCAttProjectSimHdr.Title              = "Simulate Activities...";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.Help               = "Simulates construction activities in 3D";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.ShortHelp          = "Simulate Activities";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.LongHelp           = "Simulates construction activities in 3D";
+
+// == One Click Color Filter ==
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.Title		= "One Click Color by Attributes ...";
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.Help			= "One Click Color by Attributes";
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.ShortHelp	= "One Click Color by Attributes";
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.LongHelp		= "One Click Color by Attributes";
+
+// == Activate/Deactivate Group ==
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.Title      = "Activate/Deactivate Group";
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.Help       = "Activates or deactivates a group.";
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.ShortHelp  = "Activate/Deactivate Group";
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.LongHelp   = "Activates or deactivates a group.";
+
+// == Select Group Content ==
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdHdr.Title      = "Select Group Content";
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdHdr.Help       = "Selects Group and Sub-Group Content.";
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdHdr.ShortHelp  = "Select Group Content";
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdHdr.LongHelp   = "Selects Group and Sub-Group Content.";
+
+
+// Val
+// == Hide/Show Content ==
+GTCAttCommandsHeader.GTCAttContentCmdHdr.Title      = "Hide/Show Content";
+GTCAttCommandsHeader.GTCAttContentCmdHdr.Help       = "Hides or shows group content.";
+GTCAttCommandsHeader.GTCAttContentCmdHdr.ShortHelp  = "Hide/Show Content";
+GTCAttCommandsHeader.GTCAttContentCmdHdr.LongHelp   = "Hides or shows group content.";
+
+
+// ==Val - Reset Color Filter ==
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.Title      = "Reset colors";
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.Help       = "Reset colors";
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.ShortHelp  = "Reset colors";
+GTCAttCommandsHeader.GTCColorFilterResetCmdHdr.LongHelp   = "Reset colors";
+
+
+
+// ==Val -  invoke clash report  ==
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.Title      = "Import Clash Report";
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.Help       = "Import Clash Report";
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.ShortHelp  = "Import Clash Report";
+GTCAttCommandsHeader.GTCAttImportClashCmdHdr.LongHelp   = "Import Clash Report";
+
+// ==imti -  check clash  ==
+GTCAttCommandsHeader.GTCAttCheckClashCmdHdr.Title      = "Check Clash";
+GTCAttCommandsHeader.GTCAttCheckClashCmdHdr.Help       = "Check Clash";
+GTCAttCommandsHeader.GTCAttCheckClashCmdHdr.ShortHelp  = "Check Clash";
+GTCAttCommandsHeader.GTCAttCheckClashCmdHdr.LongHelp   = "Check Clash";
+
+// ==imti -  UPDATE clash  ==
+GTCAttCommandsHeader.GTCAttUpdateClashCmdHdr.Title      = "Update Clashes";
+GTCAttCommandsHeader.GTCAttUpdateClashCmdHdr.Help       = "Update Clashes";
+GTCAttCommandsHeader.GTCAttUpdateClashCmdHdr.ShortHelp  = "Update Clashes";
+GTCAttCommandsHeader.GTCAttUpdateClashCmdHdr.LongHelp   = "Update Clashes";
+
+
+// == Deactivate All Group ==
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.Title      = "Deactivate All Groups In Document";
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.Help       = "Deactivates all groups in a document";
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.ShortHelp  = "Deactivate All Groups In Document";
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.LongHelp   = "Deactivates all groups in a document";
+
+//== Attribute Transfer ==
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.Title		= "Attribute Transfer";
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.Help	    = "Transfers attribute packages of the current dictionary from one part to another";
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.ShortHelp	= "Attribute Transfer";
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.LongHelp	= "Transfers attribute packages of the current dictionary from one part to another";
+
+//== Group Transfer ==
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.Title		= "Group Transfer";
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.Help	    = "Transfer group links to features with identical names";
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.ShortHelp	= "Group Transfer";
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.LongHelp	= "Transfer group links to features with identical names";
+
+//== Paint Attributes ==
+GTCAttCommandsHeader.GTCAttPaintHdr.Title		= "Paint Packages...";
+GTCAttCommandsHeader.GTCAttPaintHdr.Help	    = "Copies attribute packages from one object to another";
+GTCAttCommandsHeader.GTCAttPaintHdr.ShortHelp	= "Paint Packages";
+GTCAttCommandsHeader.GTCAttPaintHdr.LongHelp	= "Copies attribute packages of the current class or its sub-classes from one object to another";
+
+//== Synchronize Attributes ==
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.Title		= "Synchronize Attributes";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.Help	    = "Propagate dictionary changes to packages and groups";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.ShortHelp	= "Synchronize Attributes";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.LongHelp	= "Propagate dictionary changes to packages and groups";
+
+//== Export Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.Title		= "Export Dictionary...";
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.Help	    = "Exports a dictionary to XML format";
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.ShortHelp	= "Export Dictionary";
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.LongHelp	= "Exports a dictionary to XML format";
+
+//== Edit Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.Title		= "Edit Dictionary...";
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.Help	    = "Edits a dictionary by using an XML file";
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.ShortHelp	= "Edit Dictionary";
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.LongHelp	= "Edits a dictionary by using an XML file";
+
+//== New Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.Title		= "New Dictionary...";
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.Help	    = "Creates a dictionary by using an XML file";
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.ShortHelp	= "New Dictionary";
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.LongHelp	= "Creates a dictionary by using an XML file";
+
+
+//===================================================
+// GROUPS
+//===================================================
+
+//== add group ==
+GTCAttCommandsHeader.GTCAttAddGroupHdr.Title		= "Group...";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.Help			= "Inserts a new group";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.ShortHelp	= "Group";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.LongHelp		= "Adds a group of the current class to the root product or to the active group if available";
+
+//== add excel data sheet ==
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.Title		= "Excel Data Sheet...";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.Help		= "Inserts a new interactive Excel data sheet";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.ShortHelp	= "Excel Data Sheet";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.LongHelp	= "Inserts a new interactive Excel data sheet ";
+
+// == Interactive Door Sched == 
+GTCAttCommandsHeader.GTCInteractiveDoorScheduleHdr.Title         = "Interactive Door Schedules...";
+GTCAttCommandsHeader.GTCInteractiveDoorScheduleHdr.Help			 = "Inserts an interactive Excel door schedule";
+GTCAttCommandsHeader.GTCInteractiveDoorScheduleHdr.ShortHelp     = "Interactive Door Schedules";
+GTCAttCommandsHeader.GTCInteractiveDoorScheduleHdr.LongHelp      = "Inserts an interactive Excel door schedule";
+
+
+// == Interactive Window Sched == 
+GTCAttCommandsHeader.GTCInteractiveWindowScheduleHdr.Title       = "Interactive Window Schedules...";
+GTCAttCommandsHeader.GTCInteractiveWindowScheduleHdr.Help        = "Inserts an interactive Excel window schedule";
+GTCAttCommandsHeader.GTCInteractiveWindowScheduleHdr.ShortHelp   = "Interactive Window Schedules";
+GTCAttCommandsHeader.GTCInteractiveWindowScheduleHdr.LongHelp    = "Inserts an interactive Excel window schedule";
+
+
+//===================================================
+// sort filter (sorted view)
+//===================================================
+
+//== add sorted view ==
+//Remove Sorted View====YJ on 06/04/07
+//GTCAttCommandsHeader.GTCAttSortedViewHdr.Title		= "Sorted View...";
+//GTCAttCommandsHeader.GTCAttSortedViewHdr.Help		= "Inserts a sorted view";
+//GTCAttCommandsHeader.GTCAttSortedViewHdr.ShortHelp	= "Sorted View";
+//GTCAttCommandsHeader.GTCAttSortedViewHdr.LongHelp	= "Creates a sorted view from an xml definition";
+
+//== update sorted view == 
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.Title		= "Update Sorted View";
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.Help			= "Updates a sorted view";
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.ShortHelp	= "Update Sorted View";
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.LongHelp		= "Updates a sorted view";
+
+//== Create Sorted View ==
+GTCAttCommandsHeader.GTCAttCreateSortedViewsHdr.Title		= "Create Sorted View";
+GTCAttCommandsHeader.GTCAttCreateSortedViewsHdr.Help			= "Creates a sorted view";
+GTCAttCommandsHeader.GTCAttCreateSortedViewsHdr.ShortHelp	= "Create Sorted View";
+GTCAttCommandsHeader.GTCAttCreateSortedViewsHdr.LongHelp		= "Creates a sorted view";
+
+//===================================================
+// Go to MSP activity
+//===================================================
+// == GTCAttMSPEditGotToCmd==
+GTCAttCommandsHeader.GTCAttMSPEditGotToCmdHdr.Title              = "Show activity";
+GTCAttCommandsHeader.GTCAttMSPEditGotToCmdHdr.Help               = "Show activity in project";
+GTCAttCommandsHeader.GTCAttMSPEditGotToCmdHdr.ShortHelp          = "Show activity in project";
+GTCAttCommandsHeader.GTCAttMSPEditGotToCmdHdr.LongHelp           = "Show activity in project";
+
+//===================================================
+//veguru 
+//IFC Poduct Structure
+//===================================================
+GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr.Title		= "Project";
+GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr.Help		= "Makes a Project from a Product";
+GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr.ShortHelp	= "Project";
+GTCAttCommandsHeader.GTCAttIFCProductStructureCmdHdr.LongHelp	= "Attach Project attributes to the selected product";
+
+GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr.Title		= "Site";
+GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr.Help		= "Inserts a new Site";
+GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr.ShortHelp	= "Site";
+GTCAttCommandsHeader.GTCAttIFCSiteCmdHdr.LongHelp	= "Inserts a component or product with Site attributes";
+
+GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr.Title		 = "Site Section";
+GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr.Help		 = "Inserts a new Site Section";
+GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr.ShortHelp	 = "Site Section";
+GTCAttCommandsHeader.GTCAttIFCSiteSectionCmdHdr.LongHelp	 = "Inserts a component or product with Site Section attributes";
+
+GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr.Title			= "Building";
+GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr.Help			= "Inserts a new Building";
+GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr.ShortHelp		= "Building";
+GTCAttCommandsHeader.GTCAttIFCBuildingCmdHdr.LongHelp		= "Inserts a component or product with Building attributes";
+
+GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr.Title		= "Building Section";
+GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr.Help		= "Inserts a new Building Section";
+GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr.ShortHelp	= "Building Section";
+GTCAttCommandsHeader.GTCAttIFCBuildingSectionCmdHdr.LongHelp	= "Inserts a component or product with Building Section attributes";
+
+
+GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr.Title		= "Building Storey";
+GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr.Help			= "Inserts a new Building Storey";
+GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr.ShortHelp	= "Building Storey";
+GTCAttCommandsHeader.GTCAttBuildingStoreyAtElevationCmdHdr.LongHelp		= "Inserts a component , a product or a part with Building Storey attributes";
+
+
+GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr.Title		= "Partial Building Storey";
+GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr.Help		= "Inserts a new Partial Building Storey ";
+GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr.ShortHelp	= "Partial Building Storey";
+GTCAttCommandsHeader.GTCAttPartialBuildingAtElevationCmdHdr.LongHelp	= "Inserts a component , a product or a part with Partial Building Storey attributes";
+
+
+//=============== Create Sun =========================
+GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr.Title		="Sun";
+GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr.Help		="Create Sun Light Source";
+GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr.ShortHelp	="Sun";
+GTCAttCommandsHeader.GTCAttCreateSunSourceCmdHdr.LongHelp	="Create Sun Light Source";
+
+//=============== Import 3d-2d Rules =========================
+GTCAttCommandsHeader.GTCImportDftRulesCmdHdr.Title		= "Import 3d-2d Drafting Rules...";
+GTCAttCommandsHeader.GTCImportDftRulesCmdHdr.Help		= "Import 3d-2d Drafting Rules from CSV File";
+GTCAttCommandsHeader.GTCImportDftRulesCmdHdr.ShortHelp	= "Import 3d-2d Drafting Rules";
+GTCAttCommandsHeader.GTCImportDftRulesCmdHdr.LongHelp	= "Import 3d-2d Drafting Rules from CSV File";
+
+//=============== Import drafting layers =========================
+GTCAttCommandsHeader.GTCImportDftLayersCmdHdr.Title		= "Import Drafting Layers...";
+GTCAttCommandsHeader.GTCImportDftLayersCmdHdr.Help		= "Import Drafting Layers from CSV/DXF/DWG File";
+GTCAttCommandsHeader.GTCImportDftLayersCmdHdr.ShortHelp	= "Import Drafting Layers";
+GTCAttCommandsHeader.GTCImportDftLayersCmdHdr.LongHelp	= "Import Drafting Layers from CSV/DXF/DWG File";
+
+//=============== Export 3d-2d Rules =========================
+GTCAttCommandsHeader.GTCExportDftRulesCmdHdr.Title		= "Export 3d-2d Drafting Rules...";
+GTCAttCommandsHeader.GTCExportDftRulesCmdHdr.Help		= "Export 3d-2d Drafting Rules to CSV File";
+GTCAttCommandsHeader.GTCExportDftRulesCmdHdr.ShortHelp	= "Export 3d-2d Drafting Rules";
+GTCAttCommandsHeader.GTCExportDftRulesCmdHdr.LongHelp	= "Export 3d-2d Drafting Rules to CSV File";
+
+//=============== Export drafting layers =========================
+GTCAttCommandsHeader.GTCExportDftLayersCmdHdr.Title		= "Export Drafting Layers...";
+GTCAttCommandsHeader.GTCExportDftLayersCmdHdr.Help		= "Export Drafting Layers to CSV File";
+GTCAttCommandsHeader.GTCExportDftLayersCmdHdr.ShortHelp	= "Export Drafting Layers";
+GTCAttCommandsHeader.GTCExportDftLayersCmdHdr.LongHelp	= "Export Drafting Layers to CSV File";
+
+//=============== Export Dico to CSV =========================
+GTCAttCommandsHeader.GTCAttDicoTypeExportCmdHdr.Title		= "Export Current Dictionary...";
+GTCAttCommandsHeader.GTCAttDicoTypeExportCmdHdr.Help		= "Export Current Dictionary to CSV File";
+GTCAttCommandsHeader.GTCAttDicoTypeExportCmdHdr.ShortHelp	= "Export Current Dictionary";
+GTCAttCommandsHeader.GTCAttDicoTypeExportCmdHdr.LongHelp	= "Export Current Dictionary to CSV File";
+
+// ================ Att Execute Cmd
+//=============== GroupContentItemTag - Center Graph =========================
+GTCAttCommandsHeader.GTCAttExecuteCGCmdHdr.Title		= "Center Graph on Reference(s)";
+GTCAttCommandsHeader.GTCAttExecuteCGCmdHdr.Help		= "Center Graph on Reference(s)";
+GTCAttCommandsHeader.GTCAttExecuteCGCmdHdr.ShortHelp	= "Center Graph on Reference(s)";
+GTCAttCommandsHeader.GTCAttExecuteCGCmdHdr.LongHelp	= "Center Graph on Reference(s)";
+
+//=============== GroupContentItemTag - Reframe on =========================
+GTCAttCommandsHeader.GTCAttExecuteROCmdHdr.Title		= "Reframe on Reference(s)";
+GTCAttCommandsHeader.GTCAttExecuteROCmdHdr.Help		= "Reframe on Reference(s)";
+GTCAttCommandsHeader.GTCAttExecuteROCmdHdr.ShortHelp	= "Reframe on Reference(s)";
+GTCAttCommandsHeader.GTCAttExecuteROCmdHdr.LongHelp	= "Reframe on Reference(s)";
+
+//=============== GroupContentItemTag - Select Feature =========================
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdItemHdr.Title		= "Select Reference(s)";
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdItemHdr.Help		= "Select Reference(s)";
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdItemHdr.ShortHelp	= "Select Reference(s)";
+GTCAttCommandsHeader.GTCAttSelectGroupContentCmdItemHdr.LongHelp	= "Select Reference(s)";
+
+//=============== Group upgrade =========================
+GTCAttCommandsHeader.GTCAttGroupUpgradeCmdHdr.Title		= "Upgrade group links";
+GTCAttCommandsHeader.GTCAttGroupUpgradeCmdHdr.Help		= "Upgrade group links";
+GTCAttCommandsHeader.GTCAttGroupUpgradeCmdHdr.ShortHelp	= "Upgrade group links";
+GTCAttCommandsHeader.GTCAttGroupUpgradeCmdHdr.LongHelp	= "Upgrade group links";

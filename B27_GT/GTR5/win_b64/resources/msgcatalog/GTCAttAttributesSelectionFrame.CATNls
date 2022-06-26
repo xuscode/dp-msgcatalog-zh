@@ -1,0 +1,26 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+
+//
+//
+//
+Title = "Attributes";
+ListColDicoName = "Dictionary";	
+ListColPkgName  = "Package";
+ListColPkgAttName = "Attribute";
+
+GTCPackageSubTypeOption="<Sub-Type>";
+GTCGroupNameOption="<Group Name>";
+
+ListAttsDictionaries.Help			= "Select one or more dictionaries.";
+ListAttsDictionaries.ShortHelp		= "Dictionaries";
+ListAttsDictionaries.LongHelp		= "Select one or more dictionaries.";
+
+ListAttsPackages.Help				= "Packages found in the selected dictionaries. Select one or more packages.";
+ListAttsPackages.ShortHelp			= "Packages";
+ListAttsPackages.LongHelp			= "Packages found in the selected dictionaries. Select one or more packages.";
+
+ListAttsPackagesAttributes.Help		= "Attributes found in the selected packages based on the selected dictionaries. Select one or more attributes.";
+ListAttsPackagesAttributes.ShortHelp= "Attributes";
+ListAttsPackagesAttributes.LongHelp = "Attributes found in the selected packages based on the selected dictionaries. Select one or more attributes.";

@@ -1,0 +1,7 @@
+btnAttHyperLink.ShortHelp = "[~GTCAttPkgFrame,btnAttHyperLink.ShortHelp~ Opén Hyperlînk]";
+InvalidDate.Title = "[~GTCAttPkgFrame,InvalidDate.Title~ Invålîd Daté]";
+btnAttHyperLink.LongHelp = "[~GTCAttPkgFrame,btnAttHyperLink.LongHelp~ Opén Hyperlînk]";
+InvalidDate.Message = "[~GTCAttPkgFrame,InvalidDate.Message~ Fåîléd tø parse valüe as date. Please verify your input.]";
+btnAttDateTimeFrame.Title = "[~GTCAttPkgFrame,btnAttDateTimeFrame.Title~ ...]";
+btnAttGetBkMk.ShortHelp = "[~GTCAttPkgFrame,btnAttGetBkMk.ShortHelp~ Impørt Bookmårk]";
+btnAttGetBkMk.LongHelp = "[~GTCAttPkgFrame,btnAttGetBkMk.LongHelp~ Impørt Bookmårk]";

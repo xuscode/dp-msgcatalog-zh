@@ -1,0 +1,6 @@
+// --> STH
+TabPage.SolutionName  = "Infrastructure";
+TabPage.WorkbenchName = "AnnotationsInfrastructure";
+// <--
+TabPage.LongHelpId    = "ToolsOptions.Infrastructure.AnnotationsInfrastructure.ViewAnnotationPlane";
+//TabPage.PriorityNb    = "4";

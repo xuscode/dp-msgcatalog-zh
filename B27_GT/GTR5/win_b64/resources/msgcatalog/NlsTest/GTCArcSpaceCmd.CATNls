@@ -1,0 +1,4 @@
+GTCArcSpaceCmd.StateNoSel.Message = "[~GTCArcSpaceCmd,aceCmd.StateNoSel.Message~ Spécîfy spåce attribütes]";
+GTCArcSpaceCmd.StateGetLimits.Message = "[~GTCArcSpaceCmd,md.StateGetLimits.Message~ Sélect elements tø lîmit sides]";
+GTCArcSpaceCmd.StateGetTopLim.Message = "[~GTCArcSpaceCmd,md.StateGetTopLim.Message~ Sélect ån element tø lîmit the top]";
+GTCArcSpaceCmd.StateGetBttmLim.Message = "[~GTCArcSpaceCmd,d.StateGetBttmLim.Message~ Sélect ån element tø lîmit the bottom]";

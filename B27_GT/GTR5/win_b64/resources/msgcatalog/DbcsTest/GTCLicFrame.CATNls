@@ -1,0 +1,14 @@
+cbtShare.Title = "[十GTCLicFrame,cbtShare.Title十一構ソチ－ ]";
+pbtCancel.Title = "[十GTCLicFrame,pbtCancel.Title十一構ソチ－ Close ]";
+lblFeature.Title = "[十GTCLicFrame,lblFeature.Title十一構ソチ－  Feature  ]";
+lblShared.Title = "[十GTCLicFrame,lblShared.Title十一構ソチ－  Share   ]";
+lblServerLic.Title = "[十GTCLicFrame,lblServerLic.Title十一構ソチ－  License Count]";
+cbtNodeLock.Title = "[十GTCLicFrame,cbtNodeLock.Title十一構ソチ－ ]";
+lblExpiry.Title = "[十GTCLicFrame,lblExpiry.Title十十十十十十十一構ソチ－                             Expires                             ]";
+pbtApply.Title = "[十GTCLicFrame,pbtApply.Title十一構ソチ－ Apply ]";
+cbtBorrow.Title = "[十GTCLicFrame,cbtBorrow.Title十一構ソチ－ ]";
+cbtFloat.Title = "[十GTCLicFrame,cbtFloat.Title十一構ソチ－ ]";
+lblBorrow.Title = "[十GTCLicFrame,lblBorrow.Title十一構ソチ－  Borrow     ]";
+lblNodeLock.Title = "[十GTCLicFrame,lblNodeLock.Title十一構ソチ－  Node Lock     ]";
+lblDynamic.Title = "[十GTCLicFrame,lblDynamic.Title十一構ソチ－  Dynamic     ]";
+lblDays.Title = "[十GTCLicFrame,lblDays.Title十一構ソチ－ Days]";

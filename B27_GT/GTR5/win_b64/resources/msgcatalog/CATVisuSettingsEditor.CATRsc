@@ -1,0 +1,10 @@
+// fichier de ressource associe a l'onglet Visu Customization
+
+TabPage.WorkshopName="PRDWorkshop";
+TabPage.SolutionName="Infrastructure";
+// STH
+TabPage.WorkbenchName="GTCDprProjectWkb";
+TabPage.LongHelpId = "ToolsOptions.Infrastructure.ProductStructure.VisuCustomization";
+// On met une Prioritte a l onglet...
+TabPage.PriorityNb = "4"; 
+

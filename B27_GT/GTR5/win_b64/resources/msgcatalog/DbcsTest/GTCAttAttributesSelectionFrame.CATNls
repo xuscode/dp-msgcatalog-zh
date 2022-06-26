@@ -1,0 +1,15 @@
+ListAttsDictionaries.Help = "[十GTCAttAttributesSelectionFrame,ListAttsDictionaries.Help十一構ソチ－Select one or more dictionaries.]";
+Title = "[十GTCAttAttributesSelectionFrame,Title十一構ソチ－Attributes]";
+GTCGroupNameOption = "[十GTCAttAttributesSelectionFrame,GTCGroupNameOption十一構ソチ－<Group Name>]";
+ListAttsPackages.LongHelp = "[十GTCAttAttributesSelectionFrame,ListAttsPackages.LongHelp十一構ソチ－Packages found in the selected dictionaries. Select one or more packages.]";
+ListColDicoName = "[十GTCAttAttributesSelectionFrame,ListColDicoName十一構ソチ－Dictionary]";
+ListAttsDictionaries.ShortHelp = "[十GTCAttAttributesSelectionFrame,ttsDictionaries.ShortHelp十一構ソチ－Dictionaries]";
+ListAttsPackages.ShortHelp = "[十GTCAttAttributesSelectionFrame,istAttsPackages.ShortHelp十一構ソチ－Packages]";
+ListAttsPackagesAttributes.Help = "[十GTCAttAttributesSelectionFrame,tsPackagesAttributes.Help十一構ソチ－Attributes found in the selected packages based on the selected dictionaries. Select one or more attributes.]";
+ListColPkgName = "[十GTCAttAttributesSelectionFrame,ListColPkgName十一構ソチ－Package]";
+ListAttsDictionaries.LongHelp = "[十GTCAttAttributesSelectionFrame,AttsDictionaries.LongHelp十一構ソチ－Select one or more dictionaries.]";
+GTCPackageSubTypeOption = "[十GTCAttAttributesSelectionFrame,GTCPackageSubTypeOption十一構ソチ－<Sub-Type>]";
+ListAttsPackages.Help = "[十GTCAttAttributesSelectionFrame,ListAttsPackages.Help十一構ソチ－Packages found in the selected dictionaries. Select one or more packages.]";
+ListColPkgAttName = "[十GTCAttAttributesSelectionFrame,ListColPkgAttName十一構ソチ－Attribute]";
+ListAttsPackagesAttributes.ShortHelp = "[十GTCAttAttributesSelectionFrame,kagesAttributes.ShortHelp十一構ソチ－Attributes]";
+ListAttsPackagesAttributes.LongHelp = "[十GTCAttAttributesSelectionFrame,ckagesAttributes.LongHelp十一構ソチ－Attributes found in the selected packages based on the selected dictionaries. Select one or more attributes.]";

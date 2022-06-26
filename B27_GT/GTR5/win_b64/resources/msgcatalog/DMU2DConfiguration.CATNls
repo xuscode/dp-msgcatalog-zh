@@ -1,0 +1,9 @@
+// --> STH
+DMU2DConfiguration.Title="Drawing Viewer";
+DMU2DConfiguration.Help="Drawing Viewer";
+DMU2DConfiguration.ShortHelp="Drawing Viewer";
+2DDMUToolbar.Title="Drawing Tools";
+2DDMUAnnot.Title="2D Annotated Views";
+2DDMUViewing.Title="2D Viewing";
+2DDMUMoveToolbar.Title="2D Move";
+// <--STH

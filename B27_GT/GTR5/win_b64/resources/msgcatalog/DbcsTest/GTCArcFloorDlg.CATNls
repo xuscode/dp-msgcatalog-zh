@@ -1,0 +1,17 @@
+frameParent.frameOutputs.Title = "[十GTCArcFloorDlg,Parent.frameOutputs.Title十一構ソチ－ Outputs ]";
+EditMultipleTitle = "[十GTCArcFloorDlg,EditMultipleTitle十一構ソチ－ Edit Slabs ]";
+frameParent.framePosition.labelPositionLayer.Title = "[十GTCArcFloorDlg,.labelPositionLayer.Title十一構ソチ－ Layer ]";
+frameParent.frameOutputs.chkBtnEnvelope.Title = "[十GTCArcFloorDlg,puts.chkBtnEnvelope.Title十一構ソチ－ Envelope ]";
+frameParent.frameOutputs.chkBtnFinishSurf.Title = "[十GTCArcFloorDlg,ts.chkBtnFinishSurf.Title十一構ソチ－ Finish Surfaces ]";
+frameParent.frameSupport.labelName.Title = "[十GTCArcFloorDlg,meSupport.labelName.Title十一構ソチ－ Name ]";
+frameParent.frameSupport.labelSupportOffset.Title = "[十GTCArcFloorDlg,.labelSupportOffset.Title十一構ソチ－ Offset ]";
+frameParent.framePosition.Title = "[十GTCArcFloorDlg,arent.framePosition.Title十一構ソチ－ Position ]";
+frameParent.frameOutputs.labelSegments.Title = "[十GTCArcFloorDlg,tputs.labelSegments.Title十一構ソチ－   Segments ]";
+NewTitle = "[十GTCArcFloorDlg,NewTitle十一構ソチ－ New Slab ]";
+frameParent.frameSupport.labelSupport.Title = "[十GTCArcFloorDlg,upport.labelSupport.Title十一構ソチ－ Support   ]";
+frameParent.framePosition.labelPositionOffset.Title = "[十GTCArcFloorDlg,labelPositionOffset.Title十一構ソチ－ Offset ]";
+frameParent.frameSupport.labelSupportLayer.Title = "[十GTCArcFloorDlg,t.labelSupportLayer.Title十一構ソチ－ Layer ]";
+frameParent.frameOutputs.chkBtnStructPanel.Title = "[十GTCArcFloorDlg,s.chkBtnStructPanel.Title十一構ソチ－ Structural Panel ]";
+EditTitle = "[十GTCArcFloorDlg,EditTitle十一構ソチ－ Edit Slab ]";
+frameParent.frameOutputs.chkBtnCoreSolid.Title = "[十GTCArcFloorDlg,uts.chkBtnCoreSolid.Title十一構ソチ－ Slab Solid ]";
+frameParent.frameOutputs.labelStrPanel.Title = "[十GTCArcFloorDlg,tputs.labelStrPanel.Title十一構ソチ－ Structural Panel Layer   ]";

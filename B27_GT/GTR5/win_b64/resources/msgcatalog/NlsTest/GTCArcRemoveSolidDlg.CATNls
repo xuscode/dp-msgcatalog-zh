@@ -1,0 +1,4 @@
+SelectorListRemove.ShortHelp = "[~GTCArcRemoveSolidDlg,ectorListRemove.ShortHelp~ Sélect büîlding element ør solid to remove]";
+SelectorListFrom.ShortHelp = "[~GTCArcRemoveSolidDlg,electorListFrom.ShortHelp~ Sélect büîlding element ør solid within current pårt to remove from]";
+SelectorListFrom.LongHelp = "[~GTCArcRemoveSolidDlg,SelectorListFrom.LongHelp~ Sélect büîlding element ør solid within current pårt to remove from]";
+SelectorListRemove.LongHelp = "[~GTCArcRemoveSolidDlg,lectorListRemove.LongHelp~ Sélect büîlding element ør solid to remove]";

@@ -1,0 +1,12 @@
+UnloadPartsCheck.Title = "[十GTCTrsReimportStatusCmd,UnloadPartsCheck.Title十一構ソチ－Unload parts during import]";
+ReadOnlyFilesWarning = "[十GTCTrsReimportStatusCmd,ReadOnlyFilesWarning十一構ソチ－The following files that belong to this product are read-only.]\n[十GTCTrsReimportStatusCmd,ReadOnlyFilesWarning十一構ソチ－Please unset the read-only flags and try again.]\n[十GTCTrsReimportStatusCmd,ReadOnlyFilesWarning十一構ソチ－]\n[十GTCTrsReimportStatusCmd,ReadOnlyFilesWarning十一構ソチ－]";
+Title = "[十GTCTrsReimportStatusCmd,Title十一構ソチ－Update Imported Files]";
+ImportList.ColumnTitle6 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle6十一構ソチ－Modified Time On Disk]";
+ImportList.ColumnTitle3 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle3十一構ソチ－Revision]";
+ImportList.ColumnTitle2 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle2十一構ソチ－File Type]";
+ImportList.ColumnTitle5 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle5十一構ソチ－Modified Time On Last Import]";
+ImportList.ColumnTitle4 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle4十一構ソチ－Import File]";
+ImportList.ColumnTitle1 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle1十一構ソチ－Name]";
+ReimportBtn.Title = "[十GTCTrsReimportStatusCmd,ReimportBtn.Title十一構ソチ－  Reimport  ]";
+DeletePartsWarning = "[十GTCTrsReimportStatusCmd,DeletePartsWarning十一構ソチ－Obsolete parts and CATParts will be deleted and can not be recovered.]";
+ImportList.ColumnTitle7 = "[十GTCTrsReimportStatusCmd,ImportList.ColumnTitle7十一構ソチ－Status]";

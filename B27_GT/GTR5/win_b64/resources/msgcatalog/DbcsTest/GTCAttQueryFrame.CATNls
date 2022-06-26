@@ -1,0 +1,11 @@
+Title = "[十GTCAttQueryFrame,Title十一構ソチ－Geometry and Attributes]";
+FrameGeometry.CheckButtonQueryComponents.Title = "[十GTCAttQueryFrame,ttonQueryComponents.Title十一構ソチ－Components]";
+FrameGeometry.CheckButtonQueryPoints.Title = "[十GTCAttQueryFrame,ckButtonQueryPoints.Title十一構ソチ－Points]";
+FrameGeometry.Title = "[十GTCAttQueryFrame,FrameGeometry.Title十一構ソチ－Geometry]";
+FrameGeometry.CheckButtonQueryUserFeatures.Title = "[十GTCAttQueryFrame,onQueryUserFeatures.Title十一構ソチ－User Features]";
+FrameGeometry.CheckButtonQuerySurfaces.Title = "[十GTCAttQueryFrame,ButtonQuerySurfaces.Title十一構ソチ－Surfaces]";
+FrameGeometry.CheckButtonQueryLinesCurves.Title = "[十GTCAttQueryFrame,tonQueryLinesCurves.Title十一構ソチ－Lines and Curves]";
+FrameGeometry.CheckButtonQueryParts.Title = "[十GTCAttQueryFrame,eckButtonQueryParts.Title十一構ソチ－Parts]";
+FrameGeometry.CheckButtonQuerySetsAndBodies.Title = "[十GTCAttQueryFrame,nQuerySetsAndBodies.Title十一構ソチ－Sets and Bodies]";
+FrameGeometry.CheckButtonQuerySolids.Title = "[十GTCAttQueryFrame,ckButtonQuerySolids.Title十一構ソチ－Solids]";
+FrameGeometry.CheckButtonQueryGroups.Title = "[十GTCAttQueryFrame,ckButtonQueryGroups.Title十一構ソチ－Groups]";

@@ -1,0 +1,4 @@
+Title = "[~GTCArcUpdateIfcQuantityCmd,Title~ Updåté Ifc Qüantîties]";
+StatusTitle = "[~GTCArcUpdateIfcQuantityCmd,StatusTitle~ Updåté Qüantîties]";
+UpdateKOStatus = "[~GTCArcUpdateIfcQuantityCmd,UpdateKOStatus~ Qüåntîtiés update failed.]";
+UpdateOKStatus = "[~GTCArcUpdateIfcQuantityCmd,UpdateOKStatus~ Qüåntîtiés updated successfully.]";

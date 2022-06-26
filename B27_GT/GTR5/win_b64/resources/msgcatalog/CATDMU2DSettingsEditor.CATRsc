@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TabPage.WorkshopName =  "PRDWorkshop";
+// -->STH
+TabPage.SolutionName  = "NCManufacturing";
+TabPage.WorkbenchName = "DMU2DConfiguration";
+// <--
+TabPage.LongHelpId    = "ToolsOptions.DMUNavigator.DMU2DWorkshop";
+
+  
+
+

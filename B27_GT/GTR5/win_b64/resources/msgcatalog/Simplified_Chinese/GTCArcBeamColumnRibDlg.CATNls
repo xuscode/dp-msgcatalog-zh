@@ -1,0 +1,28 @@
+// CONSTANT LABELS
+
+frameTop.labelName.Title = " Name ";
+
+
+frameTop.labelSupport.Title = " Support   ";
+frameTop.labelLocation.Title = " Location   ";
+frameTop.buttonLocation.Title = "...";
+frameTop.labelLayer.Title = " Layer ";
+frameTop.labelOffset.Title = " Offset ";
+frameTop.labelAssembly.Title = " Assembly ";
+
+
+frameTop.labelAlignSpt.Title = " Alignment ";
+
+// VARIABLE LABELS
+
+// dialog title
+GTCTitleForEdit = "Edit ";
+GTCTitleForNew  = "New ";
+
+titleBeam = "Beam";
+titleColumn = "Column";
+titleRib = "Rib";
+titleBeam2Spts = "Multi-Support Beam";
+
+
+GTCArcMemberMultiple = "<Multiple>";

@@ -1,0 +1,13 @@
+TabPage.WorkshopName = "PRDWorkshop";
+
+
+// Pour la nouvelle interface tools/option - CXR5
+TabPage.SolutionName = "Infrastructure";
+TabPage.WorkbenchName= "GTCDprProjectWkb";
+TabPage.LongHelpId   = "ToolsOptions.Infrastructure.ProductStructure.DMUClashPublish";
+TabPage.PriorityNb = "8";
+//veguru
+
+
+
+

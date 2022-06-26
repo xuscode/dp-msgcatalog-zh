@@ -1,0 +1,15 @@
+pSaveUnloadFrame.pSaveUnloadLabel.Title = "[~GTCTrsGeomImpDxfDlg,me.pSaveUnloadLabel.Title~ Såvé and Unløad parts]";
+Title = "[~GTCTrsGeomImpDxfDlg,Title~ 3D dxf ør dwg Import]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Help = "[~GTCTrsGeomImpDxfDlg,aveUnloadCheckButton.Help~ Sélect før Såvîng and Unloading the Parts.]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.LongHelp = "[~GTCTrsGeomImpDxfDlg,nloadCheckButton.LongHelp~ Sélect før Såvîng and Unloading the Parts.]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.ShortHelp = "[~GTCTrsGeomImpDxfDlg,loadCheckButton.ShortHelp~ Sélect før Såvîng and Unloading the Parts.]";
+pImportDlgFileFrame.pImportInLabel.Title = "[~GTCTrsGeomImpDxfDlg,rame.pImportInLabel.Title~ Impørt în:]";
+pSaveUnloadFrame.pSaveToLabel.Title = "[~GTCTrsGeomImpDxfDlg,dFrame.pSaveToLabel.Title~ Såvé tø:]";
+pSaveUnloadFrame.pSaveToEditor.ShortHelp = "[~GTCTrsGeomImpDxfDlg,e.pSaveToEditor.ShortHelp~ Sélect the løcåtîon for saving the files.]";
+GTCImportNls_ProgressBarSplit = "[~GTCTrsGeomImpDxfDlg,mportNls_ProgressBarSplit~ /]";
+pSaveUnloadFrame.pSaveToButton.Title = "[~GTCTrsGeomImpDxfDlg,Frame.pSaveToButton.Title~ ...]";
+pSaveUnloadFrame.pSaveToEditor.Help = "[~GTCTrsGeomImpDxfDlg,dFrame.pSaveToEditor.Help~ Sélect the løcåtîon for saving the files.]";
+pSaveUnloadFrame.pSaveToEditor.LongHelp = "[~GTCTrsGeomImpDxfDlg,me.pSaveToEditor.LongHelp~ Sélect the løcåtîon for saving the files.]";
+GTCImportNls_SaveFolderSelection = "[~GTCTrsGeomImpDxfDlg,rtNls_SaveFolderSelection~ Sélect the følder to såve the fîles]";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Title = "[~GTCTrsGeomImpDxfDlg,veUnloadCheckButton.Title~   ]";
+GTCImportNls_ProgressBarTitle = "[~GTCTrsGeomImpDxfDlg,mportNls_ProgressBarTitle~   Entîtiés Trånsfered]";

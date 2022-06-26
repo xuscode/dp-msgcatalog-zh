@@ -1,0 +1,9 @@
+LabelName1.Title = "[十GTCArcGridIntersectionDlg,LabelName1.Title十一構ソチ－First Grid ]";
+Title = "[十GTCArcGridIntersectionDlg,Title十一構ソチ－Grid Intersection]";
+EditorName1.Help = "[十GTCArcGridIntersectionDlg,EditorName1.Help十一構ソチ－First plan grid]";
+EditorName2.ShortHelp = "[十GTCArcGridIntersectionDlg,EditorName2.ShortHelp十一構ソチ－Second plan grid]";
+EditorName1.LongHelp = "[十GTCArcGridIntersectionDlg,EditorName1.LongHelp十一構ソチ－First plan grid]";
+EditorName2.Help = "[十GTCArcGridIntersectionDlg,EditorName2.Help十一構ソチ－Second plan grid]";
+LabelName2.Title = "[十GTCArcGridIntersectionDlg,LabelName2.Title十一構ソチ－Second Grid ]";
+EditorName1.ShortHelp = "[十GTCArcGridIntersectionDlg,EditorName1.ShortHelp十一構ソチ－First plan grid]";
+EditorName2.LongHelp = "[十GTCArcGridIntersectionDlg,EditorName2.LongHelp十一構ソチ－Second plan grid]";

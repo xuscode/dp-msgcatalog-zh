@@ -1,0 +1,3 @@
+GTCAttPaintCmd.ObjFromState.Message="Choose an object to copy attributes from.";
+GTCAttPaintCmd.ObjToState.Message="Choose an object to copy attributes to.";
+GTCAttPaintCmd.ConfirmState.Message="Confirm or cancel.";

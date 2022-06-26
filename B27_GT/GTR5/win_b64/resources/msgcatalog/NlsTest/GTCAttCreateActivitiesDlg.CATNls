@@ -1,0 +1,4 @@
+Title = "[~GTCAttCreateActivitiesDlg,Title~ Créåte Actîvities]";
+LabelElems.Title = "[~GTCAttCreateActivitiesDlg,LabelElems.Title~ Mødél element(s)]";
+LabelActName.Title = "[~GTCAttCreateActivitiesDlg,LabelActName.Title~ Actîvity Nåmé]";
+LabelActType.Title = "[~GTCAttCreateActivitiesDlg,LabelActType.Title~ Actîvity Typé]";

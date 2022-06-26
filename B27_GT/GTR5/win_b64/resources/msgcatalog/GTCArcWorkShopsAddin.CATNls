@@ -1,0 +1,5 @@
+GTCArcTlb.Title = "Architectural Components";
+GTCLayerSetTlb.Title = "Layer Sets Utility";
+GTCGridTlb.Title = "Architectural Grids";
+GTCStrFEMTlb.Title = "Structure Polygons";
+GTCMultiEditTlb.Title = "Multiple Edits";

@@ -1,0 +1,94 @@
+/////////////////////////////////////////////////////////////////////
+// COPYRIGHT Gehry Technologies
+/////////////////////////////////////////////////////////////////////
+
+// == Color Filter ==
+//GTCGuiCommandsHeader.GTCColorFilterHdr.Title              = "Color Filter...";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.Help               = "Modifies geometric attributes based on constraints";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.ShortHelp          = "Color Filter";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.LongHelp           = "Modifies geometric attributes based on constraints";
+
+// == Geometric Reporter == 
+//GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Title		= "Geometry Reporter...";
+//GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Help        = "Generates geometric information";
+//GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.ShortHelp   = "Generates geometric information";
+//GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.LongHelp    = "Generates geometric information";
+
+// == Rename Tree Nodes == 
+GTCGuiCommandsHeader.GTCRenameTreeHdr.Title		= "Rename Tree Nodes...";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.Help      = "Renames products and/or parts in the tree";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.ShortHelp	= "Rename Tree Nodes";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.LongHelp  = "Renames products and/or parts in the tree";
+
+// == Tree Reporter == 
+//GTCGuiCommandsHeader.GTCWriteTreeHdr.Title		= "Tree Reporter...";
+//GTCGuiCommandsHeader.GTCWriteTreeHdr.Help        = "Generates tree information";
+//GTCGuiCommandsHeader.GTCWriteTreeHdr.ShortHelp   = "Generates tree information";
+//GTCGuiCommandsHeader.GTCWriteTreeHdr.LongHelp   = "Generates tree information";
+
+// == z buff toggle == 
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.Title		= "Z-Buffer";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.Help        = "Displays all elements using z-buffer depth";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.ShortHelp   = "Z-Buffer";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.LongHelp    = "Displays all elements using z-buffer depth";
+
+// == New Issue == 
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.Title		= "New Issue";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.Help			= "Creates an issue object from a standard document";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.ShortHelp	= "New Issue";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.LongHelp		= "Creates an issue object from a standard document";
+
+// == Update Issue Document == 
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.Title			= "Update Issue Document";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.Help			= "Updates the document associated with an issue";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.ShortHelp		= "Update Issue Document";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.LongHelp		= "Updates the document associated with an issue";
+
+// == Update 3D Issue == 
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.Title			= "Update 3D Issue";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.Help			= "Updates a 3D issue object from its associated document";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.ShortHelp		= "Update 3D Issue";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.LongHelp		= "Updates a 3D issue object from its associated document";
+
+// == Create Response == 
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.Title			= "Create Response";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.Help			= "Creates a response to an issue";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.ShortHelp		= "Create Response";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.LongHelp		= "Creates a response to an issue";
+
+// == Update Response Document == 
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.Title			= "Update Response Document";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.Help			= "Updates the document associated with an  issue response";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.ShortHelp		= "Update Response Document";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.LongHelp		= "Updates the document associated with an  issue response";
+
+// == GT Shortcuts - Project Standards == 
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.Title			= "Project Standards";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.Help			= "Open Project Standards folder for current environment";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.ShortHelp		= "Project Standards";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectStandardsHdr.LongHelp		= "Open Project Standards folder for current environment";
+
+// == GT Shortcuts - Project Data == 
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.Title			= "Project Data";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.Help			= "Open Project Data folder for current environment";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.ShortHelp		= "Project Data";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdProjectDataHdr.LongHelp		= "Open Project Data folder for current environment";
+
+// == GT Shortcuts - USER Data == 
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.Title			= "User Data";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.Help			= "Open User Data folder for current environment";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.ShortHelp		= "User Data";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdUserDataHdr.LongHelp		= "Open User Data folder for current environment";
+
+// == GT Shortcuts - Lic Path == 
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.Title			= "License Path";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.Help			= "Show License Path used for current session";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.ShortHelp		= "License Path";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdLicPathHdr.LongHelp		= "Show License Path used for current session";
+
+// == GT Shortcuts - DP Env == 
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.Title			= "Environment File";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.Help			= "Opens environment file for current session";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.ShortHelp		= "Environment File";
+GTCGuiCommandsHeader.GTCGuiShowFolderCmdDPEnvHdr.LongHelp		= "Opens environment file for current session";
+

@@ -1,0 +1,12 @@
+frameParent.frameElement.labelElement.Title = "[十GTCArcContextualOpeningDlg,lement.labelElement.Title十一構ソチ－ Element ]";
+frameParent.frameOutputs.Title = "[十GTCArcContextualOpeningDlg,Parent.frameOutputs.Title十一構ソチ－ Outputs ]";
+frameParent.frameOutputs.chkBtnPanel.Title = "[十GTCArcContextualOpeningDlg,Outputs.chkBtnPanel.Title十一構ソチ－ Panel ]";
+frameParent.frameElement.labelName.Title = "[十GTCArcContextualOpeningDlg,meElement.labelName.Title十一構ソチ－ Name ]";
+frameParent.frameOutputs.chkBtnWire.Title = "[十GTCArcContextualOpeningDlg,eOutputs.chkBtnWire.Title十一構ソチ－ Wire ]";
+ButtonLess = "[十GTCArcContextualOpeningDlg,ButtonLess十一構ソチ－ Complete ]";
+NewTitle = "[十GTCArcContextualOpeningDlg,NewTitle十一構ソチ－ New Contour Opening ]";
+frameMore.labelFromLim.Title = "[十GTCArcContextualOpeningDlg,meMore.labelFromLim.Title十一構ソチ－ From ]";
+EditTitle = "[十GTCArcContextualOpeningDlg,EditTitle十一構ソチ－ Edit Contour Opening ]";
+frameParent.frameElement.labelElementLayer.Title = "[十GTCArcContextualOpeningDlg,t.labelElementLayer.Title十一構ソチ－ Layer ]";
+frameMore.labelToLim.Title = "[十GTCArcContextualOpeningDlg,rameMore.labelToLim.Title十一構ソチ－ To ]";
+ButtonMore = "[十GTCArcContextualOpeningDlg,ButtonMore十一構ソチ－ Partial ]";

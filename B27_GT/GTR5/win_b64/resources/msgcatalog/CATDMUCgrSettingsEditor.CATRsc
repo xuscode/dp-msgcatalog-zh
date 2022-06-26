@@ -1,0 +1,6 @@
+//TabPage.SolutionName  = "Infrastructure";
+//TabPage.SolutionName  = "Knowledge";
+//TabPage.WorkbenchName = "PrsConfiguration";
+TabPage.SolutionName = "General";
+TabPage.WorkbenchName = "Compatibility";
+TabPage.LongHelpId    = "ToolsOptions.Infrastructure.ProductStructure.CgrManagement";

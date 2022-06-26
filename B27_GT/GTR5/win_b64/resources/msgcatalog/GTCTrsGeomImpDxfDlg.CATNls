@@ -1,0 +1,21 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "3D dxf or dwg Import";
+pImportDlgFileFrame.pImportInLabel.Title = "Import in:";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Title = "  ";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Help = "Select for Saving and Unloading the Parts.";
+pSaveUnloadFrame.pSaveUnloadCheckButton.ShortHelp = "Select for Saving and Unloading the Parts.";
+pSaveUnloadFrame.pSaveUnloadCheckButton.LongHelp = "Select for Saving and Unloading the Parts.";
+pSaveUnloadFrame.pSaveUnloadLabel.Title = "Save and Unload parts";
+pSaveUnloadFrame.pSaveToLabel.Title = "Save to:";
+pSaveUnloadFrame.pSaveToEditor.Help = "Select the location for saving the files.";
+pSaveUnloadFrame.pSaveToEditor.ShortHelp = "Select the location for saving the files.";
+pSaveUnloadFrame.pSaveToEditor.LongHelp = "Select the location for saving the files.";
+pSaveUnloadFrame.pSaveToButton.Title = "...";
+// END WIZARD REPLACEMENT ZONE
+
+//Folder or File selections messages.
+GTCImportNls_SaveFolderSelection="Select the folder to save the files";
+
+//Progress Bar Count
+GTCImportNls_ProgressBarSplit="/";
+GTCImportNls_ProgressBarTitle="  Entities Transfered";

@@ -1,0 +1,72 @@
+//  == z-buffer toggle ==
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.Icon.Normal  = "I_GTCZ_Buffer";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.Icon.Pressed = "IP_GTCZ_Buffer";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.LongHelpId = "GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr";
+
+// == Remove Attribute Package ==
+GTCGuiCommandsHeader.GTCGuiRemoveAttributePackageHdr.Icon.Normal         = "I_GTCRemoveAttributePackage";
+//GTCGuiPartWkbHeader.GTCGuiRemoveAttributePackageHdr.Icon.Focused        = "IF_GTCRemoveAttributePackage";
+//GTCGuiPartWkbHeader.GTCGuiRemoveAttributePackageHdr.Icon.Pressed        = "IP_GTCRemoveAttributePackage";
+
+// == List Attribute Package ==
+GTCGuiCommandsHeader.GTCGuiPackageHdr.Icon.Normal         = "I_GTCListAttributePackages";
+//GTCGuiPartWkbHeader.GTCGuiPackageHdr.Icon.Focused        = "IF_GTCListAttributePackages";
+//GTCGuiPartWkbHeader.GTCGuiPackageHdr.Icon.Pressed        = "IP_GTCListAttributePackages";
+GTCGuiCommandsHeader.GTCGuiPackageHdr.LongHelpId		  = "GTCGuiCommandsHeader.GTCGuiPackageHdr";
+
+// == Color Filter==
+GTCGuiCommandsHeader.GTCColorFilterHdr.Icon.Normal         = "I_GTCColorFilter";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.Icon.Focused        = "IF_GTCColorFilter";
+//GTCGuiCommandsHeader.GTCColorFilterHdr.Icon.Pressed        = "IP_GTCColorFilter";
+GTCGuiCommandsHeader.GTCColorFilterHdr.LongHelpId          = "GTCGuiCommandsHeader.GTCColorFilterHdr";
+
+// == Add Attribute Package ==
+GTCGuiCommandsHeader.GTCGuiInstanciateAttributePackageHdr.Icon.Normal         = "I_GTCAddAttributePackage";
+//GTCGuiPartWkbHeader.GTCGuiInstanciateAttributePackageHdr.Icon.Focused        = "IF_GTCAddAttributePackage";
+//GTCGuiPartWkbHeader.GTCGuiInstanciateAttributePackageHdr.Icon.Pressed        = "IP_GTCAddAttributePackage";
+GTCGuiCommandsHeader.GTCGuiInstanciateAttributePackageHdr.LongHelpId         = "GTCGuiCommandsHeader.GTCGuiInstanciateAttributePackageHdr";
+
+// Export Geometric Information
+GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Icon.Normal           = "I_GTCExtractUnits";
+//GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Icon.Focused          = "IF_GTCExtractUnits";
+//GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Icon.Pressed          = "IP_GTCExtractUnits";
+GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.LongHelpId				= "GTCGuiCommandsHeader.GTCExtraction_UnitsHdr";
+
+// Rename Tree Nodes
+GTCGuiCommandsHeader.GTCRenameTreeHdr.Icon.Normal           = "I_GTCRenameTree";
+//GTCGuiCommandsHeader.GTCRenameTreeHdr.Icon.Focused          = "IF_GTCRenameTree";
+//GTCGuiCommandsHeader.GTCRenameTreeHdr.Icon.Pressed          = "IP_GTCRenameTree";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCRenameTreeHdr";
+
+
+// == Dumb Down Product == 
+GTCGuiCommandsHeader.GTCSimplifierHdr.Icon.Normal           = "I_GTCSimplifier";
+//GTCGuiCommandsHeader.GTCSimplifierHdr.Icon.Focused          = "IF_GTCSimplifier";
+//GTCGuiCommandsHeader.GTCSimplifierHdr.Icon.Pressed          = "IP_GTCSimplifier";
+GTCGuiCommandsHeader.GTCSimplifierHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCSimplifierHdr";
+
+// Export Tree Structure
+GTCGuiCommandsHeader.GTCWriteTreeHdr.Icon.Normal           = "I_GTCWriteTree";
+//GTCGuiCommandsHeader.GTCWriteTreeHdr.Icon.Focused          = "IF_GTCWriteTree";
+//GTCGuiCommandsHeader.GTCWriteTreeHdr.Icon.Pressed          = "IP_GTCWriteTree";
+GTCGuiCommandsHeader.GTCWriteTreeHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCWriteTreeHdr";
+
+// == New Issue == 
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.Icon.Normal  = "I_GTCNewIssue";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCGuiNewIssueHdr";
+
+// == Update Issue Document == 
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.Icon.Normal  = "I_GTCUpdateIssueDoc";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr";
+
+// == Update 3D Issue == 
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.Icon.Normal  = "I_GTCUpdateIssue3D";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr";
+
+// == Create Response == 
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.Icon.Normal  = "I_GTCCreateResponse";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCGuiCreateResponseHdr";
+
+// == Update Response Document == 
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.Icon.Normal  = "I_GTCUpdateResponseDoc";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.LongHelpId    = "GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr";

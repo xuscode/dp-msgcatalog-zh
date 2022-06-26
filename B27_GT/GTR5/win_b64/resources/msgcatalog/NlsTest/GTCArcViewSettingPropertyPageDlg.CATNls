@@ -1,0 +1,10 @@
+Title = "[~GTCArcViewSettingPropertyPageDlg,Title~ Archîtéctüre & Structures]";
+ViewDisplay.IconAndOptionsFrame.OptionsFrame.ShowViewPlane.Title = "[~GTCArcViewSettingPropertyPageDlg,Frame.ShowViewPlane.Title~ Shøw Vîéw Plåne]";
+WallOptions.IconAndOptionsFrame.OptionsFrame.WallRemoveExtraLines.Title = "[~GTCArcViewSettingPropertyPageDlg,allRemoveExtraLines.Title~ Rémøve Extrå Lînes]";
+ViewVis.IconAndOptionsFrame.OptionsFrame.View.Title = "[~GTCArcViewSettingPropertyPageDlg,e.OptionsFrame.View.Title~ Shøw Dråwîng Viéw]";
+ViewVis.IconAndOptionsFrame.OptionsFrame.Sheet.Title = "[~GTCArcViewSettingPropertyPageDlg,.OptionsFrame.Sheet.Title~ Shøw Dråwîng Shéet]";
+ViewVis.IconAndOptionsFrame.OptionsFrame.None.Title = "[~GTCArcViewSettingPropertyPageDlg,e.OptionsFrame.None.Title~ Nøné]";
+ViewDisplay.IconAndOptionsFrame.OptionsFrame.ShowViewName.Title = "[~GTCArcViewSettingPropertyPageDlg,sFrame.ShowViewName.Title~ Shøw Vîéw Nåme]";
+ViewDisplay.HeaderFrame.Global.Title = "[~GTCArcViewSettingPropertyPageDlg,.HeaderFrame.Global.Title~ Vîéw Displåy]";
+WallOptions.HeaderFrame.Global.Title = "[~GTCArcViewSettingPropertyPageDlg,.HeaderFrame.Global.Title~ Wåll Drawîng Géneratiøn]";
+ViewVis.HeaderFrame.Global.Title = "[~GTCArcViewSettingPropertyPageDlg,.HeaderFrame.Global.Title~ Actîvé View]";

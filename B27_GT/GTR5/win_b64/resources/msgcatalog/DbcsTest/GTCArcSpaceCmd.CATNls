@@ -1,0 +1,4 @@
+GTCArcSpaceCmd.StateNoSel.Message = "[十GTCArcSpaceCmd,aceCmd.StateNoSel.Message十一構ソチ－Specify space attributes]";
+GTCArcSpaceCmd.StateGetLimits.Message = "[十GTCArcSpaceCmd,md.StateGetLimits.Message十一構ソチ－Select elements to limit sides]";
+GTCArcSpaceCmd.StateGetTopLim.Message = "[十GTCArcSpaceCmd,md.StateGetTopLim.Message十一構ソチ－Select an element to limit the top]";
+GTCArcSpaceCmd.StateGetBttmLim.Message = "[十GTCArcSpaceCmd,d.StateGetBttmLim.Message十一構ソチ－Select an element to limit the bottom]";

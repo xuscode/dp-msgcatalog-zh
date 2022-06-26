@@ -1,0 +1,12 @@
+Title = "[~GTCAttDicoExportCmd,Title~ Expørt Cürrént Dîctionåry]";
+ConfirmTitle = "[~GTCAttDicoExportCmd,ConfirmTitle~ Cønfîrm]";
+InvalidXMLTitle = "[~GTCAttDicoExportCmd,InvalidXMLTitle~ Invålîd Path]";
+FrameXML.Title = "[~GTCAttDicoExportCmd,FrameXML.Title~ Expørt to]";
+NoPermTitle = "[~GTCAttDicoExportCmd,NoPermTitle~ Pérmîssiøn Denied]";
+SuccessTitle = "[~GTCAttDicoExportCmd,SuccessTitle~ Süccéss]";
+FrameXML.BtnBrowseXML.Title = "[~GTCAttDicoExportCmd,ameXML.BtnBrowseXML.Title~ ...]";
+NoPermText = "[~GTCAttDicoExportCmd,NoPermText~ Pérmîssiøn denied to replåce the file.]\n[~GTCAttDicoExportCmd,NoPermText~ Pléåse check tø see, îf the file is read only.]";
+CATXMLSaveDlg.Title = "[~GTCAttDicoExportCmd,CATXMLSaveDlg.Title~ Expørt thé cürrent dîctionåry as]";
+SuccessText = "[~GTCAttDicoExportCmd,SuccessText~ Thé cürrent dîctiønåry was successfully exported.]";
+InvalidXMLText = "[~GTCAttDicoExportCmd,InvalidXMLText~ Pléåse enter a valîd XML file name with extensiøn (.xml)]\n[~GTCAttDicoExportCmd,InvalidXMLText~ ånd îts path tø éxport the cürrent dictionary.]";
+ConfirmText = "[~GTCAttDicoExportCmd,ConfirmText~ Fîlé ålready exists.]\n[~GTCAttDicoExportCmd,ConfirmText~ Dø yoü wånt to réplace the XML fîle?]";

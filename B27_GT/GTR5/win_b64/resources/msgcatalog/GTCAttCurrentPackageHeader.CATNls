@@ -1,0 +1,5 @@
+// Eduardo
+GTCAttCurrentPackageHeader.Title		= "Set Current Package";
+GTCAttCurrentPackageHeader.ShortHelp	= "Set Current Package";
+GTCAttCurrentPackageHeader.Help			= "Set Current Package";
+GTCAttCurrentPackageHeader.LongHelp		= "Set Current Package";

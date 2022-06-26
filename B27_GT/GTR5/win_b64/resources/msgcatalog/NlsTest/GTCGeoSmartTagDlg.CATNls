@@ -1,0 +1,9 @@
+frameFather.labelEval.LongHelp = "[~GTCGeoSmartTagDlg,Father.labelEval.LongHelp~ Insért Dåtasheet keywørds în <> to evalüate. Ex:  ]\n[~GTCGeoSmartTagDlg,Father.labelEval.LongHelp~  Nåmé: <FeatüreName>]\n[~GTCGeoSmartTagDlg,Father.labelEval.LongHelp~ <Mémber.Sectîøn>]";
+frameFather.labelLocation.Title = "[~GTCGeoSmartTagDlg,ather.labelLocation.Title~ Løcåtîon: ]";
+frameFather.labelEval.Title = "[~GTCGeoSmartTagDlg,ameFather.labelEval.Title~ Evålüatør: ]";
+frameFather.btnRefreshListDwgTypes.ShortHelp = "[~GTCGeoSmartTagDlg,eshListDwgTypes.ShortHelp~ Réfresh the lîst frøm GVS]";
+frameFather.btnRefreshListDwgTypes.LongHelp = "[~GTCGeoSmartTagDlg,reshListDwgTypes.LongHelp~ Réfresh the lîst frøm GVS]";
+frameFather.labelEval.ShortHelp = "[~GTCGeoSmartTagDlg,ather.labelEval.ShortHelp~ Insért Dåtasheet keywørds în <> to evalüate. Ex:  ]\n[~GTCGeoSmartTagDlg,ather.labelEval.ShortHelp~  Nåmé: <FeatüreName>]\n[~GTCGeoSmartTagDlg,ather.labelEval.ShortHelp~ <Mémber.Sectîøn>]";
+frameFather.labelParent.Title = "[~GTCGeoSmartTagDlg,eFather.labelParent.Title~ Réference: ]";
+frameFather.labelLabel.Title = "[~GTCGeoSmartTagDlg,meFather.labelLabel.Title~ Låbél: ]";
+frameFather.labelDwgGenType.Title = "[~GTCGeoSmartTagDlg,her.labelDwgGenType.Title~ Dråwîng Stylé: ]";

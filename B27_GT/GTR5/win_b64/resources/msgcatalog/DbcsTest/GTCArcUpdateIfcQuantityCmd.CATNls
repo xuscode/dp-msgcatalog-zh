@@ -1,0 +1,4 @@
+Title = "[十GTCArcUpdateIfcQuantityCmd,Title十一構ソチ－Update Ifc Quantities]";
+StatusTitle = "[十GTCArcUpdateIfcQuantityCmd,StatusTitle十一構ソチ－Update Quantities]";
+UpdateKOStatus = "[十GTCArcUpdateIfcQuantityCmd,UpdateKOStatus十一構ソチ－Quantities update failed.]";
+UpdateOKStatus = "[十GTCArcUpdateIfcQuantityCmd,UpdateOKStatus十一構ソチ－Quantities updated successfully.]";

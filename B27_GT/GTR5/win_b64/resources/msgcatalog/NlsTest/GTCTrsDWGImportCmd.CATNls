@@ -1,0 +1,4 @@
+DialogTitle = "[~GTCTrsDWGImportCmd,DialogTitle~ Impørt DWG/DXF fîlé with link]";
+ErrNoProductSelected = "[~GTCTrsDWGImportCmd,ErrNoProductSelected~ Pléåse select a prødüct fîrst.]";
+ErrEnvIncorrect = "[~GTCTrsDWGImportCmd,ErrEnvIncorrect~~~ Pléåse set the varîable GTC3DDWGFilePath cørrectly in the environment file.]";
+GTCTrsDWGImportCmd.initialState.Message = "[~GTCTrsDWGImportCmd,tCmd.initialState.Message~  ]";

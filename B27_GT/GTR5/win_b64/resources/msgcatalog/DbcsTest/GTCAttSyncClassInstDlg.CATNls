@@ -1,0 +1,10 @@
+Title = "[十GTCAttSyncClassInstDlg,Title十一構ソチ－Synchronize Attributes]";
+DialogBoxContainer.DialogFrame.LabelExtension.Title = "[十GTCAttSyncClassInstDlg,rame.LabelExtension.Title十一構ソチ－PACKAGE]";
+DialogBoxContainer.DialogFrame.LabelAdd.Title = "[十GTCAttSyncClassInstDlg,ialogFrame.LabelAdd.Title十一構ソチ－Add]";
+DialogBoxContainer.DialogFrame.LabelAttribute.Title = "[十GTCAttSyncClassInstDlg,rame.LabelAttribute.Title十一構ソチ－ATTRIBUTE]";
+DialogBoxContainer.DialogFrame.LabelStatus.Title = "[十GTCAttSyncClassInstDlg,ogFrame.LabelStatus.Title十一構ソチ－CHANGE]";
+DialogBoxContainer.DialogFrame.LabelSyncConstDescrip.Title = "[十GTCAttSyncClassInstDlg,belSyncConstDescrip.Title十一構ソチ－Are you sure you want to make the following change(s)?]";
+DialogBoxContainer.DialogFrame.LabelObject.Title = "[十GTCAttSyncClassInstDlg,ogFrame.LabelObject.Title十一構ソチ－OBJECT]";
+DialogBoxContainer.DialogFrame.LabelRemove.Title = "[十GTCAttSyncClassInstDlg,ogFrame.LabelRemove.Title十一構ソチ－Remove]";
+DialogBoxContainer.DialogFrame.LabelSpace.Title = "[十GTCAttSyncClassInstDlg,logFrame.LabelSpace.Title十一構ソチ－       ]";
+LabelFinalDescrip.Title = "[十GTCAttSyncClassInstDlg,LabelFinalDescrip.Title十一構ソチ－No changes are found to synchronize.]";

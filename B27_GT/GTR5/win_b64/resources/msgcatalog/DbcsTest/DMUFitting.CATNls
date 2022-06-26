@@ -1,0 +1,16 @@
+CATFisActionCnt.Title = "[十DMUFitting,CATFisActionCnt.Title十一構ソチ－Other actions]";
+DMUFittingToolBar.Title = "[十DMUFitting,DMUFittingToolBar.Title十一構ソチ－DMU Simulation]";
+DMUCheckForFittingToolBar.Title = "[十DMUFitting,ckForFittingToolBar.Title十一構ソチ－DMU Check]";
+DMUFittingMgtToolBar.Title = "[十DMUFitting,MUFittingMgtToolBar.Title十一構ソチ－DMU Management]";
+DMUFitting.ShortHelp = "[十DMUFitting,DMUFitting.ShortHelp十一構ソチ－Digital Mock-Up Fitting Workbench]";
+DMUViewingToolBar.Title = "[十DMUFitting,DMUViewingToolBar.Title十一構ソチ－DMU Viewing]";
+DMUMeasureToolBar.Title = "[十DMUFitting,DMUMeasureToolBar.Title十一構ソチ－DMU Measure]";
+DMUDynClashIconBox.Title = "[十DMUFitting,DMUDynClashIconBox.Title十一構ソチ－Automatic clash detection]";
+N4DANALYZE.Title = "[十DMUFitting,N4DANALYZE.Title十一構ソチ－Analyze]";
+DMUFitPublish.Title = "[十DMUFitting,DMUFitPublish.Title十一構ソチ－Publish]";
+N4DANALYZE.Mnemonic = "[十DMUFitting,N4DANALYZE.Mnemonic十一構ソチ－A]";
+DMUFitSimulation.Title = "[十DMUFitting,DMUFitSimulation.Title十一構ソチ－Simulation]";
+DMUFitting.Help = "[十DMUFitting,DMUFitting.Help十一構ソチ－Digital Mock-Up Fitting]";
+DMUFitInsertNewSim.Title = "[十DMUFitting,DMUFitInsertNewSim.Title十一構ソチ－Sequences & Actions]";
+DMUFitting.Title = "[十DMUFitting,DMUFitting.Title十一構ソチ－Fitting Simulation]";
+DMUFitting.LongHelp = "[十DMUFitting,DMUFitting.LongHelp十一構ソチ－This workbench is used to mount and dismount assemblies]";

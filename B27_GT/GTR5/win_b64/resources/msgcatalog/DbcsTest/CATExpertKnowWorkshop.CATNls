@@ -1,0 +1,5 @@
+CATExpertKnowWorkshop.LongHelp = "[十CATExpertKnowWorkshop,pertKnowWorkshop.LongHelp十一構ソチ－This Workbench is used to add design expert knowledge into the current application.]";
+CATExpertKnowWorkshop.Title = "[十CATExpertKnowWorkshop,TExpertKnowWorkshop.Title十一構ソチ－Knowledge Expert]";
+ExpertrativeKnowledgeToolBar.Title = "[十CATExpertKnowWorkshop,iveKnowledgeToolBar.Title十一構ソチ－Knowledge Expert Toolbar]";
+CATExpertKnowWorkshop.Help = "[十CATExpertKnowWorkshop,ATExpertKnowWorkshop.Help十一構ソチ－Knowledge Expert Workbench]";
+CATExpertKnowWorkshop.ShortHelp = "[十CATExpertKnowWorkshop,ertKnowWorkshop.ShortHelp十一構ソチ－Knowledge Expert]";

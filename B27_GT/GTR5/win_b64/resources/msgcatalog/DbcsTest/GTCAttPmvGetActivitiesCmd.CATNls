@@ -1,0 +1,7 @@
+ActivatePrjTitle = "[十GTCAttPmvGetActivitiesCmd,ActivatePrjTitle十一構ソチ－Activate Primavera Project]";
+UnexpectedErrTitle = "[十GTCAttPmvGetActivitiesCmd,UnexpectedErrTitle十一構ソチ－Unexpected Error]";
+ActivatePrjMsg = "[十GTCAttPmvGetActivitiesCmd,ActivatePrjMsg十一構ソチ－Activate Primavera Project and retry the command]";
+GTCAttPmvGetActivitiesCmd.InitialState.Message = "[十GTCAttPmvGetActivitiesCmd,sCmd.InitialState.Message十一構ソチ－Select a leaf primavera project]";
+UnexpectedErrMsg = "[十GTCAttPmvGetActivitiesCmd,UnexpectedErrMsg十一構ソチ－Unexpected error occurred, kindly report the problem]";
+SuccessfullyLoadedTitle = "[十GTCAttPmvGetActivitiesCmd,SuccessfullyLoadedTitle十一構ソチ－Primavera Activites Loaded]";
+SuccessfullyLoadedMsg = "[十GTCAttPmvGetActivitiesCmd,SuccessfullyLoadedMsg十一構ソチ－Primavera activities have been loaded successfully]";

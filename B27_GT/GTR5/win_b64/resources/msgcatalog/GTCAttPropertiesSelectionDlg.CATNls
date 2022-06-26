@@ -1,0 +1,19 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+
+Title = "Properties";
+FrameTemplate.ListColComponents = "Component";	
+ListColKeywords  = "Property";
+
+
+FrameNonTemplateOptions.FrameReportIdentifiers.Title = "Identifiers";
+
+FrameTemplate.ListComponents.Help			= "Select one or more Component Types.";
+FrameTemplate.ListComponents.ShortHelp		= "Components";
+FrameTemplate.ListComponents.LongHelp		= "Select one or more Component Types.";
+
+FrameTemplate.ListKeywords.Help				= "Keywords found in the selected Components. Select one or more Properties.";
+FrameTemplate.ListKeywords.ShortHelp		= "Properties";
+FrameTemplate.ListKeywords.LongHelp			= "Keywords found in the selected Components. Select one or more Properties.";
+

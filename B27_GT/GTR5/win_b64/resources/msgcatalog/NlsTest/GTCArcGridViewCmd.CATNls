@@ -1,0 +1,6 @@
+GTCArcGridViewCmd.SelectAxisState.Message = "[~GTCArcGridViewCmd,d.SelectAxisState.Message~ Sélect Axîs]";
+ErrorGenMode = "[~GTCArcGridViewCmd,ErrorGenMode~ Thîs cømmånd can only rün in thé exact view generation mode.]";
+ErrorInWorkObj = "[~GTCArcGridViewCmd,ErrorInWorkObj~ Pléåse set a sheet as the în-wørk object.]";
+GTCArcGridViewCmd.SelectBoundaryState.Message = "[~GTCArcGridViewCmd,lectBoundaryState.Message~ Sélect Bøündåry]";
+GTCArcGridViewCmd.SelectGridState.Message = "[~GTCArcGridViewCmd,d.SelectGridState.Message~ Sélect Grîds]";
+GTCArcGridViewCmd.SelectSupportState.Message = "[~GTCArcGridViewCmd,electSupportState.Message~ Sélect Plåne]";

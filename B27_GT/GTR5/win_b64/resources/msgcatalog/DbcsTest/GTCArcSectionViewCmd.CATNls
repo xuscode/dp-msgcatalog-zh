@@ -1,0 +1,6 @@
+GTCArcSectionViewCmd.SelectGroupState.Message = "[十GTCArcSectionViewCmd,.SelectGroupState.Message十一構ソチ－Select Group or List]";
+ErrorGenMode = "[十GTCArcSectionViewCmd,ErrorGenMode十十十十十十一構ソチ－This command can only run in the exact or approximate view generation mode.]";
+ErrorInWorkObj = "[十GTCArcSectionViewCmd,ErrorInWorkObj十一構ソチ－Please set a sheet as the in-work object.]";
+GTCArcSectionViewCmd.SelectBoundaryState.Message = "[十GTCArcSectionViewCmd,lectBoundaryState.Message十一構ソチ－Select Boundary]";
+GTCArcSectionViewCmd.SelectSupportState.Message = "[十GTCArcSectionViewCmd,electSupportState.Message十一構ソチ－Select Plane]";
+GTCArcSectionViewCmd.SelectAxisState.Message = "[十GTCArcSectionViewCmd,d.SelectAxisState.Message十一構ソチ－Select Axis]";

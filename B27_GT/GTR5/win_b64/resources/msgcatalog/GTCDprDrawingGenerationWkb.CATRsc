@@ -1,0 +1,17 @@
+//GTCDprDrawingGenerationWkb.Category = "Infrastructure";
+
+// Icons for the Welcome window 64x64
+GTCDprDrawingGenerationWkb.Icon.NormalPnl = "I_GTCDrawingGenerationWkbPanel";
+GTCDprDrawingGenerationWkb.Icon.PressedPnl = "IP_GTCDrawingGenerationWkbPanel";
+GTCDprDrawingGenerationWkb.Icon.FocusPnl = "IF_GTCDrawingGenerationWkbPanel";
+
+// Icons for the Start menu 32x32
+//GTCDprDrawingGenerationWkb.Icon.NormalCtx ="I_GTCWorkbenchMenuCtx";
+GTCDprDrawingGenerationWkb.Icon.NormalCtx ="I_GTCDrawingGenerationWkbStart";
+GTCDprDrawingGenerationWkb.Icon.PressedCtx = "IP_GTCDrawingGenerationWkbStart";
+GTCDprDrawingGenerationWkb.Icon.FocusCtx = "IF_GTCDrawingGenerationWkbStart";
+
+// Icons for the workbench toolbar 24x24 (Appears in the start menu)
+GTCDprDrawingGenerationWkb.Icon.NormalRep = "I_GTCDrawingGenerationWkbStart";
+GTCDprDrawingGenerationWkb.Icon.PressedRep = "IP_GTCDrawingGenerationWkbStart";
+GTCDprDrawingGenerationWkb.Icon.FocusRep = "IF_GTCDrawingGenerationWkbStart";

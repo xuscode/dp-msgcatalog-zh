@@ -1,0 +1,3 @@
+ExtensionFeature.Container="GTCAttContainer"
+ExtensionFeature.Extends="View"
+ExtensionFeature.IsLocal="FALSE"

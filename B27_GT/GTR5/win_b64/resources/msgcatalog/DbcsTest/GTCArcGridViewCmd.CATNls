@@ -1,0 +1,6 @@
+GTCArcGridViewCmd.SelectAxisState.Message = "[十GTCArcGridViewCmd,d.SelectAxisState.Message十一構ソチ－Select Axis]";
+ErrorGenMode = "[十GTCArcGridViewCmd,ErrorGenMode十十一構ソチ－This command can only run in the exact view generation mode.]";
+ErrorInWorkObj = "[十GTCArcGridViewCmd,ErrorInWorkObj十一構ソチ－Please set a sheet as the in-work object.]";
+GTCArcGridViewCmd.SelectBoundaryState.Message = "[十GTCArcGridViewCmd,lectBoundaryState.Message十一構ソチ－Select Boundary]";
+GTCArcGridViewCmd.SelectGridState.Message = "[十GTCArcGridViewCmd,d.SelectGridState.Message十一構ソチ－Select Grids]";
+GTCArcGridViewCmd.SelectSupportState.Message = "[十GTCArcGridViewCmd,electSupportState.Message十一構ソチ－Select Plane]";

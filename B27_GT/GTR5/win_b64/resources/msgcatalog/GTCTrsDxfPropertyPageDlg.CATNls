@@ -1,0 +1,16 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Unit_mm="Millimeter(mm)";
+Unit_cm="Centimetre(cm)";
+Unit_mt="Meter(m)";
+Unit_in="Inch(in)";
+Unit_ft="foot(ft)";
+Unit_invalid="Invalid Unit";
+//UnitMax=4Add new "UnitN" above this line and update UnitMax value
+// END WIZARD REPLACEMENT ZONE
+GeneralOptions.HeaderFrame.Global.Title = "General Options";
+GeneralOptions.IconAndOptionsFrame.OptionsFrame.UnitOfFile.Title    = "  Unit of file :  ";
+ImportOptions.HeaderFrame.Global.Title = "Import Options";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.ImportSolidToPart.Title    = "Convert Solids to Parts               ";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.ImportLayerToComp.Title    = "Convert Layers to Components          ";
+ImportOptions.IconAndOptionsFrame.OptionsFrame.CGRLimit.Title    = "Maximum number of faces per surface:  ";
+

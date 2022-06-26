@@ -1,0 +1,5 @@
+FrameXMLFile.Title = "[~GTCExportDftLayers,FrameXMLFile.Title~ Dråftîng Layér Standard File]";
+Title = "[~GTCExportDftLayers,Title~ Expørt Dråftîng Layérs to CSV File]";
+FrameCSVFile.Title = "[~GTCExportDftLayers,FrameCSVFile.Title~ Såvé CSV fîle tø]";
+FrameCSVFile.PushButtonBrowseCSVFile.Title = "[~GTCExportDftLayers,ButtonBrowseCSVFile.Title~ Brøwsé...]";
+FrameXMLFile.PushButtonBrowseXMLFile.Title = "[~GTCExportDftLayers,ButtonBrowseXMLFile.Title~ Brøwsé...]";
