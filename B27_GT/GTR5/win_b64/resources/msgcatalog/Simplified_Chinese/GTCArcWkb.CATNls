@@ -8,24 +8,24 @@ GTCArcWkb.Help       = "建筑与结构 ";
 GTCArcWkb.ShortHelp  = "建筑与结构 ";
 GTCArcWkb.LongHelp   = "建筑与结构 ";
 
-GTCArcGenSelectEltTlb.Title = "Select";
-GTCArcGenSketchTlb.Title = "Sketch";
-GTCArcGenWireframeEltTlb.Title = "Wireframe";
+GTCArcGenSelectEltTlb.Title = "选择";
+GTCArcGenSketchTlb.Title = "草图";
+GTCArcGenWireframeEltTlb.Title = "线框";
 
-GTCArcTlb.Title = "Architecture Objects";
-GTCArcCustomBldgElsTlb.Title = "Building Elements";
-GTCArcCustomBldgElMnu.Title = "Building Elements";
+GTCArcTlb.Title = "建筑构件";
+GTCArcCustomBldgElsTlb.Title = "建筑元素";
+GTCArcCustomBldgElMnu.Title = "建筑元素";
 
-GTCMultiEditTlb.Title = "Multiple Edits";
-GTCArcConnectionToolsTlb.Title = "Connection Tools";
+GTCMultiEditTlb.Title = "多重编辑";
+GTCArcConnectionToolsTlb.Title = "连接工具";
 
-GTCGridTlb.Title = "Grids";
-GTCStrFEMTlb.Title = "FEM Modeler";
-GTCRemoveSolidTlb.Title = "Details";
-GTCArcTrsRobotTlb.Title = "Robot Translator";
-GTCIfcQuantityTlb.Title = "Update Quantities";
+GTCGridTlb.Title = "轴网";
+GTCStrFEMTlb.Title = "FEM 模型器";
+GTCRemoveSolidTlb.Title = "细节";
+GTCArcTrsRobotTlb.Title = "机器翻译";
+GTCIfcQuantityTlb.Title = "更新数量";
 
-GTCGenSurfacesEltTlb.Title = "Surfaces";
+GTCGenSurfacesEltTlb.Title = "曲面";
 GTCGenOperationsEltTlb.Title = "Operations";
 GTCGenShapeDesignAnalysisEltTlb.Title = "Shape Analysis";
 GTCUpdateToolsEltTlb.Title = "Update Tools";
@@ -33,13 +33,13 @@ GTCGenToolsEltTlb.Title = "General Tools";
 GTCInsertTlb.Title = "Insert";
 GTCExcelDataSheetsTlb.Title = "Excel Data Sheets";
 
-GTCGenAnalyzeMenu.Title = "Analyze";
-GTCDataMenu.Title = "Data";
+GTCGenAnalyzeMenu.Title = "分析";
+GTCDataMenu.Title = "数据";
 //GTCAttributePackageTlb.Title = "Project Attributes";
-GTCAnnotationTlb.Title = "Annotations";
-GTCConstraintTlb.Title = "Constraints";
+GTCAnnotationTlb.Title = "标注";
+GTCConstraintTlb.Title = "约束";
 
-GTCShapeModificationTlb.Title = "Shape Modification";
+GTCShapeModificationTlb.Title = "修改外形";
 GTCCurrentPlaneOrientationTlb.Title = "Current Plane Orientation";
 GTCResueTlb.Title = "Reuse";
 GTCGuiWPAddinIconBox.Title = "Render Style";
@@ -58,36 +58,36 @@ GTCDressUpSolidsSubMenu.Title = "Dress-Up Features";
 GTCBooleanOperationsSubMenu.Title = "Boolean Operations";
 GTCTransformationSubMenu.Title = "Transformations";
 GTCAdvancedReplicationSubMenu.Title = "Advanced Replication";
-GTCWireframeAnalysisSubMenu.Title = "Wireframe Analysis";
+GTCWireframeAnalysisSubMenu.Title = "线框分析";
 GTCSolidsAnalysisSubMenu.Title = "Solids Analysis";
-GTCAttributesAnalysisSubMenu.Title = "Attributes Analysis";
-GTCShortcutsSubMenu.Title = "Environment Shortcuts";
-GTCDftRulesLayersSubMenu.Title = "Drafting Rules & Layers";
+GTCAttributesAnalysisSubMenu.Title = "属性分析";
+GTCShortcutsSubMenu.Title = "环境快捷方式";
+GTCDftRulesLayersSubMenu.Title = "绘图规则和图层";
 
-GTCArcObjectSubMenu.Title = "Architecture Objects";
-GTCArcGridsSubMenu.Title = "Grids";
-GTCArcFEMSubMenu.Title = "FEM Modeler";
+GTCArcObjectSubMenu.Title = "建筑对象";
+GTCArcGridsSubMenu.Title = "轴网";
+GTCArcFEMSubMenu.Title = "FEM 建模器";
 
-GTCArcPlaneIbx.Title = "Planes";
-GTCArcPointIbx.Title = "Points";
-GTCArcLineIbx.Title = "Lines";
-GTCCircleIbx.Title = "Circles";
+GTCArcPlaneIbx.Title = "平面";
+GTCArcPointIbx.Title = "点";
+GTCArcLineIbx.Title = "线";
+GTCCircleIbx.Title = "圆";
 //Veguru Start
-GTCSweepIbx.Title ="Sweeps";
+GTCSweepIbx.Title ="扫掠";
 //Veguru End
 
-GTCFilletIbx.Title = "Fillets";
-GTCGridIbx.Title = "Grids";
-GTCKeepModeIbx.Title = "KeepMode";
-GTCJoinIbx.Title = "Joins";
-GTCBoundaryIbx.Title = "Boundaries";
-GTCSplitIbx.Title = "Splits";
+GTCFilletIbx.Title = "倒圆角";
+GTCGridIbx.Title = "轴网";
+GTCKeepModeIbx.Title = "保持模式";
+GTCJoinIbx.Title = "结合";
+GTCBoundaryIbx.Title = "边界";
+GTCSplitIbx.Title = "修剪";
 GTCTranslateIbx.Title = "Translations";
-GTCSketchIbx.Title = "Sketches";
+GTCSketchIbx.Title = "草图";
 GTCExtrudeIbx.Title = "Extrusions";
 GTCTransformationIbx.Title = "Transformations";
 GTCPatternIbx.Title = "Patterns";
-GTCWireframeAnalysisIbx.Title = "Wireframe Analysis";
+GTCWireframeAnalysisIbx.Title = "线框分析";
 
 GTCObjectRepetitionIbx.Title = "Repetition";
 GTCOpenCatalogIbx.Title = "Open Catalog";
@@ -95,11 +95,11 @@ GTCWireframePatternsIbx.Title = "Wireframe Patterns";
 GTCSolidPatternIbx.Title = "Solid Patterns";
 GTCSolidPatternTlb.Title = "Solid Patterns";
 
-GTCFilletIbx.Title = "Fillet";
-GTCExtrapolateIbx.Title = "Extrapolate";
+GTCFilletIbx.Title = "倒圆角";
+GTCExtrapolateIbx.Title = "外插延时";
 
-GTCSplineIbx.Title = "Spline";
-GTCParallelCurveIbx.Title = "Parallel Curve";
+GTCSplineIbx.Title = "样条曲线";
+GTCParallelCurveIbx.Title = "平行曲线";
 GTCProjectIbx.Title = "Projection";
 
 GTCRemoveFaceIbx.Title = "Remove Face";

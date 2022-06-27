@@ -7,3 +7,4 @@ GTCArcGeoResult = "几何结果";
 GTCArcGridElement = "建筑轴网";
 GTCArcGridFeature = "轴网特征";
 GTCArcSolidResult = "实体结果";
+GTCArcSheet="图纸";

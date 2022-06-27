@@ -7,3 +7,4 @@ GTCArcGeoResult = "Geometry Result";
 GTCArcGridElement = "Grid Element";
 GTCArcGridFeature = "Grid Feature";
 GTCArcSolidResult = "Solid Result";
+GTCArcSheet="Drawing Sheet";
